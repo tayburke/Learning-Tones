@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhuo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zhuǒ by MV2</title>
+  <syllable>zhuo3</syllable>
+  <pinyin>zhuǒ</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>zhuo3_MV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

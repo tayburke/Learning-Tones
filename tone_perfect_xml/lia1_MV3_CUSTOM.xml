@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lia</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>liā by MV3</title>
+  <syllable>lia1</syllable>
+  <pinyin>liā</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>lia1_MV3</identifier>
+  <final>ia</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

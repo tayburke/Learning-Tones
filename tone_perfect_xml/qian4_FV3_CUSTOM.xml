@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qian</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>qiàn by FV3</title>
+  <syllable>qian4</syllable>
+  <pinyin>qiàn</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>歉 歉</character_forms>
+  <character_forms>欠 欠</character_forms>
+  <character>
+    <simplified>歉</simplified>
+    <traditional>歉</traditional>
+  </character>
+  <character>
+    <simplified>欠</simplified>
+    <traditional>欠</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>qian4_FV3</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

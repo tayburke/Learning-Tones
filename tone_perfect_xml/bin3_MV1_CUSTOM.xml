@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bin</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>bǐn by MV1</title>
+  <syllable>bin3</syllable>
+  <pinyin>bǐn</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>bin3_MV1</identifier>
+  <final>in</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

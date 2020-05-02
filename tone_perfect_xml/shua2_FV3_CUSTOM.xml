@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shua</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>shuá by FV3</title>
+  <syllable>shua2</syllable>
+  <pinyin>shuá</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>shua2_FV3</identifier>
+  <final>ua</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

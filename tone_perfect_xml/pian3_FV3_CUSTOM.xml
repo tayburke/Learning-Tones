@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pian</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>piǎn by FV3</title>
+  <syllable>pian3</syllable>
+  <pinyin>piǎn</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>谝 諞</character_forms>
+  <character>
+    <simplified>谝</simplified>
+    <traditional>諞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>pian3_FV3</identifier>
+  <final>ian</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

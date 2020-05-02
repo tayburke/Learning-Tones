@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xue</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>xuē by MV2</title>
+  <syllable>xue1</syllable>
+  <pinyin>xuē</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>薛 薛</character_forms>
+  <character_forms>削 削</character_forms>
+  <character_forms>靴 靴</character_forms>
+  <character>
+    <simplified>薛</simplified>
+    <traditional>薛</traditional>
+  </character>
+  <character>
+    <simplified>削</simplified>
+    <traditional>削</traditional>
+  </character>
+  <character>
+    <simplified>靴</simplified>
+    <traditional>靴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>xue1_MV2</identifier>
+  <final>ue</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

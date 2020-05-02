@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lin</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>lǐn by FV1</title>
+  <syllable>lin3</syllable>
+  <pinyin>lǐn</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>凛 凜</character_forms>
+  <character>
+    <simplified>凛</simplified>
+    <traditional>凜</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>lin3_FV1</identifier>
+  <final>in</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

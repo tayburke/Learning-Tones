@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tuo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>tuǒ by MV2</title>
+  <syllable>tuo3</syllable>
+  <pinyin>tuǒ</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>妥 妥</character_forms>
+  <character>
+    <simplified>妥</simplified>
+    <traditional>妥</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>tuo3_MV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

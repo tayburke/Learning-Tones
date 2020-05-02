@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kei</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>kēi by FV3</title>
+  <syllable>kei1</syllable>
+  <pinyin>kēi</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>尅 尅</character_forms>
+  <character>
+    <simplified>尅</simplified>
+    <traditional>尅</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>kei1_FV3</identifier>
+  <final>ei</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

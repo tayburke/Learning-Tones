@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cuan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>cuán by FV3</title>
+  <syllable>cuan2</syllable>
+  <pinyin>cuán</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>攒 攢</character_forms>
+  <character>
+    <simplified>攒</simplified>
+    <traditional>攢</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>cuan2_FV3</identifier>
+  <final>uan</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

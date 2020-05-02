@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>le</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>lē by FV1</title>
+  <syllable>le1</syllable>
+  <pinyin>lē</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>嘞 嘞</character_forms>
+  <character>
+    <simplified>嘞</simplified>
+    <traditional>嘞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>le1_FV1</identifier>
+  <final>e</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

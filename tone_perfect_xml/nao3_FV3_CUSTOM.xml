@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>nǎo by FV3</title>
+  <syllable>nao3</syllable>
+  <pinyin>nǎo</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>脑 腦</character_forms>
+  <character_forms>恼 惱</character_forms>
+  <character_forms>瑙 瑙</character_forms>
+  <character>
+    <simplified>脑</simplified>
+    <traditional>腦</traditional>
+  </character>
+  <character>
+    <simplified>恼</simplified>
+    <traditional>惱</traditional>
+  </character>
+  <character>
+    <simplified>瑙</simplified>
+    <traditional>瑙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>nao3_FV3</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pian</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>piān by FV2</title>
+  <syllable>pian1</syllable>
+  <pinyin>piān</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>片 片</character_forms>
+  <character_forms>篇 篇</character_forms>
+  <character_forms>偏 偏</character_forms>
+  <character>
+    <simplified>片</simplified>
+    <traditional>片</traditional>
+  </character>
+  <character>
+    <simplified>篇</simplified>
+    <traditional>篇</traditional>
+  </character>
+  <character>
+    <simplified>偏</simplified>
+    <traditional>偏</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>pian1_FV2</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

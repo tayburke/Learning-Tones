@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>guai</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>guāi by MV1</title>
+  <syllable>guai1</syllable>
+  <pinyin>guāi</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>乖 乖</character_forms>
+  <character>
+    <simplified>乖</simplified>
+    <traditional>乖</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>guai1_MV1</identifier>
+  <final>uai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

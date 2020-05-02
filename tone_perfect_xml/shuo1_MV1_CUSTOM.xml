@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shuo</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shuō by MV1</title>
+  <syllable>shuo1</syllable>
+  <pinyin>shuō</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>说 說</character_forms>
+  <character>
+    <simplified>说</simplified>
+    <traditional>說</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>shuo1_MV1</identifier>
+  <final>uo</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

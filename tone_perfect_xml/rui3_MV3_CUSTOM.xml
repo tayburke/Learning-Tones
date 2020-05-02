@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>rui</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>ruǐ by MV3</title>
+  <syllable>rui3</syllable>
+  <pinyin>ruǐ</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>蕊 蕊</character_forms>
+  <character>
+    <simplified>蕊</simplified>
+    <traditional>蕊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>rui3_MV3</identifier>
+  <final>ui</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

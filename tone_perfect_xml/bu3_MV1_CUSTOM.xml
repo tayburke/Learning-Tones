@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>bǔ by MV1</title>
+  <syllable>bu3</syllable>
+  <pinyin>bǔ</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>补 補</character_forms>
+  <character_forms>捕 捕</character_forms>
+  <character_forms>卜 蔔</character_forms>
+  <character>
+    <simplified>补</simplified>
+    <traditional>補</traditional>
+  </character>
+  <character>
+    <simplified>捕</simplified>
+    <traditional>捕</traditional>
+  </character>
+  <character>
+    <simplified>卜</simplified>
+    <traditional>蔔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>bu3_MV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hua</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>huǎ by MV1</title>
+  <syllable>hua3</syllable>
+  <pinyin>huǎ</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>hua3_MV1</identifier>
+  <final>ua</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

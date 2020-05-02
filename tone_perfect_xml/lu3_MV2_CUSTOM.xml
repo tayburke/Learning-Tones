@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>lǔ by MV2</title>
+  <syllable>lu3</syllable>
+  <pinyin>lǔ</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>鲁 魯</character_forms>
+  <character_forms>虏 虜</character_forms>
+  <character_forms>卤 鹵</character_forms>
+  <character>
+    <simplified>鲁</simplified>
+    <traditional>魯</traditional>
+  </character>
+  <character>
+    <simplified>虏</simplified>
+    <traditional>虜</traditional>
+  </character>
+  <character>
+    <simplified>卤</simplified>
+    <traditional>鹵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>lu3_MV2</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

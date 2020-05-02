@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zong</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zǒng by MV2</title>
+  <syllable>zong3</syllable>
+  <pinyin>zǒng</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>总 總</character_forms>
+  <character>
+    <simplified>总</simplified>
+    <traditional>總</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>zong3_MV2</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

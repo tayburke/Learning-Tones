@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>si</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>sī by MV2</title>
+  <syllable>si1</syllable>
+  <pinyin>sī</pinyin>
+  <section>Unknown</section>
+  <initial>si</initial>
+  <character_forms>斯 斯</character_forms>
+  <character_forms>思 思</character_forms>
+  <character_forms>司 司</character_forms>
+  <character>
+    <simplified>斯</simplified>
+    <traditional>斯</traditional>
+  </character>
+  <character>
+    <simplified>思</simplified>
+    <traditional>思</traditional>
+  </character>
+  <character>
+    <simplified>司</simplified>
+    <traditional>司</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>si1_MV2</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

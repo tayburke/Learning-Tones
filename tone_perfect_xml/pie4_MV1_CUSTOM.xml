@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pie</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>piè by MV1</title>
+  <syllable>pie4</syllable>
+  <pinyin>piè</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>pie4_MV1</identifier>
+  <final>ie</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

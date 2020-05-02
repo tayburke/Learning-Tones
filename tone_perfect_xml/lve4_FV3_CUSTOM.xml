@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lve</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>lvè by FV3</title>
+  <syllable>lve4</syllable>
+  <pinyin>lvè</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>掠 掠</character_forms>
+  <character>
+    <simplified>掠</simplified>
+    <traditional>掠</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>lve4_FV3</identifier>
+  <final>ve</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

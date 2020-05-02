@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>pǎng by FV2</title>
+  <syllable>pang3</syllable>
+  <pinyin>pǎng</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>耪 耪</character_forms>
+  <character>
+    <simplified>耪</simplified>
+    <traditional>耪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>pang3_FV2</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

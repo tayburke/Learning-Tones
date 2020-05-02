@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cou</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>cóu by FV3</title>
+  <syllable>cou2</syllable>
+  <pinyin>cóu</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>cou2_FV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

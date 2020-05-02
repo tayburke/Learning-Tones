@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>guo</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>guó by FV2</title>
+  <syllable>guo2</syllable>
+  <pinyin>guó</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>国 國</character_forms>
+  <character>
+    <simplified>国</simplified>
+    <traditional>國</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>guo2_FV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

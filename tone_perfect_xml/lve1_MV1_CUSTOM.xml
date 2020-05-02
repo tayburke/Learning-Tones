@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lve</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>lvē by MV1</title>
+  <syllable>lve1</syllable>
+  <pinyin>lvē</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>lve1_MV1</identifier>
+  <final>ve</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

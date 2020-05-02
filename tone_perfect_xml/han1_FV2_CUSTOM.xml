@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>han</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>hān by FV2</title>
+  <syllable>han1</syllable>
+  <pinyin>hān</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>酣 酣</character_forms>
+  <character>
+    <simplified>酣</simplified>
+    <traditional>酣</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>han1_FV2</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ka</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>kā by MV3</title>
+  <syllable>ka1</syllable>
+  <pinyin>kā</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>咖 咖</character_forms>
+  <character_forms>喀 喀</character_forms>
+  <character>
+    <simplified>咖</simplified>
+    <traditional>咖</traditional>
+  </character>
+  <character>
+    <simplified>喀</simplified>
+    <traditional>喀</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ka1_MV3</identifier>
+  <final>a</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>seng</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sèng by FV2</title>
+  <syllable>seng4</syllable>
+  <pinyin>sèng</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>seng4_FV2</identifier>
+  <final>eng</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

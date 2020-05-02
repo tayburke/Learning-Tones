@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhai</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zhǎi by MV3</title>
+  <syllable>zhai3</syllable>
+  <pinyin>zhǎi</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>窄 窄</character_forms>
+  <character>
+    <simplified>窄</simplified>
+    <traditional>窄</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zhai3_MV3</identifier>
+  <final>ai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

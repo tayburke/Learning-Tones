@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ya</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>yà by FV3</title>
+  <syllable>ya4</syllable>
+  <pinyin>yà</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>亚 亞</character_forms>
+  <character_forms>压 壓</character_forms>
+  <character>
+    <simplified>亚</simplified>
+    <traditional>亞</traditional>
+  </character>
+  <character>
+    <simplified>压</simplified>
+    <traditional>壓</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>ya4_FV3</identifier>
+  <final>ya</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

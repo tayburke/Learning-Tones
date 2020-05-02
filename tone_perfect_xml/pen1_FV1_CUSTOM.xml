@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pen</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>pēn by FV1</title>
+  <syllable>pen1</syllable>
+  <pinyin>pēn</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>喷 噴</character_forms>
+  <character>
+    <simplified>喷</simplified>
+    <traditional>噴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>pen1_FV1</identifier>
+  <final>en</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

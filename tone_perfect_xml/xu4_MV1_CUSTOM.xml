@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xu</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>xù by MV1</title>
+  <syllable>xu4</syllable>
+  <pinyin>xù</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>续 續</character_forms>
+  <character_forms>绪 緒</character_forms>
+  <character_forms>序 序</character_forms>
+  <character>
+    <simplified>续</simplified>
+    <traditional>續</traditional>
+  </character>
+  <character>
+    <simplified>绪</simplified>
+    <traditional>緒</traditional>
+  </character>
+  <character>
+    <simplified>序</simplified>
+    <traditional>序</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>xu4_MV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

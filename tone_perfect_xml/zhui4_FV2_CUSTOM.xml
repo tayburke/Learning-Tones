@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhui</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zhuì by FV2</title>
+  <syllable>zhui4</syllable>
+  <pinyin>zhuì</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>坠 墜</character_forms>
+  <character>
+    <simplified>坠</simplified>
+    <traditional>墜</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>zhui4_FV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>nǒu by MV3</title>
+  <syllable>nou3</syllable>
+  <pinyin>nǒu</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>nou3_MV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

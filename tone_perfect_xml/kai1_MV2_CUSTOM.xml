@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kai</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>kāi by MV2</title>
+  <syllable>kai1</syllable>
+  <pinyin>kāi</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>开 開</character_forms>
+  <character_forms>揩 揩</character_forms>
+  <character>
+    <simplified>开</simplified>
+    <traditional>開</traditional>
+  </character>
+  <character>
+    <simplified>揩</simplified>
+    <traditional>揩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>kai1_MV2</identifier>
+  <final>ai</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

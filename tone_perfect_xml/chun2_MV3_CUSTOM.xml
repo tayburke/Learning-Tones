@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chun</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>chún by MV3</title>
+  <syllable>chun2</syllable>
+  <pinyin>chún</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>纯 純</character_forms>
+  <character_forms>唇 唇</character_forms>
+  <character>
+    <simplified>纯</simplified>
+    <traditional>純</traditional>
+  </character>
+  <character>
+    <simplified>唇</simplified>
+    <traditional>唇</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>chun2_MV3</identifier>
+  <final>un</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

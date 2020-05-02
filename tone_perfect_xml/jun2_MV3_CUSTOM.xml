@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jun</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>jún by MV3</title>
+  <syllable>jun2</syllable>
+  <pinyin>jún</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>jun2_MV3</identifier>
+  <final>un</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

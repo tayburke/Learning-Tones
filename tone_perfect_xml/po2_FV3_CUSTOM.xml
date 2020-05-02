@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>po</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>pó by FV3</title>
+  <syllable>po2</syllable>
+  <pinyin>pó</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>婆 婆</character_forms>
+  <character>
+    <simplified>婆</simplified>
+    <traditional>婆</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>po2_FV3</identifier>
+  <final>o</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

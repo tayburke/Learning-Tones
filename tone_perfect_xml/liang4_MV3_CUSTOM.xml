@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>liang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>liàng by MV3</title>
+  <syllable>liang4</syllable>
+  <pinyin>liàng</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>量 量</character_forms>
+  <character_forms>亮 亮</character_forms>
+  <character_forms>辆 輛</character_forms>
+  <character>
+    <simplified>量</simplified>
+    <traditional>量</traditional>
+  </character>
+  <character>
+    <simplified>亮</simplified>
+    <traditional>亮</traditional>
+  </character>
+  <character>
+    <simplified>辆</simplified>
+    <traditional>輛</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>liang4_MV3</identifier>
+  <final>iang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

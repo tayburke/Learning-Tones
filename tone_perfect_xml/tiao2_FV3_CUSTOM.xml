@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tiao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>tiáo by FV3</title>
+  <syllable>tiao2</syllable>
+  <pinyin>tiáo</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>条 條</character_forms>
+  <character_forms>调 調</character_forms>
+  <character>
+    <simplified>条</simplified>
+    <traditional>條</traditional>
+  </character>
+  <character>
+    <simplified>调</simplified>
+    <traditional>調</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>tiao2_FV3</identifier>
+  <final>iao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

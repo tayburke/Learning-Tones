@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>luo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>luǒ by FV1</title>
+  <syllable>luo3</syllable>
+  <pinyin>luǒ</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>裸 裸</character_forms>
+  <character>
+    <simplified>裸</simplified>
+    <traditional>裸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>luo3_FV1</identifier>
+  <final>uo</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

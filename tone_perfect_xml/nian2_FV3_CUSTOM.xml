@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nian</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>nián by FV3</title>
+  <syllable>nian2</syllable>
+  <pinyin>nián</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>年 年</character_forms>
+  <character>
+    <simplified>年</simplified>
+    <traditional>年</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>nian2_FV3</identifier>
+  <final>ian</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

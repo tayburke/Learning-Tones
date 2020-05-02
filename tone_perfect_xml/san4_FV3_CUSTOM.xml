@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>san</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sàn by FV3</title>
+  <syllable>san4</syllable>
+  <pinyin>sàn</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>散 散</character_forms>
+  <character>
+    <simplified>散</simplified>
+    <traditional>散</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>san4_FV3</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

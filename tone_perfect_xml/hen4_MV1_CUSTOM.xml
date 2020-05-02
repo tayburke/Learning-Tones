@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hen</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>hèn by MV1</title>
+  <syllable>hen4</syllable>
+  <pinyin>hèn</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>恨 恨</character_forms>
+  <character>
+    <simplified>恨</simplified>
+    <traditional>恨</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>hen4_MV1</identifier>
+  <final>en</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

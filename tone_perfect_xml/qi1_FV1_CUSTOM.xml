@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qi</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>qī by FV1</title>
+  <syllable>qi1</syllable>
+  <pinyin>qī</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>七 七</character_forms>
+  <character_forms>期 期</character_forms>
+  <character_forms>妻 妻</character_forms>
+  <character>
+    <simplified>七</simplified>
+    <traditional>七</traditional>
+  </character>
+  <character>
+    <simplified>期</simplified>
+    <traditional>期</traditional>
+  </character>
+  <character>
+    <simplified>妻</simplified>
+    <traditional>妻</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>qi1_FV1</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fei</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>fēi by MV3</title>
+  <syllable>fei1</syllable>
+  <pinyin>fēi</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>飞 飛</character_forms>
+  <character_forms>非 非</character_forms>
+  <character_forms>菲 菲</character_forms>
+  <character>
+    <simplified>飞</simplified>
+    <traditional>飛</traditional>
+  </character>
+  <character>
+    <simplified>非</simplified>
+    <traditional>非</traditional>
+  </character>
+  <character>
+    <simplified>菲</simplified>
+    <traditional>菲</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>fei1_MV3</identifier>
+  <final>ei</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qie</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>qiē by FV1</title>
+  <syllable>qie1</syllable>
+  <pinyin>qiē</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>切 切</character_forms>
+  <character>
+    <simplified>切</simplified>
+    <traditional>切</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>qie1_FV1</identifier>
+  <final>ie</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

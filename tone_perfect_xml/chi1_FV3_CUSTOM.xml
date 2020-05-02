@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chi</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>chī by FV3</title>
+  <syllable>chi1</syllable>
+  <pinyin>chī</pinyin>
+  <section>Unknown</section>
+  <initial>chi</initial>
+  <character_forms>吃 吃</character_forms>
+  <character>
+    <simplified>吃</simplified>
+    <traditional>吃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>chi1_FV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>te</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>tě by FV3</title>
+  <syllable>te3</syllable>
+  <pinyin>tě</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>te3_FV3</identifier>
+  <final>e</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ran</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>ràn by FV1</title>
+  <syllable>ran4</syllable>
+  <pinyin>ràn</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>ran4_FV1</identifier>
+  <final>an</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

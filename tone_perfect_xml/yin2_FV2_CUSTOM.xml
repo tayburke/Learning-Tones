@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yin</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>yín by FV2</title>
+  <syllable>yin2</syllable>
+  <pinyin>yín</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>银 銀</character_forms>
+  <character_forms>吟 吟</character_forms>
+  <character_forms>淫 淫</character_forms>
+  <character>
+    <simplified>银</simplified>
+    <traditional>銀</traditional>
+  </character>
+  <character>
+    <simplified>吟</simplified>
+    <traditional>吟</traditional>
+  </character>
+  <character>
+    <simplified>淫</simplified>
+    <traditional>淫</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>yin2_FV2</identifier>
+  <final>yin</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

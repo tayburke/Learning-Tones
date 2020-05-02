@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ai</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>ài by FV1</title>
+  <syllable>ai4</syllable>
+  <pinyin>ài</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>爱 愛</character_forms>
+  <character_forms>艾 艾</character_forms>
+  <character_forms>唉 唉</character_forms>
+  <character>
+    <simplified>爱</simplified>
+    <traditional>愛</traditional>
+  </character>
+  <character>
+    <simplified>艾</simplified>
+    <traditional>艾</traditional>
+  </character>
+  <character>
+    <simplified>唉</simplified>
+    <traditional>唉</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>ai4_FV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

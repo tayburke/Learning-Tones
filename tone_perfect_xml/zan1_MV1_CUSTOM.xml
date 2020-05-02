@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zān by MV1</title>
+  <syllable>zan1</syllable>
+  <pinyin>zān</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>簪 簪</character_forms>
+  <character>
+    <simplified>簪</simplified>
+    <traditional>簪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>zan1_MV1</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

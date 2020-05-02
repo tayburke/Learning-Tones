@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shai</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shāi by FV3</title>
+  <syllable>shai1</syllable>
+  <pinyin>shāi</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>筛 篩</character_forms>
+  <character>
+    <simplified>筛</simplified>
+    <traditional>篩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>shai1_FV3</identifier>
+  <final>ai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

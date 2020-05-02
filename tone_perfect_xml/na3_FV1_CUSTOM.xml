@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>na</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>nǎ by FV1</title>
+  <syllable>na3</syllable>
+  <pinyin>nǎ</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>哪 哪</character_forms>
+  <character>
+    <simplified>哪</simplified>
+    <traditional>哪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>na3_FV1</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

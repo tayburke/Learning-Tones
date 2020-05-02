@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>yǎng by MV2</title>
+  <syllable>yang3</syllable>
+  <pinyin>yǎng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>养 養</character_forms>
+  <character_forms>仰 仰</character_forms>
+  <character_forms>痒 癢</character_forms>
+  <character>
+    <simplified>养</simplified>
+    <traditional>養</traditional>
+  </character>
+  <character>
+    <simplified>仰</simplified>
+    <traditional>仰</traditional>
+  </character>
+  <character>
+    <simplified>痒</simplified>
+    <traditional>癢</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>yang3_MV2</identifier>
+  <final>yang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

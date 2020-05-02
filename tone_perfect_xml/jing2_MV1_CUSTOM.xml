@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jing</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>jíng by MV1</title>
+  <syllable>jing2</syllable>
+  <pinyin>jíng</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>jing2_MV1</identifier>
+  <final>ing</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

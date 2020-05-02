@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zong</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zōng by MV1</title>
+  <syllable>zong1</syllable>
+  <pinyin>zōng</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>宗 宗</character_forms>
+  <character_forms>踪 蹤</character_forms>
+  <character>
+    <simplified>宗</simplified>
+    <traditional>宗</traditional>
+  </character>
+  <character>
+    <simplified>踪</simplified>
+    <traditional>蹤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>zong1_MV1</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

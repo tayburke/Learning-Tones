@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yi</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>yì by MV1</title>
+  <syllable>yi4</syllable>
+  <pinyin>yì</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>意 意</character_forms>
+  <character_forms>义 義</character_forms>
+  <character_forms>议 議</character_forms>
+  <character>
+    <simplified>意</simplified>
+    <traditional>意</traditional>
+  </character>
+  <character>
+    <simplified>义</simplified>
+    <traditional>義</traditional>
+  </character>
+  <character>
+    <simplified>议</simplified>
+    <traditional>議</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>yi4_MV1</identifier>
+  <final>yi</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

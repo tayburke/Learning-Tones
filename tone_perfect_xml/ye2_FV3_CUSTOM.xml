@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ye</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>yé by FV3</title>
+  <syllable>ye2</syllable>
+  <pinyin>yé</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>爷 爺</character_forms>
+  <character>
+    <simplified>爷</simplified>
+    <traditional>爺</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>ye2_FV3</identifier>
+  <final>ye</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

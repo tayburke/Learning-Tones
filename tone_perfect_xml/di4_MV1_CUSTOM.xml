@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>di</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>dì by MV1</title>
+  <syllable>di4</syllable>
+  <pinyin>dì</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>地 地</character_forms>
+  <character_forms>第 第</character_forms>
+  <character_forms>弟 弟</character_forms>
+  <character>
+    <simplified>地</simplified>
+    <traditional>地</traditional>
+  </character>
+  <character>
+    <simplified>第</simplified>
+    <traditional>第</traditional>
+  </character>
+  <character>
+    <simplified>弟</simplified>
+    <traditional>弟</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>di4_MV1</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

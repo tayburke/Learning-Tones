@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>hǎo by MV2</title>
+  <syllable>hao3</syllable>
+  <pinyin>hǎo</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>好 好</character_forms>
+  <character_forms>郝 郝</character_forms>
+  <character>
+    <simplified>好</simplified>
+    <traditional>好</traditional>
+  </character>
+  <character>
+    <simplified>郝</simplified>
+    <traditional>郝</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>hao3_MV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

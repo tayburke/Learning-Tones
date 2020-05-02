@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jiang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>jiáng by FV2</title>
+  <syllable>jiang2</syllable>
+  <pinyin>jiáng</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>jiang2_FV2</identifier>
+  <final>iang</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ran</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>rǎn by MV3</title>
+  <syllable>ran3</syllable>
+  <pinyin>rǎn</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>染 染</character_forms>
+  <character>
+    <simplified>染</simplified>
+    <traditional>染</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ran3_MV3</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

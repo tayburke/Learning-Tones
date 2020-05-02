@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nve</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>nvè by FV2</title>
+  <syllable>nve4</syllable>
+  <pinyin>nvè</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>虐 虐</character_forms>
+  <character>
+    <simplified>虐</simplified>
+    <traditional>虐</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>nve4_FV2</identifier>
+  <final>ve</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

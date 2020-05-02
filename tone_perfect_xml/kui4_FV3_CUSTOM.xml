@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kui</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>kuì by FV3</title>
+  <syllable>kui4</syllable>
+  <pinyin>kuì</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>愧 愧</character_forms>
+  <character>
+    <simplified>愧</simplified>
+    <traditional>愧</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>kui4_FV3</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nuo</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>nuó by MV3</title>
+  <syllable>nuo2</syllable>
+  <pinyin>nuó</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>挪 挪</character_forms>
+  <character>
+    <simplified>挪</simplified>
+    <traditional>挪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>nuo2_MV3</identifier>
+  <final>uo</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

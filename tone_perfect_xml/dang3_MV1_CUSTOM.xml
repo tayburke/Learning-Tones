@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>dǎng by MV1</title>
+  <syllable>dang3</syllable>
+  <pinyin>dǎng</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>党 黨</character_forms>
+  <character_forms>挡 擋</character_forms>
+  <character>
+    <simplified>党</simplified>
+    <traditional>黨</traditional>
+  </character>
+  <character>
+    <simplified>挡</simplified>
+    <traditional>擋</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>dang3_MV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

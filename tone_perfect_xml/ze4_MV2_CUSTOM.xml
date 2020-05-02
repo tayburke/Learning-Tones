@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ze</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zè by MV2</title>
+  <syllable>ze4</syllable>
+  <pinyin>zè</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>仄 仄</character_forms>
+  <character>
+    <simplified>仄</simplified>
+    <traditional>仄</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ze4_MV2</identifier>
+  <final>e</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

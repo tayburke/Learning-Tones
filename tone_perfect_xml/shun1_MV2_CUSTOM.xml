@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shun</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shūn by MV2</title>
+  <syllable>shun1</syllable>
+  <pinyin>shūn</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>shun1_MV2</identifier>
+  <final>un</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ke</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>kè by FV2</title>
+  <syllable>ke4</syllable>
+  <pinyin>kè</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>克 克</character_forms>
+  <character_forms>刻 刻</character_forms>
+  <character_forms>客 客</character_forms>
+  <character>
+    <simplified>克</simplified>
+    <traditional>克</traditional>
+  </character>
+  <character>
+    <simplified>刻</simplified>
+    <traditional>刻</traditional>
+  </character>
+  <character>
+    <simplified>客</simplified>
+    <traditional>客</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ke4_FV2</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

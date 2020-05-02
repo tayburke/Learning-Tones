@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>gán by FV2</title>
+  <syllable>gan2</syllable>
+  <pinyin>gán</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gan2_FV2</identifier>
+  <final>an</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

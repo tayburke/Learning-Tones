@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qun</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>qùn by MV1</title>
+  <syllable>qun4</syllable>
+  <pinyin>qùn</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>qun4_MV1</identifier>
+  <final>un</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

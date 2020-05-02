@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>re</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>rě by FV3</title>
+  <syllable>re3</syllable>
+  <pinyin>rě</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>惹 惹</character_forms>
+  <character>
+    <simplified>惹</simplified>
+    <traditional>惹</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>re3_FV3</identifier>
+  <final>e</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

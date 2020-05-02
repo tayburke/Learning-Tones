@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tun</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>tǔn by MV3</title>
+  <syllable>tun3</syllable>
+  <pinyin>tǔn</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>氽 氽</character_forms>
+  <character>
+    <simplified>氽</simplified>
+    <traditional>氽</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>tun3_MV3</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

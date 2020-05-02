@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ma</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>mǎ by MV1</title>
+  <syllable>ma3</syllable>
+  <pinyin>mǎ</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>马 馬</character_forms>
+  <character_forms>码 碼</character_forms>
+  <character_forms>玛 瑪</character_forms>
+  <character>
+    <simplified>马</simplified>
+    <traditional>馬</traditional>
+  </character>
+  <character>
+    <simplified>码</simplified>
+    <traditional>碼</traditional>
+  </character>
+  <character>
+    <simplified>玛</simplified>
+    <traditional>瑪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>ma3_MV1</identifier>
+  <final>a</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

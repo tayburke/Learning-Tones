@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zuo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zuǒ by MV3</title>
+  <syllable>zuo3</syllable>
+  <pinyin>zuǒ</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>左 左</character_forms>
+  <character_forms>佐 佐</character_forms>
+  <character>
+    <simplified>左</simplified>
+    <traditional>左</traditional>
+  </character>
+  <character>
+    <simplified>佐</simplified>
+    <traditional>佐</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zuo3_MV3</identifier>
+  <final>uo</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

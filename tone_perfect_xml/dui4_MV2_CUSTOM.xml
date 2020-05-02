@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dui</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>duì by MV2</title>
+  <syllable>dui4</syllable>
+  <pinyin>duì</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>对 對</character_forms>
+  <character_forms>队 隊</character_forms>
+  <character>
+    <simplified>对</simplified>
+    <traditional>對</traditional>
+  </character>
+  <character>
+    <simplified>队</simplified>
+    <traditional>隊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>dui4_MV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zāng by FV3</title>
+  <syllable>zang1</syllable>
+  <pinyin>zāng</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>脏 髒</character_forms>
+  <character>
+    <simplified>脏</simplified>
+    <traditional>髒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zang1_FV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

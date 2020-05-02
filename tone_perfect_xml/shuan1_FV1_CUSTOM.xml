@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shuan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shuān by FV1</title>
+  <syllable>shuan1</syllable>
+  <pinyin>shuān</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>栓 栓</character_forms>
+  <character>
+    <simplified>栓</simplified>
+    <traditional>栓</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>shuan1_FV1</identifier>
+  <final>uan</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

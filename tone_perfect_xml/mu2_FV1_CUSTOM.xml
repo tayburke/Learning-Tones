@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mu</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>mú by FV1</title>
+  <syllable>mu2</syllable>
+  <pinyin>mú</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>模 模</character_forms>
+  <character>
+    <simplified>模</simplified>
+    <traditional>模</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>mu2_FV1</identifier>
+  <final>u</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

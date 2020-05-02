@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zháo by FV3</title>
+  <syllable>zhao2</syllable>
+  <pinyin>zháo</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>着 著</character_forms>
+  <character>
+    <simplified>着</simplified>
+    <traditional>著</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zhao2_FV3</identifier>
+  <final>ao</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

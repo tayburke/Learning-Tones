@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cun</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>cǔn by FV2</title>
+  <syllable>cun3</syllable>
+  <pinyin>cǔn</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>忖 忖</character_forms>
+  <character>
+    <simplified>忖</simplified>
+    <traditional>忖</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>cun3_FV2</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

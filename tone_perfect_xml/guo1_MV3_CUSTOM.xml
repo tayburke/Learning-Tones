@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>guo</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>guō by MV3</title>
+  <syllable>guo1</syllable>
+  <pinyin>guō</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>郭 郭</character_forms>
+  <character_forms>锅 鍋</character_forms>
+  <character>
+    <simplified>郭</simplified>
+    <traditional>郭</traditional>
+  </character>
+  <character>
+    <simplified>锅</simplified>
+    <traditional>鍋</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>guo1_MV3</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

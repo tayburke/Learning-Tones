@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sheng</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shēng by FV3</title>
+  <syllable>sheng1</syllable>
+  <pinyin>shēng</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>生 生</character_forms>
+  <character_forms>声 聲</character_forms>
+  <character_forms>升 升</character_forms>
+  <character>
+    <simplified>生</simplified>
+    <traditional>生</traditional>
+  </character>
+  <character>
+    <simplified>声</simplified>
+    <traditional>聲</traditional>
+  </character>
+  <character>
+    <simplified>升</simplified>
+    <traditional>升</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>sheng1_FV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

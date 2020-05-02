@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shǎn by MV1</title>
+  <syllable>shan3</syllable>
+  <pinyin>shǎn</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>闪 閃</character_forms>
+  <character>
+    <simplified>闪</simplified>
+    <traditional>閃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>shan3_MV1</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

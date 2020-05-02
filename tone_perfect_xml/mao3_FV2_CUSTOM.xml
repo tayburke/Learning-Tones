@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>mǎo by FV2</title>
+  <syllable>mao3</syllable>
+  <pinyin>mǎo</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>卯 卯</character_forms>
+  <character>
+    <simplified>卯</simplified>
+    <traditional>卯</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>mao3_FV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

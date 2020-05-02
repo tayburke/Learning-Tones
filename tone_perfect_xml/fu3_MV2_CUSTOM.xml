@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>fǔ by MV2</title>
+  <syllable>fu3</syllable>
+  <pinyin>fǔ</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>府 府</character_forms>
+  <character_forms>抚 撫</character_forms>
+  <character_forms>甫 甫</character_forms>
+  <character>
+    <simplified>府</simplified>
+    <traditional>府</traditional>
+  </character>
+  <character>
+    <simplified>抚</simplified>
+    <traditional>撫</traditional>
+  </character>
+  <character>
+    <simplified>甫</simplified>
+    <traditional>甫</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>fu3_MV2</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

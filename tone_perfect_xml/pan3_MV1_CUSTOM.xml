@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>pǎn by MV1</title>
+  <syllable>pan3</syllable>
+  <pinyin>pǎn</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>坢 坢</character_forms>
+  <character>
+    <simplified>坢</simplified>
+    <traditional>坢</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>pan3_MV1</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

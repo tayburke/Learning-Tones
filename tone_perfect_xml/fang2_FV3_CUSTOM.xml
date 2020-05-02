@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>fáng by FV3</title>
+  <syllable>fang2</syllable>
+  <pinyin>fáng</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>房 房</character_forms>
+  <character_forms>防 防</character_forms>
+  <character_forms>妨 妨</character_forms>
+  <character>
+    <simplified>房</simplified>
+    <traditional>房</traditional>
+  </character>
+  <character>
+    <simplified>防</simplified>
+    <traditional>防</traditional>
+  </character>
+  <character>
+    <simplified>妨</simplified>
+    <traditional>妨</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>fang2_FV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

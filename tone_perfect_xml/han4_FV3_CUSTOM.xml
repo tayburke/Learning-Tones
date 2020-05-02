@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>han</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>hàn by FV3</title>
+  <syllable>han4</syllable>
+  <pinyin>hàn</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>汉 漢</character_forms>
+  <character_forms>汗 汗</character_forms>
+  <character_forms>旱 旱</character_forms>
+  <character>
+    <simplified>汉</simplified>
+    <traditional>漢</traditional>
+  </character>
+  <character>
+    <simplified>汗</simplified>
+    <traditional>汗</traditional>
+  </character>
+  <character>
+    <simplified>旱</simplified>
+    <traditional>旱</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>han4_FV3</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

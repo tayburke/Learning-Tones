@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tuan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tuān by FV3</title>
+  <syllable>tuan1</syllable>
+  <pinyin>tuān</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>湍 湍</character_forms>
+  <character>
+    <simplified>湍</simplified>
+    <traditional>湍</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>tuan1_FV3</identifier>
+  <final>uan</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

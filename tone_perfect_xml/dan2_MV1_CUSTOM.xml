@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>dán by MV1</title>
+  <syllable>dan2</syllable>
+  <pinyin>dán</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>dan2_MV1</identifier>
+  <final>an</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

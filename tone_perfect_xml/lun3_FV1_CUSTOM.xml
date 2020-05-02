@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lun</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>lǔn by FV1</title>
+  <syllable>lun3</syllable>
+  <pinyin>lǔn</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>lun3_FV1</identifier>
+  <final>un</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

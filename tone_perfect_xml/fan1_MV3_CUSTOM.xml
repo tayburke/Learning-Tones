@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>fān by MV3</title>
+  <syllable>fan1</syllable>
+  <pinyin>fān</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>翻 翻</character_forms>
+  <character_forms>番 番</character_forms>
+  <character_forms>帆 帆</character_forms>
+  <character>
+    <simplified>翻</simplified>
+    <traditional>翻</traditional>
+  </character>
+  <character>
+    <simplified>番</simplified>
+    <traditional>番</traditional>
+  </character>
+  <character>
+    <simplified>帆</simplified>
+    <traditional>帆</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>fan1_MV3</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

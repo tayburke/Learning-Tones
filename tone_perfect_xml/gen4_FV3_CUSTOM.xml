@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gen</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>gèn by FV3</title>
+  <syllable>gen4</syllable>
+  <pinyin>gèn</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>亘 亙</character_forms>
+  <character>
+    <simplified>亘</simplified>
+    <traditional>亙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>gen4_FV3</identifier>
+  <final>en</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

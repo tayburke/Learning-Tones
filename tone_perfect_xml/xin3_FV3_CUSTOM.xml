@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xin</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>xǐn by FV3</title>
+  <syllable>xin3</syllable>
+  <pinyin>xǐn</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>xin3_FV3</identifier>
+  <final>in</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cun</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>cūn by FV2</title>
+  <syllable>cun1</syllable>
+  <pinyin>cūn</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>村 村</character_forms>
+  <character>
+    <simplified>村</simplified>
+    <traditional>村</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>cun1_FV2</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

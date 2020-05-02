@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kuang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>kuǎng by MV2</title>
+  <syllable>kuang3</syllable>
+  <pinyin>kuǎng</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>夼 夼</character_forms>
+  <character>
+    <simplified>夼</simplified>
+    <traditional>夼</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>kuang3_MV2</identifier>
+  <final>uang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>le</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>lē by MV1</title>
+  <syllable>le1</syllable>
+  <pinyin>lē</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>嘞 嘞</character_forms>
+  <character>
+    <simplified>嘞</simplified>
+    <traditional>嘞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>le1_MV1</identifier>
+  <final>e</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

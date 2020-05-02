@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gou</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>gōu by MV2</title>
+  <syllable>gou1</syllable>
+  <pinyin>gōu</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>沟 溝</character_forms>
+  <character_forms>勾 勾</character_forms>
+  <character_forms>钩 鉤</character_forms>
+  <character>
+    <simplified>沟</simplified>
+    <traditional>溝</traditional>
+  </character>
+  <character>
+    <simplified>勾</simplified>
+    <traditional>勾</traditional>
+  </character>
+  <character>
+    <simplified>钩</simplified>
+    <traditional>鉤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>gou1_MV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

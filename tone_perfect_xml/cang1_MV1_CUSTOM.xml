@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>cāng by MV1</title>
+  <syllable>cang1</syllable>
+  <pinyin>cāng</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>苍 蒼</character_forms>
+  <character_forms>舱 艙</character_forms>
+  <character_forms>仓 倉</character_forms>
+  <character>
+    <simplified>苍</simplified>
+    <traditional>蒼</traditional>
+  </character>
+  <character>
+    <simplified>舱</simplified>
+    <traditional>艙</traditional>
+  </character>
+  <character>
+    <simplified>仓</simplified>
+    <traditional>倉</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>cang1_MV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

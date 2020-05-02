@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chai</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>chāi by FV1</title>
+  <syllable>chai1</syllable>
+  <pinyin>chāi</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>差 差</character_forms>
+  <character_forms>拆 拆</character_forms>
+  <character>
+    <simplified>差</simplified>
+    <traditional>差</traditional>
+  </character>
+  <character>
+    <simplified>拆</simplified>
+    <traditional>拆</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>chai1_FV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

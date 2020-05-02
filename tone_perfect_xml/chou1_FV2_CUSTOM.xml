@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chou</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>chōu by FV2</title>
+  <syllable>chou1</syllable>
+  <pinyin>chōu</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>抽 抽</character_forms>
+  <character>
+    <simplified>抽</simplified>
+    <traditional>抽</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>chou1_FV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

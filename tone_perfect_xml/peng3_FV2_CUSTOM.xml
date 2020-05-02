@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>peng</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>pěng by FV2</title>
+  <syllable>peng3</syllable>
+  <pinyin>pěng</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>捧 捧</character_forms>
+  <character>
+    <simplified>捧</simplified>
+    <traditional>捧</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>peng3_FV2</identifier>
+  <final>eng</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>liu</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>liú by FV2</title>
+  <syllable>liu2</syllable>
+  <pinyin>liú</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>流 流</character_forms>
+  <character_forms>留 留</character_forms>
+  <character_forms>刘 劉</character_forms>
+  <character>
+    <simplified>流</simplified>
+    <traditional>流</traditional>
+  </character>
+  <character>
+    <simplified>留</simplified>
+    <traditional>留</traditional>
+  </character>
+  <character>
+    <simplified>刘</simplified>
+    <traditional>劉</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>liu2_FV2</identifier>
+  <final>iu</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

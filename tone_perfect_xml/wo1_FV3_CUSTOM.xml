@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wo</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>wō by FV3</title>
+  <syllable>wo1</syllable>
+  <pinyin>wō</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>窝 窩</character_forms>
+  <character_forms>喔 喔</character_forms>
+  <character>
+    <simplified>窝</simplified>
+    <traditional>窩</traditional>
+  </character>
+  <character>
+    <simplified>喔</simplified>
+    <traditional>喔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>wo1_FV3</identifier>
+  <final>wo</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>wán by MV2</title>
+  <syllable>wan2</syllable>
+  <pinyin>wán</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>完 完</character_forms>
+  <character_forms>玩 玩</character_forms>
+  <character_forms>顽 頑</character_forms>
+  <character>
+    <simplified>完</simplified>
+    <traditional>完</traditional>
+  </character>
+  <character>
+    <simplified>玩</simplified>
+    <traditional>玩</traditional>
+  </character>
+  <character>
+    <simplified>顽</simplified>
+    <traditional>頑</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>wan2_MV2</identifier>
+  <final>wan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

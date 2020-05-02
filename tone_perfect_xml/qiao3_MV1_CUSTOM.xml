@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qiao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>qiǎo by MV1</title>
+  <syllable>qiao3</syllable>
+  <pinyin>qiǎo</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>巧 巧</character_forms>
+  <character>
+    <simplified>巧</simplified>
+    <traditional>巧</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>qiao3_MV1</identifier>
+  <final>iao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

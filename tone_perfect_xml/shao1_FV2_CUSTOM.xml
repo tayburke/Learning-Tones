@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shao</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shāo by FV2</title>
+  <syllable>shao1</syllable>
+  <pinyin>shāo</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>烧 燒</character_forms>
+  <character_forms>稍 稍</character_forms>
+  <character>
+    <simplified>烧</simplified>
+    <traditional>燒</traditional>
+  </character>
+  <character>
+    <simplified>稍</simplified>
+    <traditional>稍</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>shao1_FV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

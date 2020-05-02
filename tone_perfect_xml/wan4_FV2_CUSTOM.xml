@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wan</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>wàn by FV2</title>
+  <syllable>wan4</syllable>
+  <pinyin>wàn</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>万 萬</character_forms>
+  <character_forms>腕 腕</character_forms>
+  <character>
+    <simplified>万</simplified>
+    <traditional>萬</traditional>
+  </character>
+  <character>
+    <simplified>腕</simplified>
+    <traditional>腕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>wan4_FV2</identifier>
+  <final>wan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>han</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>hǎn by MV3</title>
+  <syllable>han3</syllable>
+  <pinyin>hǎn</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>喊 喊</character_forms>
+  <character>
+    <simplified>喊</simplified>
+    <traditional>喊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>han3_MV3</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

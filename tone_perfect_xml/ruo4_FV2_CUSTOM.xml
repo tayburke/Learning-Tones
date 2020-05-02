@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ruo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>ruò by FV2</title>
+  <syllable>ruo4</syllable>
+  <pinyin>ruò</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>若 若</character_forms>
+  <character_forms>弱 弱</character_forms>
+  <character>
+    <simplified>若</simplified>
+    <traditional>若</traditional>
+  </character>
+  <character>
+    <simplified>弱</simplified>
+    <traditional>弱</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ruo4_FV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

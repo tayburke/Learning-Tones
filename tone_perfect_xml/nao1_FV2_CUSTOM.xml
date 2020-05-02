@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nao</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>nāo by FV2</title>
+  <syllable>nao1</syllable>
+  <pinyin>nāo</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>孬 孬</character_forms>
+  <character>
+    <simplified>孬</simplified>
+    <traditional>孬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>nao1_FV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

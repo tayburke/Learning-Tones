@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bai</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>bǎi by FV3</title>
+  <syllable>bai3</syllable>
+  <pinyin>bǎi</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>百 百</character_forms>
+  <character_forms>摆 擺</character_forms>
+  <character_forms>柏 柏</character_forms>
+  <character>
+    <simplified>百</simplified>
+    <traditional>百</traditional>
+  </character>
+  <character>
+    <simplified>摆</simplified>
+    <traditional>擺</traditional>
+  </character>
+  <character>
+    <simplified>柏</simplified>
+    <traditional>柏</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>bai3_FV3</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

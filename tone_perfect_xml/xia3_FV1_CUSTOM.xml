@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xia</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>xiǎ by FV1</title>
+  <syllable>xia3</syllable>
+  <pinyin>xiǎ</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>xia3_FV1</identifier>
+  <final>ia</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

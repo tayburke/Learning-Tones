@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tie</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tiē by FV1</title>
+  <syllable>tie1</syllable>
+  <pinyin>tiē</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>贴 貼</character_forms>
+  <character_forms>帖 帖</character_forms>
+  <character>
+    <simplified>贴</simplified>
+    <traditional>貼</traditional>
+  </character>
+  <character>
+    <simplified>帖</simplified>
+    <traditional>帖</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>tie1_FV1</identifier>
+  <final>ie</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

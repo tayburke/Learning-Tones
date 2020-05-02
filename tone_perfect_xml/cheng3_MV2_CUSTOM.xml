@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cheng</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>chěng by MV2</title>
+  <syllable>cheng3</syllable>
+  <pinyin>chěng</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>逞 逞</character_forms>
+  <character>
+    <simplified>逞</simplified>
+    <traditional>逞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>cheng3_MV2</identifier>
+  <final>eng</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

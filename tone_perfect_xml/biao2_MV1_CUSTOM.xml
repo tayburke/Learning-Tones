@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>biao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>biáo by MV1</title>
+  <syllable>biao2</syllable>
+  <pinyin>biáo</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>biao2_MV1</identifier>
+  <final>iao</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>pái by FV1</title>
+  <syllable>pai2</syllable>
+  <pinyin>pái</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>排 排</character_forms>
+  <character_forms>牌 牌</character_forms>
+  <character_forms>徘 徘</character_forms>
+  <character>
+    <simplified>排</simplified>
+    <traditional>排</traditional>
+  </character>
+  <character>
+    <simplified>牌</simplified>
+    <traditional>牌</traditional>
+  </character>
+  <character>
+    <simplified>徘</simplified>
+    <traditional>徘</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>pai2_FV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

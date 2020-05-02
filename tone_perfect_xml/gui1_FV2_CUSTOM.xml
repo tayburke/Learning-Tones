@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gui</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>guī by FV2</title>
+  <syllable>gui1</syllable>
+  <pinyin>guī</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>规 規</character_forms>
+  <character_forms>归 歸</character_forms>
+  <character_forms>龟 龜</character_forms>
+  <character>
+    <simplified>规</simplified>
+    <traditional>規</traditional>
+  </character>
+  <character>
+    <simplified>归</simplified>
+    <traditional>歸</traditional>
+  </character>
+  <character>
+    <simplified>龟</simplified>
+    <traditional>龜</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gui1_FV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

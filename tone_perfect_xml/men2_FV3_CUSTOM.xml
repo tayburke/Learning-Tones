@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>men</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>mén by FV3</title>
+  <syllable>men2</syllable>
+  <pinyin>mén</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>们 們</character_forms>
+  <character_forms>门 門</character_forms>
+  <character>
+    <simplified>们</simplified>
+    <traditional>們</traditional>
+  </character>
+  <character>
+    <simplified>门</simplified>
+    <traditional>門</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>men2_FV3</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gun</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>gùn by FV1</title>
+  <syllable>gun4</syllable>
+  <pinyin>gùn</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>棍 棍</character_forms>
+  <character>
+    <simplified>棍</simplified>
+    <traditional>棍</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>gun4_FV1</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

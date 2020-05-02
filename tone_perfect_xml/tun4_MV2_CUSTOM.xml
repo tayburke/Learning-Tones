@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tun</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>tùn by MV2</title>
+  <syllable>tun4</syllable>
+  <pinyin>tùn</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>褪 褪</character_forms>
+  <character>
+    <simplified>褪</simplified>
+    <traditional>褪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>tun4_MV2</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

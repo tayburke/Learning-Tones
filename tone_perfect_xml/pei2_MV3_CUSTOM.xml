@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pei</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>péi by MV3</title>
+  <syllable>pei2</syllable>
+  <pinyin>péi</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>陪 陪</character_forms>
+  <character_forms>培 培</character_forms>
+  <character_forms>赔 賠</character_forms>
+  <character>
+    <simplified>陪</simplified>
+    <traditional>陪</traditional>
+  </character>
+  <character>
+    <simplified>培</simplified>
+    <traditional>培</traditional>
+  </character>
+  <character>
+    <simplified>赔</simplified>
+    <traditional>賠</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>pei2_MV3</identifier>
+  <final>ei</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

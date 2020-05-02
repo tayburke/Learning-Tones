@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xue</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>xué by FV2</title>
+  <syllable>xue2</syllable>
+  <pinyin>xué</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>学 學</character_forms>
+  <character_forms>穴 穴</character_forms>
+  <character>
+    <simplified>学</simplified>
+    <traditional>學</traditional>
+  </character>
+  <character>
+    <simplified>穴</simplified>
+    <traditional>穴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>xue2_FV2</identifier>
+  <final>ue</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

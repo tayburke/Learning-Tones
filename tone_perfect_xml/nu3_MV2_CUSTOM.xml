@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>nǔ by MV2</title>
+  <syllable>nu3</syllable>
+  <pinyin>nǔ</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>努 努</character_forms>
+  <character_forms>弩 弩</character_forms>
+  <character>
+    <simplified>努</simplified>
+    <traditional>努</traditional>
+  </character>
+  <character>
+    <simplified>弩</simplified>
+    <traditional>弩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>nu3_MV2</identifier>
+  <final>u</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

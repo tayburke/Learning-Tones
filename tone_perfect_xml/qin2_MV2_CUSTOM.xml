@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qin</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>qín by MV2</title>
+  <syllable>qin2</syllable>
+  <pinyin>qín</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>秦 秦</character_forms>
+  <character_forms>琴 琴</character_forms>
+  <character_forms>勤 勤</character_forms>
+  <character>
+    <simplified>秦</simplified>
+    <traditional>秦</traditional>
+  </character>
+  <character>
+    <simplified>琴</simplified>
+    <traditional>琴</traditional>
+  </character>
+  <character>
+    <simplified>勤</simplified>
+    <traditional>勤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>qin2_MV2</identifier>
+  <final>in</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>bāng by MV2</title>
+  <syllable>bang1</syllable>
+  <pinyin>bāng</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>帮 幫</character_forms>
+  <character_forms>邦 邦</character_forms>
+  <character_forms>傍 傍</character_forms>
+  <character>
+    <simplified>帮</simplified>
+    <traditional>幫</traditional>
+  </character>
+  <character>
+    <simplified>邦</simplified>
+    <traditional>邦</traditional>
+  </character>
+  <character>
+    <simplified>傍</simplified>
+    <traditional>傍</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>bang1_MV2</identifier>
+  <final>ang</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

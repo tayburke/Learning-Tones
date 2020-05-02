@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ti</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tī by FV2</title>
+  <syllable>ti1</syllable>
+  <pinyin>tī</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>梯 梯</character_forms>
+  <character_forms>踢 踢</character_forms>
+  <character_forms>剔 剔</character_forms>
+  <character>
+    <simplified>梯</simplified>
+    <traditional>梯</traditional>
+  </character>
+  <character>
+    <simplified>踢</simplified>
+    <traditional>踢</traditional>
+  </character>
+  <character>
+    <simplified>剔</simplified>
+    <traditional>剔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ti1_FV2</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhen</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhēn by MV3</title>
+  <syllable>zhen1</syllable>
+  <pinyin>zhēn</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>真 真</character_forms>
+  <character_forms>珍 珍</character_forms>
+  <character_forms>针 針</character_forms>
+  <character>
+    <simplified>真</simplified>
+    <traditional>真</traditional>
+  </character>
+  <character>
+    <simplified>珍</simplified>
+    <traditional>珍</traditional>
+  </character>
+  <character>
+    <simplified>针</simplified>
+    <traditional>針</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zhen1_MV3</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

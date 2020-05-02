@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhuang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zhuǎng by FV1</title>
+  <syllable>zhuang3</syllable>
+  <pinyin>zhuǎng</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>奘 奘</character_forms>
+  <character>
+    <simplified>奘</simplified>
+    <traditional>奘</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>zhuang3_FV1</identifier>
+  <final>uang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

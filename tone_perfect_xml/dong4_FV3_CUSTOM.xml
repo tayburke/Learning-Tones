@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dong</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>dòng by FV3</title>
+  <syllable>dong4</syllable>
+  <pinyin>dòng</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>动 動</character_forms>
+  <character_forms>洞 洞</character_forms>
+  <character_forms>冻 凍</character_forms>
+  <character>
+    <simplified>动</simplified>
+    <traditional>動</traditional>
+  </character>
+  <character>
+    <simplified>洞</simplified>
+    <traditional>洞</traditional>
+  </character>
+  <character>
+    <simplified>冻</simplified>
+    <traditional>凍</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>dong4_FV3</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

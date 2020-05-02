@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qiao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>qiáo by MV2</title>
+  <syllable>qiao2</syllable>
+  <pinyin>qiáo</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>瞧 瞧</character_forms>
+  <character_forms>桥 橋</character_forms>
+  <character_forms>乔 喬</character_forms>
+  <character>
+    <simplified>瞧</simplified>
+    <traditional>瞧</traditional>
+  </character>
+  <character>
+    <simplified>桥</simplified>
+    <traditional>橋</traditional>
+  </character>
+  <character>
+    <simplified>乔</simplified>
+    <traditional>喬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>qiao2_MV2</identifier>
+  <final>iao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

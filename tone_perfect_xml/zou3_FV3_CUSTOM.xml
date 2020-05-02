@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zǒu by FV3</title>
+  <syllable>zou3</syllable>
+  <pinyin>zǒu</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>走 走</character_forms>
+  <character>
+    <simplified>走</simplified>
+    <traditional>走</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zou3_FV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

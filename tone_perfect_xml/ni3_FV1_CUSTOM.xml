@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ni</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>nǐ by FV1</title>
+  <syllable>ni3</syllable>
+  <pinyin>nǐ</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>你 你</character_forms>
+  <character_forms>拟 擬</character_forms>
+  <character>
+    <simplified>你</simplified>
+    <traditional>你</traditional>
+  </character>
+  <character>
+    <simplified>拟</simplified>
+    <traditional>擬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>ni3_FV1</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

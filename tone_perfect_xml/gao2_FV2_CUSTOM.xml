@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>gáo by FV2</title>
+  <syllable>gao2</syllable>
+  <pinyin>gáo</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gao2_FV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

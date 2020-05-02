@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhuang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zhuàng by FV2</title>
+  <syllable>zhuang4</syllable>
+  <pinyin>zhuàng</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>壮 壯</character_forms>
+  <character_forms>壮 壯</character_forms>
+  <character_forms>撞 撞</character_forms>
+  <character>
+    <simplified>壮</simplified>
+    <traditional>壯</traditional>
+  </character>
+  <character>
+    <simplified>壮</simplified>
+    <traditional>壯</traditional>
+  </character>
+  <character>
+    <simplified>撞</simplified>
+    <traditional>撞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>zhuang4_FV2</identifier>
+  <final>uang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

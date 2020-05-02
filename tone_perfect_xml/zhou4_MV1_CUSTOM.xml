@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhou</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zhòu by MV1</title>
+  <syllable>zhou4</syllable>
+  <pinyin>zhòu</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>皱 皺</character_forms>
+  <character_forms>宙 宙</character_forms>
+  <character>
+    <simplified>皱</simplified>
+    <traditional>皺</traditional>
+  </character>
+  <character>
+    <simplified>宙</simplified>
+    <traditional>宙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>zhou4_MV1</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

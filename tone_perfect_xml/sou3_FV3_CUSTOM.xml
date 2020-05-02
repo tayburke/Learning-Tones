@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>sǒu by FV3</title>
+  <syllable>sou3</syllable>
+  <pinyin>sǒu</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>叟 叟</character_forms>
+  <character_forms>擞 擻</character_forms>
+  <character>
+    <simplified>叟</simplified>
+    <traditional>叟</traditional>
+  </character>
+  <character>
+    <simplified>擞</simplified>
+    <traditional>擻</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>sou3_FV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

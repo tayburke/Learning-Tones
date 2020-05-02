@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>huang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>huàng by FV2</title>
+  <syllable>huang4</syllable>
+  <pinyin>huàng</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>晃 晃</character_forms>
+  <character>
+    <simplified>晃</simplified>
+    <traditional>晃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>huang4_FV2</identifier>
+  <final>uang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

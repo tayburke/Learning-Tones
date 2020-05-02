@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ba</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>bā by MV3</title>
+  <syllable>ba1</syllable>
+  <pinyin>bā</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>八 八</character_forms>
+  <character_forms>吧 吧</character_forms>
+  <character_forms>巴 巴</character_forms>
+  <character>
+    <simplified>八</simplified>
+    <traditional>八</traditional>
+  </character>
+  <character>
+    <simplified>吧</simplified>
+    <traditional>吧</traditional>
+  </character>
+  <character>
+    <simplified>巴</simplified>
+    <traditional>巴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ba1_MV3</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

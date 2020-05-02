@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qie</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>qiě by FV3</title>
+  <syllable>qie3</syllable>
+  <pinyin>qiě</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>且 且</character_forms>
+  <character>
+    <simplified>且</simplified>
+    <traditional>且</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>qie3_FV3</identifier>
+  <final>ie</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

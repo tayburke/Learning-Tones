@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pa</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>pá by FV1</title>
+  <syllable>pa2</syllable>
+  <pinyin>pá</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>爬 爬</character_forms>
+  <character_forms>扒 扒</character_forms>
+  <character>
+    <simplified>爬</simplified>
+    <traditional>爬</traditional>
+  </character>
+  <character>
+    <simplified>扒</simplified>
+    <traditional>扒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>pa2_FV1</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

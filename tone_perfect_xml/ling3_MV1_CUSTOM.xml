@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ling</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>lǐng by MV1</title>
+  <syllable>ling3</syllable>
+  <pinyin>lǐng</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>领 領</character_forms>
+  <character_forms>岭 嶺</character_forms>
+  <character>
+    <simplified>领</simplified>
+    <traditional>領</traditional>
+  </character>
+  <character>
+    <simplified>岭</simplified>
+    <traditional>嶺</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>ling3_MV1</identifier>
+  <final>ing</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

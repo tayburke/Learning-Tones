@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xin</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>xīn by MV3</title>
+  <syllable>xin1</syllable>
+  <pinyin>xīn</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>心 心</character_forms>
+  <character_forms>新 新</character_forms>
+  <character_forms>辛 辛</character_forms>
+  <character>
+    <simplified>心</simplified>
+    <traditional>心</traditional>
+  </character>
+  <character>
+    <simplified>新</simplified>
+    <traditional>新</traditional>
+  </character>
+  <character>
+    <simplified>辛</simplified>
+    <traditional>辛</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>xin1_MV3</identifier>
+  <final>in</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

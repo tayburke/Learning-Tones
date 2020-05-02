@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>san</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>sān by MV1</title>
+  <syllable>san1</syllable>
+  <pinyin>sān</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>三 三</character_forms>
+  <character>
+    <simplified>三</simplified>
+    <traditional>三</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>san1_MV1</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

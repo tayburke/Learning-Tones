@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qia</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>qià by FV2</title>
+  <syllable>qia4</syllable>
+  <pinyin>qià</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>恰 恰</character_forms>
+  <character>
+    <simplified>恰</simplified>
+    <traditional>恰</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>qia4_FV2</identifier>
+  <final>ia</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

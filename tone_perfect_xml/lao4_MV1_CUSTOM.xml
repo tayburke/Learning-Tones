@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lao</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>lào by MV1</title>
+  <syllable>lao4</syllable>
+  <pinyin>lào</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>唠 嘮</character_forms>
+  <character_forms>烙 烙</character_forms>
+  <character_forms>酪 酪</character_forms>
+  <character>
+    <simplified>唠</simplified>
+    <traditional>嘮</traditional>
+  </character>
+  <character>
+    <simplified>烙</simplified>
+    <traditional>烙</traditional>
+  </character>
+  <character>
+    <simplified>酪</simplified>
+    <traditional>酪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>lao4_MV1</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

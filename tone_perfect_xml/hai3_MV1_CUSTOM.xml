@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hai</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>hǎi by MV1</title>
+  <syllable>hai3</syllable>
+  <pinyin>hǎi</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>海 海</character_forms>
+  <character>
+    <simplified>海</simplified>
+    <traditional>海</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>hai3_MV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

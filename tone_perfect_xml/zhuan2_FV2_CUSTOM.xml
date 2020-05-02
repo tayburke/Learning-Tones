@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhuan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zhuán by FV2</title>
+  <syllable>zhuan2</syllable>
+  <pinyin>zhuán</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>zhuan2_FV2</identifier>
+  <final>uan</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

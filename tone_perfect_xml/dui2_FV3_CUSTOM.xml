@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dui</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>duí by FV3</title>
+  <syllable>dui2</syllable>
+  <pinyin>duí</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>dui2_FV3</identifier>
+  <final>ui</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

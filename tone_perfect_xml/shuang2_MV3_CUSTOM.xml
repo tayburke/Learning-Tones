@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shuang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>shuáng by MV3</title>
+  <syllable>shuang2</syllable>
+  <pinyin>shuáng</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>shuang2_MV3</identifier>
+  <final>uang</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

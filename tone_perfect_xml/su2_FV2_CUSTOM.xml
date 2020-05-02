@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>su</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>sú by FV2</title>
+  <syllable>su2</syllable>
+  <pinyin>sú</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>俗 俗</character_forms>
+  <character>
+    <simplified>俗</simplified>
+    <traditional>俗</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>su2_FV2</identifier>
+  <final>u</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

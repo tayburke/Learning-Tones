@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>nū by MV2</title>
+  <syllable>nu1</syllable>
+  <pinyin>nū</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>nu1_MV2</identifier>
+  <final>u</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

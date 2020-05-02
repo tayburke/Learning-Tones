@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shen</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>shén by MV2</title>
+  <syllable>shen2</syllable>
+  <pinyin>shén</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>神 神</character_forms>
+  <character>
+    <simplified>神</simplified>
+    <traditional>神</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>shen2_MV2</identifier>
+  <final>en</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

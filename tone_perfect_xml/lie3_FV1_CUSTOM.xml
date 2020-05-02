@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lie</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>liě by FV1</title>
+  <syllable>lie3</syllable>
+  <pinyin>liě</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>咧 咧</character_forms>
+  <character>
+    <simplified>咧</simplified>
+    <traditional>咧</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>lie3_FV1</identifier>
+  <final>ie</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

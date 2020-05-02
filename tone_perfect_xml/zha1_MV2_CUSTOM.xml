@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zha</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhā by MV2</title>
+  <syllable>zha1</syllable>
+  <pinyin>zhā</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>扎 紮</character_forms>
+  <character>
+    <simplified>扎</simplified>
+    <traditional>紮</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>zha1_MV2</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

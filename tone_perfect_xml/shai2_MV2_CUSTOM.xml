@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>shái by MV2</title>
+  <syllable>shai2</syllable>
+  <pinyin>shái</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>shai2_MV2</identifier>
+  <final>ai</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

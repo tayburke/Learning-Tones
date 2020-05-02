@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>cháo by FV2</title>
+  <syllable>chao2</syllable>
+  <pinyin>cháo</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>朝 朝</character_forms>
+  <character_forms>潮 潮</character_forms>
+  <character>
+    <simplified>朝</simplified>
+    <traditional>朝</traditional>
+  </character>
+  <character>
+    <simplified>潮</simplified>
+    <traditional>潮</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>chao2_FV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

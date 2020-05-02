@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>bǎo by MV1</title>
+  <syllable>bao3</syllable>
+  <pinyin>bǎo</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>保 保</character_forms>
+  <character_forms>宝 寶</character_forms>
+  <character_forms>堡 堡</character_forms>
+  <character>
+    <simplified>保</simplified>
+    <traditional>保</traditional>
+  </character>
+  <character>
+    <simplified>宝</simplified>
+    <traditional>寶</traditional>
+  </character>
+  <character>
+    <simplified>堡</simplified>
+    <traditional>堡</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>bao3_MV1</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

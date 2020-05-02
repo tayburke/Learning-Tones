@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fen</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>fèn by FV3</title>
+  <syllable>fen4</syllable>
+  <pinyin>fèn</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>份 份</character_forms>
+  <character_forms>奋 奮</character_forms>
+  <character_forms>愤 憤</character_forms>
+  <character>
+    <simplified>份</simplified>
+    <traditional>份</traditional>
+  </character>
+  <character>
+    <simplified>奋</simplified>
+    <traditional>奮</traditional>
+  </character>
+  <character>
+    <simplified>愤</simplified>
+    <traditional>憤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>fen4_FV3</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

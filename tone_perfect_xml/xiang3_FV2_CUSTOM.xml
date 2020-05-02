@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xiang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>xiǎng by FV2</title>
+  <syllable>xiang3</syllable>
+  <pinyin>xiǎng</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>想 想</character_forms>
+  <character_forms>响 響</character_forms>
+  <character_forms>享 享</character_forms>
+  <character>
+    <simplified>想</simplified>
+    <traditional>想</traditional>
+  </character>
+  <character>
+    <simplified>响</simplified>
+    <traditional>響</traditional>
+  </character>
+  <character>
+    <simplified>享</simplified>
+    <traditional>享</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>xiang3_FV2</identifier>
+  <final>iang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

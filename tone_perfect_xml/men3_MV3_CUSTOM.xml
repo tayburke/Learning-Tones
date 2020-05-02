@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>men</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>měn by MV3</title>
+  <syllable>men3</syllable>
+  <pinyin>měn</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>men3_MV3</identifier>
+  <final>en</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

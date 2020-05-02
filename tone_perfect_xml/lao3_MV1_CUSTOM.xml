@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>lǎo by MV1</title>
+  <syllable>lao3</syllable>
+  <pinyin>lǎo</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>老 老</character_forms>
+  <character_forms>姥 姥</character_forms>
+  <character_forms>佬 佬</character_forms>
+  <character>
+    <simplified>老</simplified>
+    <traditional>老</traditional>
+  </character>
+  <character>
+    <simplified>姥</simplified>
+    <traditional>姥</traditional>
+  </character>
+  <character>
+    <simplified>佬</simplified>
+    <traditional>佬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>lao3_MV1</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

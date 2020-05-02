@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sa</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>sā by FV3</title>
+  <syllable>sa1</syllable>
+  <pinyin>sā</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>撒 撒</character_forms>
+  <character>
+    <simplified>撒</simplified>
+    <traditional>撒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>sa1_FV3</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

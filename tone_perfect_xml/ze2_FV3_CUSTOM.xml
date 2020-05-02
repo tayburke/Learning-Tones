@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ze</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zé by FV3</title>
+  <syllable>ze2</syllable>
+  <pinyin>zé</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>则 則</character_forms>
+  <character_forms>责 責</character_forms>
+  <character_forms>泽 澤</character_forms>
+  <character>
+    <simplified>则</simplified>
+    <traditional>則</traditional>
+  </character>
+  <character>
+    <simplified>责</simplified>
+    <traditional>責</traditional>
+  </character>
+  <character>
+    <simplified>泽</simplified>
+    <traditional>澤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>ze2_FV3</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

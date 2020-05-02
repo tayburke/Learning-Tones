@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dun</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>dǔn by FV1</title>
+  <syllable>dun3</syllable>
+  <pinyin>dǔn</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>盹 盹</character_forms>
+  <character>
+    <simplified>盹</simplified>
+    <traditional>盹</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>dun3_FV1</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

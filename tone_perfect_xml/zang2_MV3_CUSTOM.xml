@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>záng by MV3</title>
+  <syllable>zang2</syllable>
+  <pinyin>záng</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zang2_MV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

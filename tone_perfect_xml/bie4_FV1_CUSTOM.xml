@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bie</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>biè by FV1</title>
+  <syllable>bie4</syllable>
+  <pinyin>biè</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>别 別</character_forms>
+  <character>
+    <simplified>别</simplified>
+    <traditional>別</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>bie4_FV1</identifier>
+  <final>ie</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

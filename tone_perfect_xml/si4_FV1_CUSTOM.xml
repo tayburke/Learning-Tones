@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>si</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sì by FV1</title>
+  <syllable>si4</syllable>
+  <pinyin>sì</pinyin>
+  <section>Unknown</section>
+  <initial>si</initial>
+  <character_forms>四 四</character_forms>
+  <character_forms>似 似</character_forms>
+  <character_forms>寺 寺</character_forms>
+  <character>
+    <simplified>四</simplified>
+    <traditional>四</traditional>
+  </character>
+  <character>
+    <simplified>似</simplified>
+    <traditional>似</traditional>
+  </character>
+  <character>
+    <simplified>寺</simplified>
+    <traditional>寺</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>si4_FV1</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

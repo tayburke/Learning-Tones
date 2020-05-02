@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wu</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>wù by MV2</title>
+  <syllable>wu4</syllable>
+  <pinyin>wù</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>物 物</character_forms>
+  <character_forms>务 務</character_forms>
+  <character_forms>误 誤</character_forms>
+  <character>
+    <simplified>物</simplified>
+    <traditional>物</traditional>
+  </character>
+  <character>
+    <simplified>务</simplified>
+    <traditional>務</traditional>
+  </character>
+  <character>
+    <simplified>误</simplified>
+    <traditional>誤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>wu4_MV2</identifier>
+  <final>wu</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qiong</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>qióng by FV2</title>
+  <syllable>qiong2</syllable>
+  <pinyin>qióng</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>穷 窮</character_forms>
+  <character>
+    <simplified>穷</simplified>
+    <traditional>窮</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>qiong2_FV2</identifier>
+  <final>iong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

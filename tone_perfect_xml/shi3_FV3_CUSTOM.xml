@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shi</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shǐ by FV3</title>
+  <syllable>shi3</syllable>
+  <pinyin>shǐ</pinyin>
+  <section>Unknown</section>
+  <initial>shi</initial>
+  <character_forms>使 使</character_forms>
+  <character_forms>始 始</character_forms>
+  <character_forms>史 史</character_forms>
+  <character>
+    <simplified>使</simplified>
+    <traditional>使</traditional>
+  </character>
+  <character>
+    <simplified>始</simplified>
+    <traditional>始</traditional>
+  </character>
+  <character>
+    <simplified>史</simplified>
+    <traditional>史</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>shi3_FV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>nǎng by FV1</title>
+  <syllable>nang3</syllable>
+  <pinyin>nǎng</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>攮 攮</character_forms>
+  <character>
+    <simplified>攮</simplified>
+    <traditional>攮</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>nang3_FV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

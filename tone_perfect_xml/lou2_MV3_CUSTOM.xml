@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lou</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>lóu by MV3</title>
+  <syllable>lou2</syllable>
+  <pinyin>lóu</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>楼 樓</character_forms>
+  <character_forms>喽 嘍</character_forms>
+  <character_forms>髅 髏</character_forms>
+  <character>
+    <simplified>楼</simplified>
+    <traditional>樓</traditional>
+  </character>
+  <character>
+    <simplified>喽</simplified>
+    <traditional>嘍</traditional>
+  </character>
+  <character>
+    <simplified>髅</simplified>
+    <traditional>髏</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>lou2_MV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

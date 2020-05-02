@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jiong</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>jiǒng by FV3</title>
+  <syllable>jiong3</syllable>
+  <pinyin>jiǒng</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>炯 炯</character_forms>
+  <character>
+    <simplified>炯</simplified>
+    <traditional>炯</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>jiong3_FV3</identifier>
+  <final>iong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

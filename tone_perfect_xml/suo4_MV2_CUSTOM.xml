@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>suo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>suò by MV2</title>
+  <syllable>suo4</syllable>
+  <pinyin>suò</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>逤 逤</character_forms>
+  <character>
+    <simplified>逤</simplified>
+    <traditional>逤</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>suo4_MV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

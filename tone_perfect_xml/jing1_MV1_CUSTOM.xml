@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jing</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>jīng by MV1</title>
+  <syllable>jing1</syllable>
+  <pinyin>jīng</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>经 經</character_forms>
+  <character_forms>惊 驚</character_forms>
+  <character_forms>精 精</character_forms>
+  <character>
+    <simplified>经</simplified>
+    <traditional>經</traditional>
+  </character>
+  <character>
+    <simplified>惊</simplified>
+    <traditional>驚</traditional>
+  </character>
+  <character>
+    <simplified>精</simplified>
+    <traditional>精</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>jing1_MV1</identifier>
+  <final>ing</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

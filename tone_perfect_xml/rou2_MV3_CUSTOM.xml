@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>rou</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>róu by MV3</title>
+  <syllable>rou2</syllable>
+  <pinyin>róu</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>柔 柔</character_forms>
+  <character>
+    <simplified>柔</simplified>
+    <traditional>柔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>rou2_MV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tie</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>tié by FV1</title>
+  <syllable>tie2</syllable>
+  <pinyin>tié</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>tie2_FV1</identifier>
+  <final>ie</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

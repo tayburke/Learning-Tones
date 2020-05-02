@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shǎng by MV2</title>
+  <syllable>shang3</syllable>
+  <pinyin>shǎng</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>赏 賞</character_forms>
+  <character>
+    <simplified>赏</simplified>
+    <traditional>賞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>shang3_MV2</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

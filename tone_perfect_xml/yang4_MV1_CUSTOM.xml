@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>yàng by MV1</title>
+  <syllable>yang4</syllable>
+  <pinyin>yàng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>样 樣</character_forms>
+  <character_forms>漾 漾</character_forms>
+  <character_forms>恙 恙</character_forms>
+  <character>
+    <simplified>样</simplified>
+    <traditional>樣</traditional>
+  </character>
+  <character>
+    <simplified>漾</simplified>
+    <traditional>漾</traditional>
+  </character>
+  <character>
+    <simplified>恙</simplified>
+    <traditional>恙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>yang4_MV1</identifier>
+  <final>yang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

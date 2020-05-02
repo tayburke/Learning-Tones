@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qu</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>qù by MV3</title>
+  <syllable>qu4</syllable>
+  <pinyin>qù</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>去 去</character_forms>
+  <character_forms>趣 趣</character_forms>
+  <character>
+    <simplified>去</simplified>
+    <traditional>去</traditional>
+  </character>
+  <character>
+    <simplified>趣</simplified>
+    <traditional>趣</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>qu4_MV3</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

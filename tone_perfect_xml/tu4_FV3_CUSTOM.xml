@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tu</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>tù by FV3</title>
+  <syllable>tu4</syllable>
+  <pinyin>tù</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>吐 吐</character_forms>
+  <character_forms>兔 兔</character_forms>
+  <character>
+    <simplified>吐</simplified>
+    <traditional>吐</traditional>
+  </character>
+  <character>
+    <simplified>兔</simplified>
+    <traditional>兔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>tu4_FV3</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

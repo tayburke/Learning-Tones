@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kui</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>kuí by MV2</title>
+  <syllable>kui2</syllable>
+  <pinyin>kuí</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>魁 魁</character_forms>
+  <character>
+    <simplified>魁</simplified>
+    <traditional>魁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>kui2_MV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

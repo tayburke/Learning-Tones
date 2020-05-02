@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lian</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>liàn by MV2</title>
+  <syllable>lian4</syllable>
+  <pinyin>liàn</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>练 練</character_forms>
+  <character_forms>恋 戀</character_forms>
+  <character>
+    <simplified>练</simplified>
+    <traditional>練</traditional>
+  </character>
+  <character>
+    <simplified>恋</simplified>
+    <traditional>戀</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>lian4_MV2</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

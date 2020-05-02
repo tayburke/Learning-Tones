@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>en</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>èn by MV2</title>
+  <syllable>en4</syllable>
+  <pinyin>èn</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>摁 摁</character_forms>
+  <character>
+    <simplified>摁</simplified>
+    <traditional>摁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>en4_MV2</identifier>
+  <final>en</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

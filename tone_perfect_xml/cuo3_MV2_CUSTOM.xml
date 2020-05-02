@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cuo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>cuǒ by MV2</title>
+  <syllable>cuo3</syllable>
+  <pinyin>cuǒ</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>脞 脞</character_forms>
+  <character>
+    <simplified>脞</simplified>
+    <traditional>脞</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>cuo3_MV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

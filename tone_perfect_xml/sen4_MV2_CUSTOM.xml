@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sen</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sèn by MV2</title>
+  <syllable>sen4</syllable>
+  <pinyin>sèn</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>sen4_MV2</identifier>
+  <final>en</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

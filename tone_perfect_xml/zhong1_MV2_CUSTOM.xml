@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhong</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhōng by MV2</title>
+  <syllable>zhong1</syllable>
+  <pinyin>zhōng</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>中 中</character_forms>
+  <character_forms>终 終</character_forms>
+  <character_forms>钟 鐘</character_forms>
+  <character>
+    <simplified>中</simplified>
+    <traditional>中</traditional>
+  </character>
+  <character>
+    <simplified>终</simplified>
+    <traditional>終</traditional>
+  </character>
+  <character>
+    <simplified>钟</simplified>
+    <traditional>鐘</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>zhong1_MV2</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

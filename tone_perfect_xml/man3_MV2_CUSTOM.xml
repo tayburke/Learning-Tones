@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>man</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>mǎn by MV2</title>
+  <syllable>man3</syllable>
+  <pinyin>mǎn</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>满 滿</character_forms>
+  <character_forms>螨 蟎</character_forms>
+  <character>
+    <simplified>满</simplified>
+    <traditional>滿</traditional>
+  </character>
+  <character>
+    <simplified>螨</simplified>
+    <traditional>蟎</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>man3_MV2</identifier>
+  <final>an</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

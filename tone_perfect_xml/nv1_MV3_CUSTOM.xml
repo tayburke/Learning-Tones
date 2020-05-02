@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nv</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>nǖ by MV3</title>
+  <syllable>nv1</syllable>
+  <pinyin>nǖ</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>nv1_MV3</identifier>
+  <final>v</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

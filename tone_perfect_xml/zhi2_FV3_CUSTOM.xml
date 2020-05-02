@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhi</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zhí by FV3</title>
+  <syllable>zhi2</syllable>
+  <pinyin>zhí</pinyin>
+  <section>Unknown</section>
+  <initial>zhi</initial>
+  <character_forms>直 直</character_forms>
+  <character_forms>职 職</character_forms>
+  <character_forms>值 值</character_forms>
+  <character>
+    <simplified>直</simplified>
+    <traditional>直</traditional>
+  </character>
+  <character>
+    <simplified>职</simplified>
+    <traditional>職</traditional>
+  </character>
+  <character>
+    <simplified>值</simplified>
+    <traditional>值</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zhi2_FV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

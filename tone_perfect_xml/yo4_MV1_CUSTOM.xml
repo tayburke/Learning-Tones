@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>yò by MV1</title>
+  <syllable>yo4</syllable>
+  <pinyin>yò</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>yo4_MV1</identifier>
+  <final>yo</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

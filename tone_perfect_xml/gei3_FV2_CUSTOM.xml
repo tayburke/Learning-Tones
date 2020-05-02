@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gei</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>gěi by FV2</title>
+  <syllable>gei3</syllable>
+  <pinyin>gěi</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>给 給</character_forms>
+  <character>
+    <simplified>给</simplified>
+    <traditional>給</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gei3_FV2</identifier>
+  <final>ei</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

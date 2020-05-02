@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kun</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>kǔn by MV2</title>
+  <syllable>kun3</syllable>
+  <pinyin>kǔn</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>捆 捆</character_forms>
+  <character>
+    <simplified>捆</simplified>
+    <traditional>捆</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>kun3_MV2</identifier>
+  <final>un</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

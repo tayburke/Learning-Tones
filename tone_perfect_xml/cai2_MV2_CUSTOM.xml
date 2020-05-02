@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>cái by MV2</title>
+  <syllable>cai2</syllable>
+  <pinyin>cái</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>才 才</character_forms>
+  <character_forms>财 財</character_forms>
+  <character_forms>材 材</character_forms>
+  <character>
+    <simplified>才</simplified>
+    <traditional>才</traditional>
+  </character>
+  <character>
+    <simplified>财</simplified>
+    <traditional>財</traditional>
+  </character>
+  <character>
+    <simplified>材</simplified>
+    <traditional>材</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>cai2_MV2</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

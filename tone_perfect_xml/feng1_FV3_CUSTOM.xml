@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>feng</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>fēng by FV3</title>
+  <syllable>feng1</syllable>
+  <pinyin>fēng</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>风 風</character_forms>
+  <character_forms>封 封</character_forms>
+  <character_forms>丰 豐</character_forms>
+  <character>
+    <simplified>风</simplified>
+    <traditional>風</traditional>
+  </character>
+  <character>
+    <simplified>封</simplified>
+    <traditional>封</traditional>
+  </character>
+  <character>
+    <simplified>丰</simplified>
+    <traditional>豐</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>feng1_FV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

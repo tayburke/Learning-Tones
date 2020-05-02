@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gua</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>guá by MV3</title>
+  <syllable>gua2</syllable>
+  <pinyin>guá</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>gua2_MV3</identifier>
+  <final>ua</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

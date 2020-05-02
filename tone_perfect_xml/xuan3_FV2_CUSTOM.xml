@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xuan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>xuǎn by FV2</title>
+  <syllable>xuan3</syllable>
+  <pinyin>xuǎn</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>选 選</character_forms>
+  <character>
+    <simplified>选</simplified>
+    <traditional>選</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>xuan3_FV2</identifier>
+  <final>uan</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

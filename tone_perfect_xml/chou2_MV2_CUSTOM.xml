@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chou</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>chóu by MV2</title>
+  <syllable>chou2</syllable>
+  <pinyin>chóu</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>仇 仇</character_forms>
+  <character_forms>愁 愁</character_forms>
+  <character>
+    <simplified>仇</simplified>
+    <traditional>仇</traditional>
+  </character>
+  <character>
+    <simplified>愁</simplified>
+    <traditional>愁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>chou2_MV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

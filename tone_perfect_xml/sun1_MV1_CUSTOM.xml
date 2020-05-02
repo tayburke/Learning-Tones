@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sun</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>sūn by MV1</title>
+  <syllable>sun1</syllable>
+  <pinyin>sūn</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>孙 孫</character_forms>
+  <character>
+    <simplified>孙</simplified>
+    <traditional>孫</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>sun1_MV1</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

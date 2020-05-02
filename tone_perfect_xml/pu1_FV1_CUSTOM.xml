@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>pū by FV1</title>
+  <syllable>pu1</syllable>
+  <pinyin>pū</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>扑 撲</character_forms>
+  <character_forms>铺 鋪</character_forms>
+  <character_forms>噗 噗</character_forms>
+  <character>
+    <simplified>扑</simplified>
+    <traditional>撲</traditional>
+  </character>
+  <character>
+    <simplified>铺</simplified>
+    <traditional>鋪</traditional>
+  </character>
+  <character>
+    <simplified>噗</simplified>
+    <traditional>噗</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>pu1_FV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

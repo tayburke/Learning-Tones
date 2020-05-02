@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>weng</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>wěng by FV1</title>
+  <syllable>weng3</syllable>
+  <pinyin>wěng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>聬 聬</character_forms>
+  <character>
+    <simplified>聬</simplified>
+    <traditional>聬</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>weng3_FV1</identifier>
+  <final>weng</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

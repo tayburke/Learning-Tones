@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lei</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>léi by MV1</title>
+  <syllable>lei2</syllable>
+  <pinyin>léi</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>雷 雷</character_forms>
+  <character_forms>擂 擂</character_forms>
+  <character_forms>累 累</character_forms>
+  <character>
+    <simplified>雷</simplified>
+    <traditional>雷</traditional>
+  </character>
+  <character>
+    <simplified>擂</simplified>
+    <traditional>擂</traditional>
+  </character>
+  <character>
+    <simplified>累</simplified>
+    <traditional>累</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>lei2_MV1</identifier>
+  <final>ei</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

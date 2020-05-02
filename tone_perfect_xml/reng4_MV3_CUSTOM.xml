@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>reng</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>rèng by MV3</title>
+  <syllable>reng4</syllable>
+  <pinyin>rèng</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>reng4_MV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

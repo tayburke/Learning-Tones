@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>peng</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>péng by MV1</title>
+  <syllable>peng2</syllable>
+  <pinyin>péng</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>朋 朋</character_forms>
+  <character_forms>彭 彭</character_forms>
+  <character_forms>鹏 鵬</character_forms>
+  <character>
+    <simplified>朋</simplified>
+    <traditional>朋</traditional>
+  </character>
+  <character>
+    <simplified>彭</simplified>
+    <traditional>彭</traditional>
+  </character>
+  <character>
+    <simplified>鹏</simplified>
+    <traditional>鵬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>peng2_MV1</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>e</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>ě by FV3</title>
+  <syllable>e3</syllable>
+  <pinyin>ě</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>恶 惡</character_forms>
+  <character>
+    <simplified>恶</simplified>
+    <traditional>惡</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>e3_FV3</identifier>
+  <final>e</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

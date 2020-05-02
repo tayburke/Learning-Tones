@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lin</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>lìn by MV2</title>
+  <syllable>lin4</syllable>
+  <pinyin>lìn</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>吝 吝</character_forms>
+  <character_forms>赁 賃</character_forms>
+  <character>
+    <simplified>吝</simplified>
+    <traditional>吝</traditional>
+  </character>
+  <character>
+    <simplified>赁</simplified>
+    <traditional>賃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>lin4_MV2</identifier>
+  <final>in</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

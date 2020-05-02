@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>dān by MV1</title>
+  <syllable>dan1</syllable>
+  <pinyin>dān</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>单 單</character_forms>
+  <character_forms>担 擔</character_forms>
+  <character_forms>丹 丹</character_forms>
+  <character>
+    <simplified>单</simplified>
+    <traditional>單</traditional>
+  </character>
+  <character>
+    <simplified>担</simplified>
+    <traditional>擔</traditional>
+  </character>
+  <character>
+    <simplified>丹</simplified>
+    <traditional>丹</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>dan1_MV1</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

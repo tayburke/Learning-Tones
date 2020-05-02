@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qing</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>qǐng by MV2</title>
+  <syllable>qing3</syllable>
+  <pinyin>qǐng</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>请 請</character_forms>
+  <character>
+    <simplified>请</simplified>
+    <traditional>請</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>qing3_MV2</identifier>
+  <final>ing</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

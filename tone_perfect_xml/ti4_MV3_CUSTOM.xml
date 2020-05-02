@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ti</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>tì by MV3</title>
+  <syllable>ti4</syllable>
+  <pinyin>tì</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>替 替</character_forms>
+  <character_forms>屉 屜</character_forms>
+  <character_forms>惕 惕</character_forms>
+  <character>
+    <simplified>替</simplified>
+    <traditional>替</traditional>
+  </character>
+  <character>
+    <simplified>屉</simplified>
+    <traditional>屜</traditional>
+  </character>
+  <character>
+    <simplified>惕</simplified>
+    <traditional>惕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ti4_MV3</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

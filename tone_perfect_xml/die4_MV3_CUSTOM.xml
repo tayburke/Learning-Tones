@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>die</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>diè by MV3</title>
+  <syllable>die4</syllable>
+  <pinyin>diè</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>哋  哋 </character_forms>
+  <character>
+    <simplified>哋 </simplified>
+    <traditional>哋 </traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>die4_MV3</identifier>
+  <final>ie</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

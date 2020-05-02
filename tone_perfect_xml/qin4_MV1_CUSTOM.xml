@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qin</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>qìn by MV1</title>
+  <syllable>qin4</syllable>
+  <pinyin>qìn</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>沁 沁</character_forms>
+  <character>
+    <simplified>沁</simplified>
+    <traditional>沁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>qin4_MV1</identifier>
+  <final>in</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

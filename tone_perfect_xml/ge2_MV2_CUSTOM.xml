@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ge</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>gé by MV2</title>
+  <syllable>ge2</syllable>
+  <pinyin>gé</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>格 格</character_forms>
+  <character_forms>革 革</character_forms>
+  <character_forms>隔 隔</character_forms>
+  <character>
+    <simplified>格</simplified>
+    <traditional>格</traditional>
+  </character>
+  <character>
+    <simplified>革</simplified>
+    <traditional>革</traditional>
+  </character>
+  <character>
+    <simplified>隔</simplified>
+    <traditional>隔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ge2_MV2</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

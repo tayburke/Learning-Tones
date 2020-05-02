@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>suo</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>suó by FV3</title>
+  <syllable>suo2</syllable>
+  <pinyin>suó</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>suo2_FV3</identifier>
+  <final>uo</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

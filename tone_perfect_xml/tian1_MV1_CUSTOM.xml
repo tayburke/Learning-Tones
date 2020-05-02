@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tian</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tiān by MV1</title>
+  <syllable>tian1</syllable>
+  <pinyin>tiān</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>天 天</character_forms>
+  <character_forms>添 添</character_forms>
+  <character>
+    <simplified>天</simplified>
+    <traditional>天</traditional>
+  </character>
+  <character>
+    <simplified>添</simplified>
+    <traditional>添</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>tian1_MV1</identifier>
+  <final>ian</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>tái by MV3</title>
+  <syllable>tai2</syllable>
+  <pinyin>tái</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>台 台</character_forms>
+  <character_forms>抬 抬</character_forms>
+  <character_forms>苔 苔</character_forms>
+  <character>
+    <simplified>台</simplified>
+    <traditional>台</traditional>
+  </character>
+  <character>
+    <simplified>抬</simplified>
+    <traditional>抬</traditional>
+  </character>
+  <character>
+    <simplified>苔</simplified>
+    <traditional>苔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>tai2_MV3</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

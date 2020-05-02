@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mi</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>mì by FV1</title>
+  <syllable>mi4</syllable>
+  <pinyin>mì</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>密 密</character_forms>
+  <character_forms>秘 秘</character_forms>
+  <character_forms>蜜 蜜</character_forms>
+  <character>
+    <simplified>密</simplified>
+    <traditional>密</traditional>
+  </character>
+  <character>
+    <simplified>秘</simplified>
+    <traditional>秘</traditional>
+  </character>
+  <character>
+    <simplified>蜜</simplified>
+    <traditional>蜜</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>mi4_FV1</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

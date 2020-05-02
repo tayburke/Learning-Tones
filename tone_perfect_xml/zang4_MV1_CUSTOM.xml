@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zàng by MV1</title>
+  <syllable>zang4</syllable>
+  <pinyin>zàng</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>藏 藏</character_forms>
+  <character_forms>脏 髒</character_forms>
+  <character_forms>葬 葬</character_forms>
+  <character>
+    <simplified>藏</simplified>
+    <traditional>藏</traditional>
+  </character>
+  <character>
+    <simplified>脏</simplified>
+    <traditional>髒</traditional>
+  </character>
+  <character>
+    <simplified>葬</simplified>
+    <traditional>葬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>zang4_MV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

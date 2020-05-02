@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qin</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>qǐn by FV2</title>
+  <syllable>qin3</syllable>
+  <pinyin>qǐn</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>寝 寢</character_forms>
+  <character>
+    <simplified>寝</simplified>
+    <traditional>寢</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>qin3_FV2</identifier>
+  <final>in</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

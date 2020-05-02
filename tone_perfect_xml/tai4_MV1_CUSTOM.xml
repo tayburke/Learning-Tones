@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tai</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>tài by MV1</title>
+  <syllable>tai4</syllable>
+  <pinyin>tài</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>太 太</character_forms>
+  <character_forms>态 態</character_forms>
+  <character_forms>泰 泰</character_forms>
+  <character>
+    <simplified>太</simplified>
+    <traditional>太</traditional>
+  </character>
+  <character>
+    <simplified>态</simplified>
+    <traditional>態</traditional>
+  </character>
+  <character>
+    <simplified>泰</simplified>
+    <traditional>泰</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>tai4_MV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

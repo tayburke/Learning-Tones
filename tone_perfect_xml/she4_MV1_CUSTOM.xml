@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>she</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>shè by MV1</title>
+  <syllable>she4</syllable>
+  <pinyin>shè</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>社 社</character_forms>
+  <character_forms>设 設</character_forms>
+  <character_forms>射 射</character_forms>
+  <character>
+    <simplified>社</simplified>
+    <traditional>社</traditional>
+  </character>
+  <character>
+    <simplified>设</simplified>
+    <traditional>設</traditional>
+  </character>
+  <character>
+    <simplified>射</simplified>
+    <traditional>射</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>she4_MV1</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

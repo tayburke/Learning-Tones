@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nong</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>nōng by FV3</title>
+  <syllable>nong1</syllable>
+  <pinyin>nōng</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>nong1_FV3</identifier>
+  <final>ong</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

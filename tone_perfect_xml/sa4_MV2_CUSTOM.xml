@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sa</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sà by MV2</title>
+  <syllable>sa4</syllable>
+  <pinyin>sà</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>萨 薩</character_forms>
+  <character>
+    <simplified>萨</simplified>
+    <traditional>薩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>sa4_MV2</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

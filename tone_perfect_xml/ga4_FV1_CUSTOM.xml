@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ga</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>gà by FV1</title>
+  <syllable>ga4</syllable>
+  <pinyin>gà</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>尬 尬</character_forms>
+  <character>
+    <simplified>尬</simplified>
+    <traditional>尬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>ga4_FV1</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

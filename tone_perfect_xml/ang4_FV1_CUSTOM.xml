@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>àng by FV1</title>
+  <syllable>ang4</syllable>
+  <pinyin>àng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>盎 盎</character_forms>
+  <character>
+    <simplified>盎</simplified>
+    <traditional>盎</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>ang4_FV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>la</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>lā by FV3</title>
+  <syllable>la1</syllable>
+  <pinyin>lā</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>拉 拉</character_forms>
+  <character_forms>啦 啦</character_forms>
+  <character_forms>垃 垃</character_forms>
+  <character>
+    <simplified>拉</simplified>
+    <traditional>拉</traditional>
+  </character>
+  <character>
+    <simplified>啦</simplified>
+    <traditional>啦</traditional>
+  </character>
+  <character>
+    <simplified>垃</simplified>
+    <traditional>垃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>la1_FV3</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

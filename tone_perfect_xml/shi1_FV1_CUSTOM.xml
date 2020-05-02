@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shi</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shī by FV1</title>
+  <syllable>shi1</syllable>
+  <pinyin>shī</pinyin>
+  <section>Unknown</section>
+  <initial>shi</initial>
+  <character_forms>师 師</character_forms>
+  <character_forms>失 失</character_forms>
+  <character_forms>诗 詩</character_forms>
+  <character>
+    <simplified>师</simplified>
+    <traditional>師</traditional>
+  </character>
+  <character>
+    <simplified>失</simplified>
+    <traditional>失</traditional>
+  </character>
+  <character>
+    <simplified>诗</simplified>
+    <traditional>詩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>shi1_FV1</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

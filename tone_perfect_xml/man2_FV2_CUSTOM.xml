@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>man</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>mán by FV2</title>
+  <syllable>man2</syllable>
+  <pinyin>mán</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>蛮 蠻</character_forms>
+  <character_forms>瞒 瞞</character_forms>
+  <character_forms>馒 饅</character_forms>
+  <character>
+    <simplified>蛮</simplified>
+    <traditional>蠻</traditional>
+  </character>
+  <character>
+    <simplified>瞒</simplified>
+    <traditional>瞞</traditional>
+  </character>
+  <character>
+    <simplified>馒</simplified>
+    <traditional>饅</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>man2_FV2</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

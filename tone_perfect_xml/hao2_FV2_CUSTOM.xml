@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>háo by FV2</title>
+  <syllable>hao2</syllable>
+  <pinyin>háo</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>毫 毫</character_forms>
+  <character_forms>豪 豪</character_forms>
+  <character_forms>嚎 嚎</character_forms>
+  <character>
+    <simplified>毫</simplified>
+    <traditional>毫</traditional>
+  </character>
+  <character>
+    <simplified>豪</simplified>
+    <traditional>豪</traditional>
+  </character>
+  <character>
+    <simplified>嚎</simplified>
+    <traditional>嚎</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>hao2_FV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

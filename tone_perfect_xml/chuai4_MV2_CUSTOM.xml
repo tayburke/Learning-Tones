@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chuai</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>chuài by MV2</title>
+  <syllable>chuai4</syllable>
+  <pinyin>chuài</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>踹 踹</character_forms>
+  <character>
+    <simplified>踹</simplified>
+    <traditional>踹</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>chuai4_MV2</identifier>
+  <final>uai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

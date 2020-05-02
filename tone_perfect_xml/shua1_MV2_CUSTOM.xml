@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shua</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shuā by MV2</title>
+  <syllable>shua1</syllable>
+  <pinyin>shuā</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>刷 刷</character_forms>
+  <character>
+    <simplified>刷</simplified>
+    <traditional>刷</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>shua1_MV2</identifier>
+  <final>ua</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

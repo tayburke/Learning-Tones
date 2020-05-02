@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xian</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>xiǎn by MV3</title>
+  <syllable>xian3</syllable>
+  <pinyin>xiǎn</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>显 顯</character_forms>
+  <character_forms>险 險</character_forms>
+  <character_forms>鲜 鮮</character_forms>
+  <character>
+    <simplified>显</simplified>
+    <traditional>顯</traditional>
+  </character>
+  <character>
+    <simplified>险</simplified>
+    <traditional>險</traditional>
+  </character>
+  <character>
+    <simplified>鲜</simplified>
+    <traditional>鮮</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>xian3_MV3</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

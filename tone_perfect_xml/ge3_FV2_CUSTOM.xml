@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ge</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>gě by FV2</title>
+  <syllable>ge3</syllable>
+  <pinyin>gě</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>葛 葛</character_forms>
+  <character>
+    <simplified>葛</simplified>
+    <traditional>葛</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ge3_FV2</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

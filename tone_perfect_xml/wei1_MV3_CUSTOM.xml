@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wei</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>wēi by MV3</title>
+  <syllable>wei1</syllable>
+  <pinyin>wēi</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>微 微</character_forms>
+  <character_forms>威 威</character_forms>
+  <character_forms>危 危</character_forms>
+  <character>
+    <simplified>微</simplified>
+    <traditional>微</traditional>
+  </character>
+  <character>
+    <simplified>威</simplified>
+    <traditional>威</traditional>
+  </character>
+  <character>
+    <simplified>危</simplified>
+    <traditional>危</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>wei1_MV3</identifier>
+  <final>wei</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

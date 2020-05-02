@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gao</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>gào by FV3</title>
+  <syllable>gao4</syllable>
+  <pinyin>gào</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>告 告</character_forms>
+  <character_forms>诰 誥</character_forms>
+  <character>
+    <simplified>告</simplified>
+    <traditional>告</traditional>
+  </character>
+  <character>
+    <simplified>诰</simplified>
+    <traditional>誥</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>gao4_FV3</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

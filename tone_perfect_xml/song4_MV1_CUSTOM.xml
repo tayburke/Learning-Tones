@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>song</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sòng by MV1</title>
+  <syllable>song4</syllable>
+  <pinyin>sòng</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>送 送</character_forms>
+  <character_forms>宋 宋</character_forms>
+  <character_forms>诵 誦</character_forms>
+  <character>
+    <simplified>送</simplified>
+    <traditional>送</traditional>
+  </character>
+  <character>
+    <simplified>宋</simplified>
+    <traditional>宋</traditional>
+  </character>
+  <character>
+    <simplified>诵</simplified>
+    <traditional>誦</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>song4_MV1</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

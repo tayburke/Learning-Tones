@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>li</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>lì by MV1</title>
+  <syllable>li4</syllable>
+  <pinyin>lì</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>力 力</character_forms>
+  <character_forms>利 利</character_forms>
+  <character_forms>立 立</character_forms>
+  <character>
+    <simplified>力</simplified>
+    <traditional>力</traditional>
+  </character>
+  <character>
+    <simplified>利</simplified>
+    <traditional>利</traditional>
+  </character>
+  <character>
+    <simplified>立</simplified>
+    <traditional>立</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>li4_MV1</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>
