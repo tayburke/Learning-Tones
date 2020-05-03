@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dia</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>diá by FV2</title>
+  <syllable>dia2</syllable>
+  <pinyin>diá</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>dia2_FV2</identifier>
+  <final>ia</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

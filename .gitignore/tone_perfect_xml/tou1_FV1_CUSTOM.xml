@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tou</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tōu by FV1</title>
+  <syllable>tou1</syllable>
+  <pinyin>tōu</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>偷 偷</character_forms>
+  <character>
+    <simplified>偷</simplified>
+    <traditional>偷</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>tou1_FV1</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

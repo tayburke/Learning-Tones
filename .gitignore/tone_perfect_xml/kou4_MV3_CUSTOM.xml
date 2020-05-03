@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kou</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>kòu by MV3</title>
+  <syllable>kou4</syllable>
+  <pinyin>kòu</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>扣 扣</character_forms>
+  <character_forms>寇 寇</character_forms>
+  <character_forms>叩 叩</character_forms>
+  <character>
+    <simplified>扣</simplified>
+    <traditional>扣</traditional>
+  </character>
+  <character>
+    <simplified>寇</simplified>
+    <traditional>寇</traditional>
+  </character>
+  <character>
+    <simplified>叩</simplified>
+    <traditional>叩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>kou4_MV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

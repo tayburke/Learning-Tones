@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>chāng by FV2</title>
+  <syllable>chang1</syllable>
+  <pinyin>chāng</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>昌 昌</character_forms>
+  <character>
+    <simplified>昌</simplified>
+    <traditional>昌</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>chang1_FV2</identifier>
+  <final>ang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

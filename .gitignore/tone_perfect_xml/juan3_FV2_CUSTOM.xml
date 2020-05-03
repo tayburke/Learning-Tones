@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>juan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>juǎn by FV2</title>
+  <syllable>juan3</syllable>
+  <pinyin>juǎn</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>卷 卷</character_forms>
+  <character>
+    <simplified>卷</simplified>
+    <traditional>卷</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>juan3_FV2</identifier>
+  <final>uan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

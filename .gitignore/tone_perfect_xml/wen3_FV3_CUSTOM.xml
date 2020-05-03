@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wen</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>wěn by FV3</title>
+  <syllable>wen3</syllable>
+  <pinyin>wěn</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>稳 穩</character_forms>
+  <character_forms>吻 吻</character_forms>
+  <character_forms>紊 紊</character_forms>
+  <character>
+    <simplified>稳</simplified>
+    <traditional>穩</traditional>
+  </character>
+  <character>
+    <simplified>吻</simplified>
+    <traditional>吻</traditional>
+  </character>
+  <character>
+    <simplified>紊</simplified>
+    <traditional>紊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>wen3_FV3</identifier>
+  <final>wen</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

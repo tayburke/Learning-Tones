@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yuan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>yuán by FV3</title>
+  <syllable>yuan2</syllable>
+  <pinyin>yuán</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>原 原</character_forms>
+  <character_forms>员 員</character_forms>
+  <character_forms>元 元</character_forms>
+  <character>
+    <simplified>原</simplified>
+    <traditional>原</traditional>
+  </character>
+  <character>
+    <simplified>员</simplified>
+    <traditional>員</traditional>
+  </character>
+  <character>
+    <simplified>元</simplified>
+    <traditional>元</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>yuan2_FV3</identifier>
+  <final>yuan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hui</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>huǐ by MV2</title>
+  <syllable>hui3</syllable>
+  <pinyin>huǐ</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>毁 毀</character_forms>
+  <character_forms>悔 悔</character_forms>
+  <character>
+    <simplified>毁</simplified>
+    <traditional>毀</traditional>
+  </character>
+  <character>
+    <simplified>悔</simplified>
+    <traditional>悔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>hui3_MV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

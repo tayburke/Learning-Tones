@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shuo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shuǒ by FV1</title>
+  <syllable>shuo3</syllable>
+  <pinyin>shuǒ</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>shuo3_FV1</identifier>
+  <final>uo</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

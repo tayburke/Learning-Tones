@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>tán by FV2</title>
+  <syllable>tan2</syllable>
+  <pinyin>tán</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>谈 談</character_forms>
+  <character_forms>弹 彈</character_forms>
+  <character_forms>坛 壇</character_forms>
+  <character>
+    <simplified>谈</simplified>
+    <traditional>談</traditional>
+  </character>
+  <character>
+    <simplified>弹</simplified>
+    <traditional>彈</traditional>
+  </character>
+  <character>
+    <simplified>坛</simplified>
+    <traditional>壇</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>tan2_FV2</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

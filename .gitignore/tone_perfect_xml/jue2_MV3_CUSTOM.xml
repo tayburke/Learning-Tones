@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jue</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>jué by MV3</title>
+  <syllable>jue2</syllable>
+  <pinyin>jué</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>觉 覺</character_forms>
+  <character_forms>决 決</character_forms>
+  <character_forms>绝 絕</character_forms>
+  <character>
+    <simplified>觉</simplified>
+    <traditional>覺</traditional>
+  </character>
+  <character>
+    <simplified>决</simplified>
+    <traditional>決</traditional>
+  </character>
+  <character>
+    <simplified>绝</simplified>
+    <traditional>絕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>jue2_MV3</identifier>
+  <final>ue</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>hái by MV2</title>
+  <syllable>hai2</syllable>
+  <pinyin>hái</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>还 還</character_forms>
+  <character_forms>孩 孩</character_forms>
+  <character_forms>骸 骸</character_forms>
+  <character>
+    <simplified>还</simplified>
+    <traditional>還</traditional>
+  </character>
+  <character>
+    <simplified>孩</simplified>
+    <traditional>孩</traditional>
+  </character>
+  <character>
+    <simplified>骸</simplified>
+    <traditional>骸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>hai2_MV2</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

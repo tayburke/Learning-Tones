@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ting</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tīng by MV1</title>
+  <syllable>ting1</syllable>
+  <pinyin>tīng</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>听 聽</character_forms>
+  <character_forms>厅 廳</character_forms>
+  <character>
+    <simplified>听</simplified>
+    <traditional>聽</traditional>
+  </character>
+  <character>
+    <simplified>厅</simplified>
+    <traditional>廳</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>ting1_MV1</identifier>
+  <final>ing</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

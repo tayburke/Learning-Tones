@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qing</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>qīng by FV3</title>
+  <syllable>qing1</syllable>
+  <pinyin>qīng</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>清 清</character_forms>
+  <character_forms>轻 輕</character_forms>
+  <character_forms>青 青</character_forms>
+  <character>
+    <simplified>清</simplified>
+    <traditional>清</traditional>
+  </character>
+  <character>
+    <simplified>轻</simplified>
+    <traditional>輕</traditional>
+  </character>
+  <character>
+    <simplified>青</simplified>
+    <traditional>青</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>qing1_FV3</identifier>
+  <final>ing</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

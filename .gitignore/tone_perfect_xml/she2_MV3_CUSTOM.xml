@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>she</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>shé by MV3</title>
+  <syllable>she2</syllable>
+  <pinyin>shé</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>蛇 蛇</character_forms>
+  <character_forms>舌 舌</character_forms>
+  <character_forms>折 折</character_forms>
+  <character>
+    <simplified>蛇</simplified>
+    <traditional>蛇</traditional>
+  </character>
+  <character>
+    <simplified>舌</simplified>
+    <traditional>舌</traditional>
+  </character>
+  <character>
+    <simplified>折</simplified>
+    <traditional>折</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>she2_MV3</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

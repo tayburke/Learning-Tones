@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>da</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>dā by FV3</title>
+  <syllable>da1</syllable>
+  <pinyin>dā</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>搭 搭</character_forms>
+  <character_forms>嗒 嗒</character_forms>
+  <character_forms>耷 耷</character_forms>
+  <character>
+    <simplified>搭</simplified>
+    <traditional>搭</traditional>
+  </character>
+  <character>
+    <simplified>嗒</simplified>
+    <traditional>嗒</traditional>
+  </character>
+  <character>
+    <simplified>耷</simplified>
+    <traditional>耷</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>da1_FV3</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

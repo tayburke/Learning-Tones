@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chi</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>chǐ by MV3</title>
+  <syllable>chi3</syllable>
+  <pinyin>chǐ</pinyin>
+  <section>Unknown</section>
+  <initial>chi</initial>
+  <character_forms>尺 尺</character_forms>
+  <character_forms>齿 齒</character_forms>
+  <character>
+    <simplified>尺</simplified>
+    <traditional>尺</traditional>
+  </character>
+  <character>
+    <simplified>齿</simplified>
+    <traditional>齒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>chi3_MV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bei</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>béi by MV1</title>
+  <syllable>bei2</syllable>
+  <pinyin>béi</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>bei2_MV1</identifier>
+  <final>ei</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

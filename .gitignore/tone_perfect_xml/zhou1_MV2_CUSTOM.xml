@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhou</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhōu by MV2</title>
+  <syllable>zhou1</syllable>
+  <pinyin>zhōu</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>周 周</character_forms>
+  <character_forms>州 州</character_forms>
+  <character_forms>洲 洲</character_forms>
+  <character>
+    <simplified>周</simplified>
+    <traditional>周</traditional>
+  </character>
+  <character>
+    <simplified>州</simplified>
+    <traditional>州</traditional>
+  </character>
+  <character>
+    <simplified>洲</simplified>
+    <traditional>洲</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>zhou1_MV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xun</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>xūn by FV3</title>
+  <syllable>xun1</syllable>
+  <pinyin>xūn</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>勋 勳</character_forms>
+  <character>
+    <simplified>勋</simplified>
+    <traditional>勳</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>xun1_FV3</identifier>
+  <final>un</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

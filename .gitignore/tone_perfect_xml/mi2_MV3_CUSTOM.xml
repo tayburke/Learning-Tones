@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mi</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>mí by MV3</title>
+  <syllable>mi2</syllable>
+  <pinyin>mí</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>迷 迷</character_forms>
+  <character_forms>弥 彌</character_forms>
+  <character_forms>谜 謎</character_forms>
+  <character>
+    <simplified>迷</simplified>
+    <traditional>迷</traditional>
+  </character>
+  <character>
+    <simplified>弥</simplified>
+    <traditional>彌</traditional>
+  </character>
+  <character>
+    <simplified>谜</simplified>
+    <traditional>謎</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>mi2_MV3</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

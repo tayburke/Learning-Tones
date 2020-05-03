@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gong</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>gòng by MV1</title>
+  <syllable>gong4</syllable>
+  <pinyin>gòng</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>共 共</character_forms>
+  <character_forms>供 供</character_forms>
+  <character_forms>贡 貢</character_forms>
+  <character>
+    <simplified>共</simplified>
+    <traditional>共</traditional>
+  </character>
+  <character>
+    <simplified>供</simplified>
+    <traditional>供</traditional>
+  </character>
+  <character>
+    <simplified>贡</simplified>
+    <traditional>貢</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>gong4_MV1</identifier>
+  <final>ong</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

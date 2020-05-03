@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>da</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>dá by MV2</title>
+  <syllable>da2</syllable>
+  <pinyin>dá</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>答 答</character_forms>
+  <character_forms>达 達</character_forms>
+  <character_forms>打 打</character_forms>
+  <character>
+    <simplified>答</simplified>
+    <traditional>答</traditional>
+  </character>
+  <character>
+    <simplified>达</simplified>
+    <traditional>達</traditional>
+  </character>
+  <character>
+    <simplified>打</simplified>
+    <traditional>打</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>da2_MV2</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lai</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>lǎi by MV3</title>
+  <syllable>lai3</syllable>
+  <pinyin>lǎi</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>襰 襰</character_forms>
+  <character>
+    <simplified>襰</simplified>
+    <traditional>襰</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>lai3_MV3</identifier>
+  <final>ai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

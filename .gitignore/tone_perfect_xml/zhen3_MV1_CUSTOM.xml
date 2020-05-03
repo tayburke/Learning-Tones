@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhen</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zhěn by MV1</title>
+  <syllable>zhen3</syllable>
+  <pinyin>zhěn</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>枕 枕</character_forms>
+  <character_forms>诊 診</character_forms>
+  <character>
+    <simplified>枕</simplified>
+    <traditional>枕</traditional>
+  </character>
+  <character>
+    <simplified>诊</simplified>
+    <traditional>診</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>zhen3_MV1</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

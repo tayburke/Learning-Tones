@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>yān by MV1</title>
+  <syllable>yan1</syllable>
+  <pinyin>yān</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>烟 煙</character_forms>
+  <character_forms>燕 燕</character_forms>
+  <character_forms>咽 咽</character_forms>
+  <character>
+    <simplified>烟</simplified>
+    <traditional>煙</traditional>
+  </character>
+  <character>
+    <simplified>燕</simplified>
+    <traditional>燕</traditional>
+  </character>
+  <character>
+    <simplified>咽</simplified>
+    <traditional>咽</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>yan1_MV1</identifier>
+  <final>yan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

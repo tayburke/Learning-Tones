@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>hū by FV1</title>
+  <syllable>hu1</syllable>
+  <pinyin>hū</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>乎 乎</character_forms>
+  <character_forms>忽 忽</character_forms>
+  <character_forms>呼 呼</character_forms>
+  <character>
+    <simplified>乎</simplified>
+    <traditional>乎</traditional>
+  </character>
+  <character>
+    <simplified>忽</simplified>
+    <traditional>忽</traditional>
+  </character>
+  <character>
+    <simplified>呼</simplified>
+    <traditional>呼</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>hu1_FV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

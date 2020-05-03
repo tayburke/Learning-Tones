@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>di</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>dī by FV2</title>
+  <syllable>di1</syllable>
+  <pinyin>dī</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>低 低</character_forms>
+  <character_forms>滴 滴</character_forms>
+  <character_forms>堤 堤</character_forms>
+  <character>
+    <simplified>低</simplified>
+    <traditional>低</traditional>
+  </character>
+  <character>
+    <simplified>滴</simplified>
+    <traditional>滴</traditional>
+  </character>
+  <character>
+    <simplified>堤</simplified>
+    <traditional>堤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>di1_FV2</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

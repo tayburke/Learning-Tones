@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>teng</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>téng by MV3</title>
+  <syllable>teng2</syllable>
+  <pinyin>téng</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>疼 疼</character_forms>
+  <character_forms>腾 騰</character_forms>
+  <character_forms>藤 藤</character_forms>
+  <character>
+    <simplified>疼</simplified>
+    <traditional>疼</traditional>
+  </character>
+  <character>
+    <simplified>腾</simplified>
+    <traditional>騰</traditional>
+  </character>
+  <character>
+    <simplified>藤</simplified>
+    <traditional>藤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>teng2_MV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jing</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>jǐng by MV1</title>
+  <syllable>jing3</syllable>
+  <pinyin>jǐng</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>警 警</character_forms>
+  <character_forms>景 景</character_forms>
+  <character_forms>井 井</character_forms>
+  <character>
+    <simplified>警</simplified>
+    <traditional>警</traditional>
+  </character>
+  <character>
+    <simplified>景</simplified>
+    <traditional>景</traditional>
+  </character>
+  <character>
+    <simplified>井</simplified>
+    <traditional>井</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>jing3_MV1</identifier>
+  <final>ing</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>luan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>luǎn by MV2</title>
+  <syllable>luan3</syllable>
+  <pinyin>luǎn</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>卵 卵</character_forms>
+  <character>
+    <simplified>卵</simplified>
+    <traditional>卵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>luan3_MV2</identifier>
+  <final>uan</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

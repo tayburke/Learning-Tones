@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sai</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sài by MV2</title>
+  <syllable>sai4</syllable>
+  <pinyin>sài</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>赛 賽</character_forms>
+  <character_forms>塞 塞</character_forms>
+  <character>
+    <simplified>赛</simplified>
+    <traditional>賽</traditional>
+  </character>
+  <character>
+    <simplified>塞</simplified>
+    <traditional>塞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>sai4_MV2</identifier>
+  <final>ai</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

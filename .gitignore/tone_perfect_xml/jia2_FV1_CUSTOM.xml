@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jia</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>jiá by FV1</title>
+  <syllable>jia2</syllable>
+  <pinyin>jiá</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>夹 夾</character_forms>
+  <character>
+    <simplified>夹</simplified>
+    <traditional>夾</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>jia2_FV1</identifier>
+  <final>ia</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

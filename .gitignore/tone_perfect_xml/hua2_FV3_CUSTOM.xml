@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hua</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>huá by FV3</title>
+  <syllable>hua2</syllable>
+  <pinyin>huá</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>华 華</character_forms>
+  <character_forms>划 劃</character_forms>
+  <character_forms>滑 滑</character_forms>
+  <character>
+    <simplified>华</simplified>
+    <traditional>華</traditional>
+  </character>
+  <character>
+    <simplified>划</simplified>
+    <traditional>劃</traditional>
+  </character>
+  <character>
+    <simplified>滑</simplified>
+    <traditional>滑</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>hua2_FV3</identifier>
+  <final>ua</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

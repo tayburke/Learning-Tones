@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>kǎo by MV2</title>
+  <syllable>kao3</syllable>
+  <pinyin>kǎo</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>考 考</character_forms>
+  <character_forms>烤 烤</character_forms>
+  <character_forms>拷 拷</character_forms>
+  <character>
+    <simplified>考</simplified>
+    <traditional>考</traditional>
+  </character>
+  <character>
+    <simplified>烤</simplified>
+    <traditional>烤</traditional>
+  </character>
+  <character>
+    <simplified>拷</simplified>
+    <traditional>拷</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>kao3_MV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

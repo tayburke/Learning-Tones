@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ce</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>cé by FV2</title>
+  <syllable>ce2</syllable>
+  <pinyin>cé</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ce2_FV2</identifier>
+  <final>e</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

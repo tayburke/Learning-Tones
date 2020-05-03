@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>bò by MV2</title>
+  <syllable>bo4</syllable>
+  <pinyin>bò</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>薄 薄</character_forms>
+  <character_forms>簸 簸</character_forms>
+  <character>
+    <simplified>薄</simplified>
+    <traditional>薄</traditional>
+  </character>
+  <character>
+    <simplified>簸</simplified>
+    <traditional>簸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>bo4_MV2</identifier>
+  <final>o</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

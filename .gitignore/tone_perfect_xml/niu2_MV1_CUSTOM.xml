@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>niu</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>niú by MV1</title>
+  <syllable>niu2</syllable>
+  <pinyin>niú</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>牛 牛</character_forms>
+  <character>
+    <simplified>牛</simplified>
+    <traditional>牛</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>niu2_MV1</identifier>
+  <final>iu</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mai</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>mài by MV1</title>
+  <syllable>mai4</syllable>
+  <pinyin>mài</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>卖 賣</character_forms>
+  <character_forms>麦 麥</character_forms>
+  <character_forms>迈 邁</character_forms>
+  <character>
+    <simplified>卖</simplified>
+    <traditional>賣</traditional>
+  </character>
+  <character>
+    <simplified>麦</simplified>
+    <traditional>麥</traditional>
+  </character>
+  <character>
+    <simplified>迈</simplified>
+    <traditional>邁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>mai4_MV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

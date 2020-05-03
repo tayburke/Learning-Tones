@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sa</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>sǎ by MV3</title>
+  <syllable>sa3</syllable>
+  <pinyin>sǎ</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>撒 撒</character_forms>
+  <character_forms>洒 灑</character_forms>
+  <character>
+    <simplified>撒</simplified>
+    <traditional>撒</traditional>
+  </character>
+  <character>
+    <simplified>洒</simplified>
+    <traditional>灑</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>sa3_MV3</identifier>
+  <final>a</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

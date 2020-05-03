@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wai</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>wāi by FV1</title>
+  <syllable>wai1</syllable>
+  <pinyin>wāi</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>歪 歪</character_forms>
+  <character>
+    <simplified>歪</simplified>
+    <traditional>歪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>wai1_FV1</identifier>
+  <final>wai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

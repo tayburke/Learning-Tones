@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>gǔ by FV2</title>
+  <syllable>gu3</syllable>
+  <pinyin>gǔ</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>古 古</character_forms>
+  <character_forms>谷 穀</character_forms>
+  <character_forms>骨 骨</character_forms>
+  <character>
+    <simplified>古</simplified>
+    <traditional>古</traditional>
+  </character>
+  <character>
+    <simplified>谷</simplified>
+    <traditional>穀</traditional>
+  </character>
+  <character>
+    <simplified>骨</simplified>
+    <traditional>骨</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gu3_FV2</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

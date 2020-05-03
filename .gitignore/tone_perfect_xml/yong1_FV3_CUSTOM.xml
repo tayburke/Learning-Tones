@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yong</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>yōng by FV3</title>
+  <syllable>yong1</syllable>
+  <pinyin>yōng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>拥 擁</character_forms>
+  <character>
+    <simplified>拥</simplified>
+    <traditional>擁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>yong1_FV3</identifier>
+  <final>yong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

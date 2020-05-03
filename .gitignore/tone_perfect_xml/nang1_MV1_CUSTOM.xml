@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>nāng by MV1</title>
+  <syllable>nang1</syllable>
+  <pinyin>nāng</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>囔 囔</character_forms>
+  <character>
+    <simplified>囔</simplified>
+    <traditional>囔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>nang1_MV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

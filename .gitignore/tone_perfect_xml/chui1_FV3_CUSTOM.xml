@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chui</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>chuī by FV3</title>
+  <syllable>chui1</syllable>
+  <pinyin>chuī</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>吹 吹</character_forms>
+  <character>
+    <simplified>吹</simplified>
+    <traditional>吹</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>chui1_FV3</identifier>
+  <final>ui</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

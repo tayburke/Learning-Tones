@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>kàng by MV3</title>
+  <syllable>kang4</syllable>
+  <pinyin>kàng</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>抗 抗</character_forms>
+  <character_forms>炕 炕</character_forms>
+  <character>
+    <simplified>抗</simplified>
+    <traditional>抗</traditional>
+  </character>
+  <character>
+    <simplified>炕</simplified>
+    <traditional>炕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>kang4_MV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

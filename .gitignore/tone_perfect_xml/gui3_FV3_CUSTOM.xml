@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gui</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>guǐ by FV3</title>
+  <syllable>gui3</syllable>
+  <pinyin>guǐ</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>鬼 鬼</character_forms>
+  <character>
+    <simplified>鬼</simplified>
+    <traditional>鬼</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>gui3_FV3</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

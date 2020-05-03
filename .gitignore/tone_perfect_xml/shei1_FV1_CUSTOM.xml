@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shei</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shēi by FV1</title>
+  <syllable>shei1</syllable>
+  <pinyin>shēi</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>shei1_FV1</identifier>
+  <final>ei</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

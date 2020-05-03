@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kuang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>kuáng by FV3</title>
+  <syllable>kuang2</syllable>
+  <pinyin>kuáng</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>狂 狂</character_forms>
+  <character>
+    <simplified>狂</simplified>
+    <traditional>狂</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>kuang2_FV3</identifier>
+  <final>uang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

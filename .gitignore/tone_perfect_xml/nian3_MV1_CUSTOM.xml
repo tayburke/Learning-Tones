@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nian</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>niǎn by MV1</title>
+  <syllable>nian3</syllable>
+  <pinyin>niǎn</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>捻 撚</character_forms>
+  <character>
+    <simplified>捻</simplified>
+    <traditional>撚</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>nian3_MV1</identifier>
+  <final>ian</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

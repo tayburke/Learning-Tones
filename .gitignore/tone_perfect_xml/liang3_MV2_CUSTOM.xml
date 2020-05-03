@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>liang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>liǎng by MV2</title>
+  <syllable>liang3</syllable>
+  <pinyin>liǎng</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>两 兩</character_forms>
+  <character>
+    <simplified>两</simplified>
+    <traditional>兩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>liang3_MV2</identifier>
+  <final>iang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

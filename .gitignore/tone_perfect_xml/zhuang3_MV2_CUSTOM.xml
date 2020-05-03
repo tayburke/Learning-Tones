@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhuang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zhuǎng by MV2</title>
+  <syllable>zhuang3</syllable>
+  <pinyin>zhuǎng</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>奘 奘</character_forms>
+  <character>
+    <simplified>奘</simplified>
+    <traditional>奘</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>zhuang3_MV2</identifier>
+  <final>uang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

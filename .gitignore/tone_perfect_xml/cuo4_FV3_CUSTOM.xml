@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cuo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>cuò by FV3</title>
+  <syllable>cuo4</syllable>
+  <pinyin>cuò</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>错 錯</character_forms>
+  <character_forms>措 措</character_forms>
+  <character>
+    <simplified>错</simplified>
+    <traditional>錯</traditional>
+  </character>
+  <character>
+    <simplified>措</simplified>
+    <traditional>措</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>cuo4_FV3</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

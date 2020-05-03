@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>guang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>guǎng by FV2</title>
+  <syllable>guang3</syllable>
+  <pinyin>guǎng</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>广 廣</character_forms>
+  <character>
+    <simplified>广</simplified>
+    <traditional>廣</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>guang3_FV2</identifier>
+  <final>uang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

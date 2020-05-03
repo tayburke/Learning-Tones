@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhong</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zhǒng by MV3</title>
+  <syllable>zhong3</syllable>
+  <pinyin>zhǒng</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>种 種</character_forms>
+  <character>
+    <simplified>种</simplified>
+    <traditional>種</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zhong3_MV3</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

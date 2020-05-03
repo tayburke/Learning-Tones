@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>geng</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>gěng by MV2</title>
+  <syllable>geng3</syllable>
+  <pinyin>gěng</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>梗 梗</character_forms>
+  <character_forms>耿 耿</character_forms>
+  <character_forms>哽 哽</character_forms>
+  <character>
+    <simplified>梗</simplified>
+    <traditional>梗</traditional>
+  </character>
+  <character>
+    <simplified>耿</simplified>
+    <traditional>耿</traditional>
+  </character>
+  <character>
+    <simplified>哽</simplified>
+    <traditional>哽</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>geng3_MV2</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

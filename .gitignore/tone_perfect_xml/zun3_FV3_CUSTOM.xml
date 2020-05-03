@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zun</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zǔn by FV3</title>
+  <syllable>zun3</syllable>
+  <pinyin>zǔn</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>撙 撙</character_forms>
+  <character>
+    <simplified>撙</simplified>
+    <traditional>撙</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zun3_FV3</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

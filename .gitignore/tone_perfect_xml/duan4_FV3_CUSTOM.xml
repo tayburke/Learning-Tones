@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>duan</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>duàn by FV3</title>
+  <syllable>duan4</syllable>
+  <pinyin>duàn</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>断 斷</character_forms>
+  <character_forms>段 段</character_forms>
+  <character>
+    <simplified>断</simplified>
+    <traditional>斷</traditional>
+  </character>
+  <character>
+    <simplified>段</simplified>
+    <traditional>段</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>duan4_FV3</identifier>
+  <final>uan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

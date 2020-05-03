@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jun</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>jùn by MV3</title>
+  <syllable>jun4</syllable>
+  <pinyin>jùn</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>俊 俊</character_forms>
+  <character>
+    <simplified>俊</simplified>
+    <traditional>俊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>jun4_MV3</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

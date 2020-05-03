@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>di</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>dǐ by MV3</title>
+  <syllable>di3</syllable>
+  <pinyin>dǐ</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>底 底</character_forms>
+  <character_forms>抵 抵</character_forms>
+  <character_forms>邸 邸</character_forms>
+  <character>
+    <simplified>底</simplified>
+    <traditional>底</traditional>
+  </character>
+  <character>
+    <simplified>抵</simplified>
+    <traditional>抵</traditional>
+  </character>
+  <character>
+    <simplified>邸</simplified>
+    <traditional>邸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>di3_MV3</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>e</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>ē by MV3</title>
+  <syllable>e1</syllable>
+  <pinyin>ē</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>婀 婀</character_forms>
+  <character_forms>阿 阿</character_forms>
+  <character_forms>屙 屙</character_forms>
+  <character>
+    <simplified>婀</simplified>
+    <traditional>婀</traditional>
+  </character>
+  <character>
+    <simplified>阿</simplified>
+    <traditional>阿</traditional>
+  </character>
+  <character>
+    <simplified>屙</simplified>
+    <traditional>屙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>e1_MV3</identifier>
+  <final>e</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

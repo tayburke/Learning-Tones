@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nei</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>nèi by FV2</title>
+  <syllable>nei4</syllable>
+  <pinyin>nèi</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>内 內</character_forms>
+  <character_forms>那 那</character_forms>
+  <character>
+    <simplified>内</simplified>
+    <traditional>內</traditional>
+  </character>
+  <character>
+    <simplified>那</simplified>
+    <traditional>那</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>nei4_FV2</identifier>
+  <final>ei</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

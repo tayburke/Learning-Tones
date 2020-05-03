@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ke</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>kē by FV2</title>
+  <syllable>ke1</syllable>
+  <pinyin>kē</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>科 科</character_forms>
+  <character_forms>颗 顆</character_forms>
+  <character_forms>棵 棵</character_forms>
+  <character>
+    <simplified>科</simplified>
+    <traditional>科</traditional>
+  </character>
+  <character>
+    <simplified>颗</simplified>
+    <traditional>顆</traditional>
+  </character>
+  <character>
+    <simplified>棵</simplified>
+    <traditional>棵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ke1_FV2</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

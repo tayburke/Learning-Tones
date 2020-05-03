@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mao</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>mào by MV2</title>
+  <syllable>mao4</syllable>
+  <pinyin>mào</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>冒 冒</character_forms>
+  <character_forms>貌 貌</character_forms>
+  <character_forms>帽 帽</character_forms>
+  <character>
+    <simplified>冒</simplified>
+    <traditional>冒</traditional>
+  </character>
+  <character>
+    <simplified>貌</simplified>
+    <traditional>貌</traditional>
+  </character>
+  <character>
+    <simplified>帽</simplified>
+    <traditional>帽</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>mao4_MV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

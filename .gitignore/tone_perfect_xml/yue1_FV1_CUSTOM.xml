@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yue</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>yuē by FV1</title>
+  <syllable>yue1</syllable>
+  <pinyin>yuē</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>约 約</character_forms>
+  <character_forms>曰 曰</character_forms>
+  <character>
+    <simplified>约</simplified>
+    <traditional>約</traditional>
+  </character>
+  <character>
+    <simplified>曰</simplified>
+    <traditional>曰</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>yue1_FV1</identifier>
+  <final>yue</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

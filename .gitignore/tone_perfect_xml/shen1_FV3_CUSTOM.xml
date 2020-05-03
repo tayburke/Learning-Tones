@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shen</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shēn by FV3</title>
+  <syllable>shen1</syllable>
+  <pinyin>shēn</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>身 身</character_forms>
+  <character_forms>深 深</character_forms>
+  <character_forms>参 參</character_forms>
+  <character>
+    <simplified>身</simplified>
+    <traditional>身</traditional>
+  </character>
+  <character>
+    <simplified>深</simplified>
+    <traditional>深</traditional>
+  </character>
+  <character>
+    <simplified>参</simplified>
+    <traditional>參</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>shen1_FV3</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

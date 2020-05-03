@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>eng</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>ēng by FV3</title>
+  <syllable>eng1</syllable>
+  <pinyin>ēng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>鞥  鞥 </character_forms>
+  <character>
+    <simplified>鞥 </simplified>
+    <traditional>鞥 </traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>eng1_FV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

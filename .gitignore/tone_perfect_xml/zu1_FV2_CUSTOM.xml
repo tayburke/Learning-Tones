@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zū by FV2</title>
+  <syllable>zu1</syllable>
+  <pinyin>zū</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>租 租</character_forms>
+  <character>
+    <simplified>租</simplified>
+    <traditional>租</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>zu1_FV2</identifier>
+  <final>u</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

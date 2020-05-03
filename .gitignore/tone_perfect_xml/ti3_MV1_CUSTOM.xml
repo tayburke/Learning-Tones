@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ti</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>tǐ by MV1</title>
+  <syllable>ti3</syllable>
+  <pinyin>tǐ</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>体 體</character_forms>
+  <character>
+    <simplified>体</simplified>
+    <traditional>體</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>ti3_MV1</identifier>
+  <final>i</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

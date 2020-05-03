@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mei</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>méi by MV2</title>
+  <syllable>mei2</syllable>
+  <pinyin>méi</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>没 沒</character_forms>
+  <character_forms>梅 梅</character_forms>
+  <character_forms>眉 眉</character_forms>
+  <character>
+    <simplified>没</simplified>
+    <traditional>沒</traditional>
+  </character>
+  <character>
+    <simplified>梅</simplified>
+    <traditional>梅</traditional>
+  </character>
+  <character>
+    <simplified>眉</simplified>
+    <traditional>眉</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>mei2_MV2</identifier>
+  <final>ei</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

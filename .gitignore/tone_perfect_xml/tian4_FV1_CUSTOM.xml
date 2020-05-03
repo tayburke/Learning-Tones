@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tian</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>tiàn by FV1</title>
+  <syllable>tian4</syllable>
+  <pinyin>tiàn</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>掭 掭</character_forms>
+  <character>
+    <simplified>掭</simplified>
+    <traditional>掭</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>tian4_FV1</identifier>
+  <final>ian</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nu</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>nù by MV1</title>
+  <syllable>nu4</syllable>
+  <pinyin>nù</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>怒 怒</character_forms>
+  <character>
+    <simplified>怒</simplified>
+    <traditional>怒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>nu4_MV1</identifier>
+  <final>u</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

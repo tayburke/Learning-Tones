@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhi</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zhì by FV3</title>
+  <syllable>zhi4</syllable>
+  <pinyin>zhì</pinyin>
+  <section>Unknown</section>
+  <initial>zhi</initial>
+  <character_forms>至 至</character_forms>
+  <character_forms>制 制</character_forms>
+  <character_forms>志 志</character_forms>
+  <character>
+    <simplified>至</simplified>
+    <traditional>至</traditional>
+  </character>
+  <character>
+    <simplified>制</simplified>
+    <traditional>制</traditional>
+  </character>
+  <character>
+    <simplified>志</simplified>
+    <traditional>志</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zhi4_FV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

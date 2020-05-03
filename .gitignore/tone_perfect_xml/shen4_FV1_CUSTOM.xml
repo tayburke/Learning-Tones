@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shen</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>shèn by FV1</title>
+  <syllable>shen4</syllable>
+  <pinyin>shèn</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>甚 甚</character_forms>
+  <character_forms>慎 慎</character_forms>
+  <character>
+    <simplified>甚</simplified>
+    <traditional>甚</traditional>
+  </character>
+  <character>
+    <simplified>慎</simplified>
+    <traditional>慎</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>shen4_FV1</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

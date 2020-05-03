@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>sàng by MV3</title>
+  <syllable>sang4</syllable>
+  <pinyin>sàng</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>丧 喪</character_forms>
+  <character>
+    <simplified>丧</simplified>
+    <traditional>喪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>sang4_MV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

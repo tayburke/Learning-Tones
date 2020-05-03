@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nei</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>néi by MV3</title>
+  <syllable>nei2</syllable>
+  <pinyin>néi</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>nei2_MV3</identifier>
+  <final>ei</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

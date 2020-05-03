@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ji</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>jí by MV3</title>
+  <syllable>ji2</syllable>
+  <pinyin>jí</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>即 即</character_forms>
+  <character_forms>及 及</character_forms>
+  <character_forms>极 極</character_forms>
+  <character>
+    <simplified>即</simplified>
+    <traditional>即</traditional>
+  </character>
+  <character>
+    <simplified>及</simplified>
+    <traditional>及</traditional>
+  </character>
+  <character>
+    <simplified>极</simplified>
+    <traditional>極</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ji2_MV3</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

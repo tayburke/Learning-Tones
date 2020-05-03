@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qi</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>qí by FV1</title>
+  <syllable>qi2</syllable>
+  <pinyin>qí</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>其 其</character_forms>
+  <character_forms>奇 奇</character_forms>
+  <character_forms>齐 齊</character_forms>
+  <character>
+    <simplified>其</simplified>
+    <traditional>其</traditional>
+  </character>
+  <character>
+    <simplified>奇</simplified>
+    <traditional>奇</traditional>
+  </character>
+  <character>
+    <simplified>齐</simplified>
+    <traditional>齊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>qi2_FV1</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wen</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>wēn by MV3</title>
+  <syllable>wen1</syllable>
+  <pinyin>wēn</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>温 溫</character_forms>
+  <character_forms>瘟 瘟</character_forms>
+  <character>
+    <simplified>温</simplified>
+    <traditional>溫</traditional>
+  </character>
+  <character>
+    <simplified>瘟</simplified>
+    <traditional>瘟</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>wen1_MV3</identifier>
+  <final>wen</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>dàng by MV1</title>
+  <syllable>dang4</syllable>
+  <pinyin>dàng</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>荡 蕩</character_forms>
+  <character_forms>档 檔</character_forms>
+  <character_forms>当 當</character_forms>
+  <character>
+    <simplified>荡</simplified>
+    <traditional>蕩</traditional>
+  </character>
+  <character>
+    <simplified>档</simplified>
+    <traditional>檔</traditional>
+  </character>
+  <character>
+    <simplified>当</simplified>
+    <traditional>當</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>dang4_MV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qiu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>qiū by MV3</title>
+  <syllable>qiu1</syllable>
+  <pinyin>qiū</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>秋 秋</character_forms>
+  <character>
+    <simplified>秋</simplified>
+    <traditional>秋</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>qiu1_MV3</identifier>
+  <final>iu</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

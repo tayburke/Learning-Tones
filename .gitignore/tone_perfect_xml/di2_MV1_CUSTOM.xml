@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>di</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>dí by MV1</title>
+  <syllable>di2</syllable>
+  <pinyin>dí</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>敌 敵</character_forms>
+  <character_forms>迪 迪</character_forms>
+  <character_forms>狄 狄</character_forms>
+  <character>
+    <simplified>敌</simplified>
+    <traditional>敵</traditional>
+  </character>
+  <character>
+    <simplified>迪</simplified>
+    <traditional>迪</traditional>
+  </character>
+  <character>
+    <simplified>狄</simplified>
+    <traditional>狄</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>di2_MV1</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

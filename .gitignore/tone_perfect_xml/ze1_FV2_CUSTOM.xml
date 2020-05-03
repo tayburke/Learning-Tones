@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ze</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zē by FV2</title>
+  <syllable>ze1</syllable>
+  <pinyin>zē</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ze1_FV2</identifier>
+  <final>e</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

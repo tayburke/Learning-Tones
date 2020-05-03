@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mei</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>mēi by MV2</title>
+  <syllable>mei1</syllable>
+  <pinyin>mēi</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>mei1_MV2</identifier>
+  <final>ei</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

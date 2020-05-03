@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ma</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>mà by MV1</title>
+  <syllable>ma4</syllable>
+  <pinyin>mà</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>骂 罵</character_forms>
+  <character>
+    <simplified>骂</simplified>
+    <traditional>罵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>ma4_MV1</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

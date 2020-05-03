@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ga</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>gā by MV2</title>
+  <syllable>ga1</syllable>
+  <pinyin>gā</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>嘎 嘎</character_forms>
+  <character>
+    <simplified>嘎</simplified>
+    <traditional>嘎</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ga1_MV2</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>ǒu by FV1</title>
+  <syllable>ou3</syllable>
+  <pinyin>ǒu</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>偶 偶</character_forms>
+  <character_forms>呕 嘔</character_forms>
+  <character_forms>藕 藕</character_forms>
+  <character>
+    <simplified>偶</simplified>
+    <traditional>偶</traditional>
+  </character>
+  <character>
+    <simplified>呕</simplified>
+    <traditional>嘔</traditional>
+  </character>
+  <character>
+    <simplified>藕</simplified>
+    <traditional>藕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>ou3_FV1</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

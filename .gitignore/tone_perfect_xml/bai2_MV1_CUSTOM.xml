@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>bái by MV1</title>
+  <syllable>bai2</syllable>
+  <pinyin>bái</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>白 白</character_forms>
+  <character>
+    <simplified>白</simplified>
+    <traditional>白</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>bai2_MV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

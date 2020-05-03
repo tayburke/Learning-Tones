@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hou</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>hóu by MV3</title>
+  <syllable>hou2</syllable>
+  <pinyin>hóu</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>侯 侯</character_forms>
+  <character_forms>喉 喉</character_forms>
+  <character_forms>猴 猴</character_forms>
+  <character>
+    <simplified>侯</simplified>
+    <traditional>侯</traditional>
+  </character>
+  <character>
+    <simplified>喉</simplified>
+    <traditional>喉</traditional>
+  </character>
+  <character>
+    <simplified>猴</simplified>
+    <traditional>猴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>hou2_MV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tiao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>tiǎo by MV1</title>
+  <syllable>tiao3</syllable>
+  <pinyin>tiǎo</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>挑 挑</character_forms>
+  <character>
+    <simplified>挑</simplified>
+    <traditional>挑</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>tiao3_MV1</identifier>
+  <final>iao</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

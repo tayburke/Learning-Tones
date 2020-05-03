@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>eng</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>èng by MV1</title>
+  <syllable>eng4</syllable>
+  <pinyin>èng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>eng4_MV1</identifier>
+  <final>eng</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

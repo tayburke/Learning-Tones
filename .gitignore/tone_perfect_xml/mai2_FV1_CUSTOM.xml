@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>mái by FV1</title>
+  <syllable>mai2</syllable>
+  <pinyin>mái</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>埋 埋</character_forms>
+  <character_forms>霾 霾</character_forms>
+  <character>
+    <simplified>埋</simplified>
+    <traditional>埋</traditional>
+  </character>
+  <character>
+    <simplified>霾</simplified>
+    <traditional>霾</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>mai2_FV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

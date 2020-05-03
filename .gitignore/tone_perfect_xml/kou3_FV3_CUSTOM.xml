@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>kǒu by FV3</title>
+  <syllable>kou3</syllable>
+  <pinyin>kǒu</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>口 口</character_forms>
+  <character>
+    <simplified>口</simplified>
+    <traditional>口</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>kou3_FV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

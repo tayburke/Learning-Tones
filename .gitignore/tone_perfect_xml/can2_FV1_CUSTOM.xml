@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>can</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>cán by FV1</title>
+  <syllable>can2</syllable>
+  <pinyin>cán</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>残 殘</character_forms>
+  <character>
+    <simplified>残</simplified>
+    <traditional>殘</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>can2_FV1</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

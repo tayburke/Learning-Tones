@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yi</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>yī by FV1</title>
+  <syllable>yi1</syllable>
+  <pinyin>yī</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>一 一</character_forms>
+  <character_forms>衣 衣</character_forms>
+  <character_forms>医 醫</character_forms>
+  <character>
+    <simplified>一</simplified>
+    <traditional>一</traditional>
+  </character>
+  <character>
+    <simplified>衣</simplified>
+    <traditional>衣</traditional>
+  </character>
+  <character>
+    <simplified>医</simplified>
+    <traditional>醫</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>yi1_FV1</identifier>
+  <final>yi</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

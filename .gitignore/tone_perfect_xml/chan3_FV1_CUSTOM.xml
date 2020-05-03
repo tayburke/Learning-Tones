@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>chǎn by FV1</title>
+  <syllable>chan3</syllable>
+  <pinyin>chǎn</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>产 產</character_forms>
+  <character>
+    <simplified>产</simplified>
+    <traditional>產</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>chan3_FV1</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

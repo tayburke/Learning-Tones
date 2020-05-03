@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhuo</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zhuó by FV1</title>
+  <syllable>zhuo2</syllable>
+  <pinyin>zhuó</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>着 著</character_forms>
+  <character_forms>卓 卓</character_forms>
+  <character>
+    <simplified>着</simplified>
+    <traditional>著</traditional>
+  </character>
+  <character>
+    <simplified>卓</simplified>
+    <traditional>卓</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>zhuo2_FV1</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

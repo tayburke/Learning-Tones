@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>you</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>yóu by FV1</title>
+  <syllable>you2</syllable>
+  <pinyin>yóu</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>由 由</character_forms>
+  <character_forms>游 遊</character_forms>
+  <character_forms>油 油</character_forms>
+  <character>
+    <simplified>由</simplified>
+    <traditional>由</traditional>
+  </character>
+  <character>
+    <simplified>游</simplified>
+    <traditional>遊</traditional>
+  </character>
+  <character>
+    <simplified>油</simplified>
+    <traditional>油</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>you2_FV1</identifier>
+  <final>you</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

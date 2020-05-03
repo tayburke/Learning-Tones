@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chi</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>chí by MV3</title>
+  <syllable>chi2</syllable>
+  <pinyin>chí</pinyin>
+  <section>Unknown</section>
+  <initial>chi</initial>
+  <character_forms>持 持</character_forms>
+  <character_forms>迟 遲</character_forms>
+  <character_forms>池 池</character_forms>
+  <character>
+    <simplified>持</simplified>
+    <traditional>持</traditional>
+  </character>
+  <character>
+    <simplified>迟</simplified>
+    <traditional>遲</traditional>
+  </character>
+  <character>
+    <simplified>池</simplified>
+    <traditional>池</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>chi2_MV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mie</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>miē by MV3</title>
+  <syllable>mie1</syllable>
+  <pinyin>miē</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>咩 咩</character_forms>
+  <character>
+    <simplified>咩</simplified>
+    <traditional>咩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>mie1_MV3</identifier>
+  <final>ie</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

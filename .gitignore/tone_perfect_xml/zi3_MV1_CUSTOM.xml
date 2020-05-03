@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zi</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zǐ by MV1</title>
+  <syllable>zi3</syllable>
+  <pinyin>zǐ</pinyin>
+  <section>Unknown</section>
+  <initial>zi</initial>
+  <character_forms>子 子</character_forms>
+  <character_forms>紫 紫</character_forms>
+  <character_forms>仔 仔</character_forms>
+  <character>
+    <simplified>子</simplified>
+    <traditional>子</traditional>
+  </character>
+  <character>
+    <simplified>紫</simplified>
+    <traditional>紫</traditional>
+  </character>
+  <character>
+    <simplified>仔</simplified>
+    <traditional>仔</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>zi3_MV1</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

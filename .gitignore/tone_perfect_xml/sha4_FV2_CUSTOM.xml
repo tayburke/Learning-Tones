@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sha</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>shà by FV2</title>
+  <syllable>sha4</syllable>
+  <pinyin>shà</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>煞 煞</character_forms>
+  <character>
+    <simplified>煞</simplified>
+    <traditional>煞</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>sha4_FV2</identifier>
+  <final>a</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

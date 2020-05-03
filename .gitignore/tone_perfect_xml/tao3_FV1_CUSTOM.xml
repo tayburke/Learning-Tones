@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>tǎo by FV1</title>
+  <syllable>tao3</syllable>
+  <pinyin>tǎo</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>讨 討</character_forms>
+  <character>
+    <simplified>讨</simplified>
+    <traditional>討</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>tao3_FV1</identifier>
+  <final>ao</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

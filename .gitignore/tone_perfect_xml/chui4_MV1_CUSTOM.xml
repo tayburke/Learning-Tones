@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chui</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>chuì by MV1</title>
+  <syllable>chui4</syllable>
+  <pinyin>chuì</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>chui4_MV1</identifier>
+  <final>ui</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

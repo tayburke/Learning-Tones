@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xia</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>xià by MV1</title>
+  <syllable>xia4</syllable>
+  <pinyin>xià</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>下 下</character_forms>
+  <character_forms>夏 夏</character_forms>
+  <character_forms>吓 嚇</character_forms>
+  <character>
+    <simplified>下</simplified>
+    <traditional>下</traditional>
+  </character>
+  <character>
+    <simplified>夏</simplified>
+    <traditional>夏</traditional>
+  </character>
+  <character>
+    <simplified>吓</simplified>
+    <traditional>嚇</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>xia4_MV1</identifier>
+  <final>ia</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

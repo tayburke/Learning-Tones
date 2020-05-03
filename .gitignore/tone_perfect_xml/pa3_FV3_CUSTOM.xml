@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pa</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>pǎ by FV3</title>
+  <syllable>pa3</syllable>
+  <pinyin>pǎ</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>pa3_FV3</identifier>
+  <final>a</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

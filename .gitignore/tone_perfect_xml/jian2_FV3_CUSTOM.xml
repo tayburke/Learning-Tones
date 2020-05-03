@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jian</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>jián by FV3</title>
+  <syllable>jian2</syllable>
+  <pinyin>jián</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>jian2_FV3</identifier>
+  <final>ian</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

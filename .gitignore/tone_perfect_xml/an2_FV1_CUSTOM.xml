@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>an</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>án by FV1</title>
+  <syllable>an2</syllable>
+  <pinyin>án</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>玵 玵</character_forms>
+  <character>
+    <simplified>玵</simplified>
+    <traditional>玵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>an2_FV1</identifier>
+  <final>an</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

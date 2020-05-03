@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qiang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>qiǎng by MV2</title>
+  <syllable>qiang3</syllable>
+  <pinyin>qiǎng</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>抢 搶</character_forms>
+  <character>
+    <simplified>抢</simplified>
+    <traditional>搶</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>qiang3_MV2</identifier>
+  <final>iang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

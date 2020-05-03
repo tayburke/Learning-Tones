@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>mǔ by FV1</title>
+  <syllable>mu3</syllable>
+  <pinyin>mǔ</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>母 母</character_forms>
+  <character_forms>姆 姆</character_forms>
+  <character_forms>亩 畝</character_forms>
+  <character>
+    <simplified>母</simplified>
+    <traditional>母</traditional>
+  </character>
+  <character>
+    <simplified>姆</simplified>
+    <traditional>姆</traditional>
+  </character>
+  <character>
+    <simplified>亩</simplified>
+    <traditional>畝</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>mu3_FV1</identifier>
+  <final>u</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

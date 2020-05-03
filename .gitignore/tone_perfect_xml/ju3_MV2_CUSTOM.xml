@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ju</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>jǔ by MV2</title>
+  <syllable>ju3</syllable>
+  <pinyin>jǔ</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>举 舉</character_forms>
+  <character>
+    <simplified>举</simplified>
+    <traditional>舉</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ju3_MV2</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

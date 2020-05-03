@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dai</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>dāi by FV1</title>
+  <syllable>dai1</syllable>
+  <pinyin>dāi</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>呆 呆</character_forms>
+  <character_forms>待 待</character_forms>
+  <character>
+    <simplified>呆</simplified>
+    <traditional>呆</traditional>
+  </character>
+  <character>
+    <simplified>待</simplified>
+    <traditional>待</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>dai1_FV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

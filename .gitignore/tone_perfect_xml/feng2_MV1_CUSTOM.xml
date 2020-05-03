@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>feng</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>féng by MV1</title>
+  <syllable>feng2</syllable>
+  <pinyin>féng</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>冯 馮</character_forms>
+  <character_forms>缝 縫</character_forms>
+  <character_forms>逢 逢</character_forms>
+  <character>
+    <simplified>冯</simplified>
+    <traditional>馮</traditional>
+  </character>
+  <character>
+    <simplified>缝</simplified>
+    <traditional>縫</traditional>
+  </character>
+  <character>
+    <simplified>逢</simplified>
+    <traditional>逢</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>feng2_MV1</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

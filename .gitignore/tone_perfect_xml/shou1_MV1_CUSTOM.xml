@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shou</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>shōu by MV1</title>
+  <syllable>shou1</syllable>
+  <pinyin>shōu</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>收 收</character_forms>
+  <character>
+    <simplified>收</simplified>
+    <traditional>收</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>shou1_MV1</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

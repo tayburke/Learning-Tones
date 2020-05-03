@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>náo by FV3</title>
+  <syllable>nao2</syllable>
+  <pinyin>náo</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>挠 撓</character_forms>
+  <character>
+    <simplified>挠</simplified>
+    <traditional>撓</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>nao2_FV3</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

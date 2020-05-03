@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>cáng by MV2</title>
+  <syllable>cang2</syllable>
+  <pinyin>cáng</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>藏 藏</character_forms>
+  <character>
+    <simplified>藏</simplified>
+    <traditional>藏</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>cang2_MV2</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

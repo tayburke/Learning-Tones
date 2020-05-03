@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ceng</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>cèng by MV2</title>
+  <syllable>ceng4</syllable>
+  <pinyin>cèng</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>蹭 蹭</character_forms>
+  <character>
+    <simplified>蹭</simplified>
+    <traditional>蹭</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ceng4_MV2</identifier>
+  <final>eng</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

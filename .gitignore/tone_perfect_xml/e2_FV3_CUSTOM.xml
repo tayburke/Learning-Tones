@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>e</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>é by FV3</title>
+  <syllable>e2</syllable>
+  <pinyin>é</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>俄 俄</character_forms>
+  <character_forms>额 額</character_forms>
+  <character_forms>鹅 鵝</character_forms>
+  <character>
+    <simplified>俄</simplified>
+    <traditional>俄</traditional>
+  </character>
+  <character>
+    <simplified>额</simplified>
+    <traditional>額</traditional>
+  </character>
+  <character>
+    <simplified>鹅</simplified>
+    <traditional>鵝</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>e2_FV3</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

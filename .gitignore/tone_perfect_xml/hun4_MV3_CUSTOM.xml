@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hun</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>hùn by MV3</title>
+  <syllable>hun4</syllable>
+  <pinyin>hùn</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>混 混</character_forms>
+  <character>
+    <simplified>混</simplified>
+    <traditional>混</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>hun4_MV3</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

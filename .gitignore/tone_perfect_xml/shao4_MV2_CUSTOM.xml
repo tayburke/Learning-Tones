@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shao</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>shào by MV2</title>
+  <syllable>shao4</syllable>
+  <pinyin>shào</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>绍 紹</character_forms>
+  <character>
+    <simplified>绍</simplified>
+    <traditional>紹</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>shao4_MV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

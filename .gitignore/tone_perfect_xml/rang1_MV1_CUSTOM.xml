@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>rang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>rāng by MV1</title>
+  <syllable>rang1</syllable>
+  <pinyin>rāng</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>rang1_MV1</identifier>
+  <final>ang</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

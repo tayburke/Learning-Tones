@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>hàng by MV3</title>
+  <syllable>hang4</syllable>
+  <pinyin>hàng</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>巷 巷</character_forms>
+  <character>
+    <simplified>巷</simplified>
+    <traditional>巷</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>hang4_MV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

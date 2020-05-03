@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chong</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>chōng by FV2</title>
+  <syllable>chong1</syllable>
+  <pinyin>chōng</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>充 充</character_forms>
+  <character_forms>冲 沖</character_forms>
+  <character>
+    <simplified>充</simplified>
+    <traditional>充</traditional>
+  </character>
+  <character>
+    <simplified>冲</simplified>
+    <traditional>沖</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>chong1_FV2</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

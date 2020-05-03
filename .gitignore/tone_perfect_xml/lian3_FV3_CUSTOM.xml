@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lian</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>liǎn by FV3</title>
+  <syllable>lian3</syllable>
+  <pinyin>liǎn</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>脸 臉</character_forms>
+  <character>
+    <simplified>脸</simplified>
+    <traditional>臉</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>lian3_FV3</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

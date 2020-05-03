@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>fū by MV1</title>
+  <syllable>fu1</syllable>
+  <pinyin>fū</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>夫 夫</character_forms>
+  <character_forms>肤 膚</character_forms>
+  <character_forms>敷 敷</character_forms>
+  <character>
+    <simplified>夫</simplified>
+    <traditional>夫</traditional>
+  </character>
+  <character>
+    <simplified>肤</simplified>
+    <traditional>膚</traditional>
+  </character>
+  <character>
+    <simplified>敷</simplified>
+    <traditional>敷</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>fu1_MV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

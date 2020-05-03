@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ben</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>bén by FV2</title>
+  <syllable>ben2</syllable>
+  <pinyin>bén</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ben2_FV2</identifier>
+  <final>en</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

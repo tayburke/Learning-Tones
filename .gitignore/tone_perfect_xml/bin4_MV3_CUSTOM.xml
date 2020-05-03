@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bin</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>bìn by MV3</title>
+  <syllable>bin4</syllable>
+  <pinyin>bìn</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>鬓 鬢</character_forms>
+  <character_forms>殡 殯</character_forms>
+  <character>
+    <simplified>鬓</simplified>
+    <traditional>鬢</traditional>
+  </character>
+  <character>
+    <simplified>殡</simplified>
+    <traditional>殯</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>bin4_MV3</identifier>
+  <final>in</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

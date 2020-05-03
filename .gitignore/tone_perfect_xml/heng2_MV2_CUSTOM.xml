@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>heng</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>héng by MV2</title>
+  <syllable>heng2</syllable>
+  <pinyin>héng</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>横 橫</character_forms>
+  <character_forms>衡 衡</character_forms>
+  <character_forms>恒 恒</character_forms>
+  <character>
+    <simplified>横</simplified>
+    <traditional>橫</traditional>
+  </character>
+  <character>
+    <simplified>衡</simplified>
+    <traditional>衡</traditional>
+  </character>
+  <character>
+    <simplified>恒</simplified>
+    <traditional>恒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>heng2_MV2</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

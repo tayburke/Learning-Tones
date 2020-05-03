@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>en</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>ěn by MV3</title>
+  <syllable>en3</syllable>
+  <pinyin>ěn</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>峎 峎</character_forms>
+  <character>
+    <simplified>峎</simplified>
+    <traditional>峎</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>en3_MV3</identifier>
+  <final>en</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

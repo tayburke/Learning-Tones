@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>juan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>juán by MV1</title>
+  <syllable>juan2</syllable>
+  <pinyin>juán</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>juan2_MV1</identifier>
+  <final>uan</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

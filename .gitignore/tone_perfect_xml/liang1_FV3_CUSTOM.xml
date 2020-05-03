@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>liang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>liāng by FV3</title>
+  <syllable>liang1</syllable>
+  <pinyin>liāng</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>liang1_FV3</identifier>
+  <final>iang</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

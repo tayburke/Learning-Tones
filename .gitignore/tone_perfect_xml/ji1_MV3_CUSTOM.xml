@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ji</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>jī by MV3</title>
+  <syllable>ji1</syllable>
+  <pinyin>jī</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>机 機</character_forms>
+  <character_forms>击 擊</character_forms>
+  <character_forms>激 激</character_forms>
+  <character>
+    <simplified>机</simplified>
+    <traditional>機</traditional>
+  </character>
+  <character>
+    <simplified>击</simplified>
+    <traditional>擊</traditional>
+  </character>
+  <character>
+    <simplified>激</simplified>
+    <traditional>激</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ji1_MV3</identifier>
+  <final>i</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

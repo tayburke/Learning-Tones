@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gui</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>guì by FV2</title>
+  <syllable>gui4</syllable>
+  <pinyin>guì</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>贵 貴</character_forms>
+  <character_forms>桂 桂</character_forms>
+  <character_forms>跪 跪</character_forms>
+  <character>
+    <simplified>贵</simplified>
+    <traditional>貴</traditional>
+  </character>
+  <character>
+    <simplified>桂</simplified>
+    <traditional>桂</traditional>
+  </character>
+  <character>
+    <simplified>跪</simplified>
+    <traditional>跪</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gui4_FV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

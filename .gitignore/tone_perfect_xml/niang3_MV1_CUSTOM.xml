@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>niang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>niǎng by MV1</title>
+  <syllable>niang3</syllable>
+  <pinyin>niǎng</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>niang3_MV1</identifier>
+  <final>iang</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

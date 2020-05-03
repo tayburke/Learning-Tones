@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bian</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>biǎn by MV1</title>
+  <syllable>bian3</syllable>
+  <pinyin>biǎn</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>扁 扁</character_forms>
+  <character>
+    <simplified>扁</simplified>
+    <traditional>扁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>bian3_MV1</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

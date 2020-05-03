@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhū by FV2</title>
+  <syllable>zhu1</syllable>
+  <pinyin>zhū</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>朱 朱</character_forms>
+  <character_forms>珠 珠</character_forms>
+  <character_forms>诸 諸</character_forms>
+  <character>
+    <simplified>朱</simplified>
+    <traditional>朱</traditional>
+  </character>
+  <character>
+    <simplified>珠</simplified>
+    <traditional>珠</traditional>
+  </character>
+  <character>
+    <simplified>诸</simplified>
+    <traditional>諸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>zhu1_FV2</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

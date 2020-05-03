@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>duo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>duò by MV1</title>
+  <syllable>duo4</syllable>
+  <pinyin>duò</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>堕 墮</character_forms>
+  <character>
+    <simplified>堕</simplified>
+    <traditional>墮</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>duo4_MV1</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

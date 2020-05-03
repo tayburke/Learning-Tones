@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shui</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>shuì by FV1</title>
+  <syllable>shui4</syllable>
+  <pinyin>shuì</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>睡 睡</character_forms>
+  <character_forms>税 稅</character_forms>
+  <character>
+    <simplified>睡</simplified>
+    <traditional>睡</traditional>
+  </character>
+  <character>
+    <simplified>税</simplified>
+    <traditional>稅</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>shui4_FV1</identifier>
+  <final>ui</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

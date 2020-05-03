@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sha</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shǎ by FV1</title>
+  <syllable>sha3</syllable>
+  <pinyin>shǎ</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>傻 傻</character_forms>
+  <character>
+    <simplified>傻</simplified>
+    <traditional>傻</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>sha3_FV1</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

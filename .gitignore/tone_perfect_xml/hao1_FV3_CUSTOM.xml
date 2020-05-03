@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hao</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>hāo by FV3</title>
+  <syllable>hao1</syllable>
+  <pinyin>hāo</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>蒿 蒿</character_forms>
+  <character>
+    <simplified>蒿</simplified>
+    <traditional>蒿</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>hao1_FV3</identifier>
+  <final>ao</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

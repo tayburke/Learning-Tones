@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shǒu by MV2</title>
+  <syllable>shou3</syllable>
+  <pinyin>shǒu</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>手 手</character_forms>
+  <character_forms>首 首</character_forms>
+  <character_forms>守 守</character_forms>
+  <character>
+    <simplified>手</simplified>
+    <traditional>手</traditional>
+  </character>
+  <character>
+    <simplified>首</simplified>
+    <traditional>首</traditional>
+  </character>
+  <character>
+    <simplified>守</simplified>
+    <traditional>守</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>shou3_MV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

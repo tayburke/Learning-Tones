@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kuo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>kuǒ by MV2</title>
+  <syllable>kuo3</syllable>
+  <pinyin>kuǒ</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>kuo3_MV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zou</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zōu by FV1</title>
+  <syllable>zou1</syllable>
+  <pinyin>zōu</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>邹 鄒</character_forms>
+  <character>
+    <simplified>邹</simplified>
+    <traditional>鄒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>zou1_FV1</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

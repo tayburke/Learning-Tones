@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cen</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>cěn by MV1</title>
+  <syllable>cen3</syllable>
+  <pinyin>cěn</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>cen3_MV1</identifier>
+  <final>en</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

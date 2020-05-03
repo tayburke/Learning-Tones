@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jiong</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>jiòng by MV3</title>
+  <syllable>jiong4</syllable>
+  <pinyin>jiòng</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>jiong4_MV3</identifier>
+  <final>iong</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

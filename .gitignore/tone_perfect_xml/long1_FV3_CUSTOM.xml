@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>long</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>lōng by FV3</title>
+  <syllable>long1</syllable>
+  <pinyin>lōng</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>long1_FV3</identifier>
+  <final>ong</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

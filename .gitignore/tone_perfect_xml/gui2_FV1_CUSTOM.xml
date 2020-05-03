@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gui</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>guí by FV1</title>
+  <syllable>gui2</syllable>
+  <pinyin>guí</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>gui2_FV1</identifier>
+  <final>ui</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

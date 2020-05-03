@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>huo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>huǒ by MV2</title>
+  <syllable>huo3</syllable>
+  <pinyin>huǒ</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>火 火</character_forms>
+  <character_forms>伙 夥</character_forms>
+  <character>
+    <simplified>火</simplified>
+    <traditional>火</traditional>
+  </character>
+  <character>
+    <simplified>伙</simplified>
+    <traditional>夥</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>huo3_MV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

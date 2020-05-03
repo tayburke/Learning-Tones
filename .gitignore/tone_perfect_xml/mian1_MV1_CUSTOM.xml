@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>mian</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>miān by MV1</title>
+  <syllable>mian1</syllable>
+  <pinyin>miān</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>mian1_MV1</identifier>
+  <final>ian</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

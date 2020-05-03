@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>niu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>niǔ by MV1</title>
+  <syllable>niu3</syllable>
+  <pinyin>niǔ</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>扭 扭</character_forms>
+  <character_forms>纽 紐</character_forms>
+  <character_forms>钮 鈕</character_forms>
+  <character>
+    <simplified>扭</simplified>
+    <traditional>扭</traditional>
+  </character>
+  <character>
+    <simplified>纽</simplified>
+    <traditional>紐</traditional>
+  </character>
+  <character>
+    <simplified>钮</simplified>
+    <traditional>鈕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>niu3_MV1</identifier>
+  <final>iu</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

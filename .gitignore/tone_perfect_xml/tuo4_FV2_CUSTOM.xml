@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tuo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>tuò by FV2</title>
+  <syllable>tuo4</syllable>
+  <pinyin>tuò</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>唾 唾</character_forms>
+  <character>
+    <simplified>唾</simplified>
+    <traditional>唾</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>tuo4_FV2</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ren</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>rèn by FV2</title>
+  <syllable>ren4</syllable>
+  <pinyin>rèn</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>任 任</character_forms>
+  <character_forms>认 認</character_forms>
+  <character>
+    <simplified>任</simplified>
+    <traditional>任</traditional>
+  </character>
+  <character>
+    <simplified>认</simplified>
+    <traditional>認</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ren4_FV2</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

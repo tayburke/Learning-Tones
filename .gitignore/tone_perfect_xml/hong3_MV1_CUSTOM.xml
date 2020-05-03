@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hong</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>hǒng by MV1</title>
+  <syllable>hong3</syllable>
+  <pinyin>hǒng</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>哄 哄</character_forms>
+  <character>
+    <simplified>哄</simplified>
+    <traditional>哄</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>hong3_MV1</identifier>
+  <final>ong</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

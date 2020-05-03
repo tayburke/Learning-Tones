@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ke</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>ké by MV3</title>
+  <syllable>ke2</syllable>
+  <pinyin>ké</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>壳 殼</character_forms>
+  <character_forms>咳 咳</character_forms>
+  <character>
+    <simplified>壳</simplified>
+    <traditional>殼</traditional>
+  </character>
+  <character>
+    <simplified>咳</simplified>
+    <traditional>咳</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ke2_MV3</identifier>
+  <final>e</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

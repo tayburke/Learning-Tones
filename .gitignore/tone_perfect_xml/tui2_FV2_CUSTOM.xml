@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tui</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>tuí by FV2</title>
+  <syllable>tui2</syllable>
+  <pinyin>tuí</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>颓 頹</character_forms>
+  <character>
+    <simplified>颓</simplified>
+    <traditional>頹</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>tui2_FV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

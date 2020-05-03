@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kao</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>kào by MV2</title>
+  <syllable>kao4</syllable>
+  <pinyin>kào</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>靠 靠</character_forms>
+  <character_forms>铐 銬</character_forms>
+  <character_forms>犒 犒</character_forms>
+  <character>
+    <simplified>靠</simplified>
+    <traditional>靠</traditional>
+  </character>
+  <character>
+    <simplified>铐</simplified>
+    <traditional>銬</traditional>
+  </character>
+  <character>
+    <simplified>犒</simplified>
+    <traditional>犒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>kao4_MV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

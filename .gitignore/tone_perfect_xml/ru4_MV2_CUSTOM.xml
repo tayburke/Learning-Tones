@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ru</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>rù by MV2</title>
+  <syllable>ru4</syllable>
+  <pinyin>rù</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>入 入</character_forms>
+  <character>
+    <simplified>入</simplified>
+    <traditional>入</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ru4_MV2</identifier>
+  <final>u</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

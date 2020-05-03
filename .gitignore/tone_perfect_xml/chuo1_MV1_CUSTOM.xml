@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chuo</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>chuō by MV1</title>
+  <syllable>chuo1</syllable>
+  <pinyin>chuō</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>戳 戳</character_forms>
+  <character>
+    <simplified>戳</simplified>
+    <traditional>戳</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>chuo1_MV1</identifier>
+  <final>uo</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

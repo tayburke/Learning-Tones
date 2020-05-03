@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>o</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>ó by MV2</title>
+  <syllable>o2</syllable>
+  <pinyin>ó</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>哦 哦</character_forms>
+  <character>
+    <simplified>哦</simplified>
+    <traditional>哦</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>o2_MV2</identifier>
+  <final>o</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

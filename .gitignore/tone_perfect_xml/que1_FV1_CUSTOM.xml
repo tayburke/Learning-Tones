@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>que</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>quē by FV1</title>
+  <syllable>que1</syllable>
+  <pinyin>quē</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>缺 缺</character_forms>
+  <character>
+    <simplified>缺</simplified>
+    <traditional>缺</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>que1_FV1</identifier>
+  <final>ue</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

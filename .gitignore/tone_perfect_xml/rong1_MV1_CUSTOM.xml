@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>rong</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>rōng by MV1</title>
+  <syllable>rong1</syllable>
+  <pinyin>rōng</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>rong1_MV1</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

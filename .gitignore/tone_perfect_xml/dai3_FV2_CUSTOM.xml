@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dai</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>dǎi by FV2</title>
+  <syllable>dai3</syllable>
+  <pinyin>dǎi</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>逮 逮</character_forms>
+  <character_forms>歹 歹</character_forms>
+  <character_forms>傣 傣</character_forms>
+  <character>
+    <simplified>逮</simplified>
+    <traditional>逮</traditional>
+  </character>
+  <character>
+    <simplified>歹</simplified>
+    <traditional>歹</traditional>
+  </character>
+  <character>
+    <simplified>傣</simplified>
+    <traditional>傣</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>dai3_FV2</identifier>
+  <final>ai</final>
+  <frequent_character_count>3</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

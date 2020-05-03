@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sun</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>sǔn by FV3</title>
+  <syllable>sun3</syllable>
+  <pinyin>sǔn</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>损 損</character_forms>
+  <character>
+    <simplified>损</simplified>
+    <traditional>損</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>sun3_FV3</identifier>
+  <final>un</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

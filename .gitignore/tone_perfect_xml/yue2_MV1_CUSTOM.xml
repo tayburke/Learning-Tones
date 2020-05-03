@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yue</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>yué by MV1</title>
+  <syllable>yue2</syllable>
+  <pinyin>yué</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>yue2_MV1</identifier>
+  <final>yue</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

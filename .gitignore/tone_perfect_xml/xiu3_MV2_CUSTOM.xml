@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xiu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>xiǔ by MV2</title>
+  <syllable>xiu3</syllable>
+  <pinyin>xiǔ</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>宿 宿</character_forms>
+  <character>
+    <simplified>宿</simplified>
+    <traditional>宿</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>xiu3_MV2</identifier>
+  <final>iu</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

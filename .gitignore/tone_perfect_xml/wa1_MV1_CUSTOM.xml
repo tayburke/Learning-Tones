@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wa</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>wā by MV1</title>
+  <syllable>wa1</syllable>
+  <pinyin>wā</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>挖 挖</character_forms>
+  <character_forms>哇 哇</character_forms>
+  <character_forms>蛙 蛙</character_forms>
+  <character>
+    <simplified>挖</simplified>
+    <traditional>挖</traditional>
+  </character>
+  <character>
+    <simplified>哇</simplified>
+    <traditional>哇</traditional>
+  </character>
+  <character>
+    <simplified>蛙</simplified>
+    <traditional>蛙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>wa1_MV1</identifier>
+  <final>wa</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>chǒu by FV3</title>
+  <syllable>chou3</syllable>
+  <pinyin>chǒu</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>丑 醜</character_forms>
+  <character>
+    <simplified>丑</simplified>
+    <traditional>醜</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>chou3_FV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nv</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>nǚ by FV1</title>
+  <syllable>nv3</syllable>
+  <pinyin>nǚ</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>女 女</character_forms>
+  <character>
+    <simplified>女</simplified>
+    <traditional>女</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>nv3_FV1</identifier>
+  <final>v</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nei</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>něi by MV2</title>
+  <syllable>nei3</syllable>
+  <pinyin>něi</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>哪 哪</character_forms>
+  <character_forms>馁 餒</character_forms>
+  <character>
+    <simplified>哪</simplified>
+    <traditional>哪</traditional>
+  </character>
+  <character>
+    <simplified>馁</simplified>
+    <traditional>餒</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>nei3_MV2</identifier>
+  <final>ei</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

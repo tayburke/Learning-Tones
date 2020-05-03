@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhuai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zhuái by MV2</title>
+  <syllable>zhuai2</syllable>
+  <pinyin>zhuái</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>zhuai2_MV2</identifier>
+  <final>uai</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hua</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>huā by FV1</title>
+  <syllable>hua1</syllable>
+  <pinyin>huā</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>花 花</character_forms>
+  <character>
+    <simplified>花</simplified>
+    <traditional>花</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>hua1_FV1</identifier>
+  <final>ua</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

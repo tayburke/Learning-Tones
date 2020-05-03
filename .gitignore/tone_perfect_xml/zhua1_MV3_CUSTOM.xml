@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhua</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhuā by MV3</title>
+  <syllable>zhua1</syllable>
+  <pinyin>zhuā</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>抓 抓</character_forms>
+  <character>
+    <simplified>抓</simplified>
+    <traditional>抓</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zhua1_MV3</identifier>
+  <final>ua</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

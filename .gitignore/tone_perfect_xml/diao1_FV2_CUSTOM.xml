@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>diao</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>diāo by FV2</title>
+  <syllable>diao1</syllable>
+  <pinyin>diāo</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>雕 雕</character_forms>
+  <character>
+    <simplified>雕</simplified>
+    <traditional>雕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>diao1_FV2</identifier>
+  <final>iao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>wang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>wàng by MV1</title>
+  <syllable>wang4</syllable>
+  <pinyin>wàng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>望 望</character_forms>
+  <character_forms>忘 忘</character_forms>
+  <character_forms>旺 旺</character_forms>
+  <character>
+    <simplified>望</simplified>
+    <traditional>望</traditional>
+  </character>
+  <character>
+    <simplified>忘</simplified>
+    <traditional>忘</traditional>
+  </character>
+  <character>
+    <simplified>旺</simplified>
+    <traditional>旺</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>wang4_MV1</identifier>
+  <final>wang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

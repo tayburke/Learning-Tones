@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ci</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>cì by MV2</title>
+  <syllable>ci4</syllable>
+  <pinyin>cì</pinyin>
+  <section>Unknown</section>
+  <initial>ci</initial>
+  <character_forms>次 次</character_forms>
+  <character_forms>刺 刺</character_forms>
+  <character>
+    <simplified>次</simplified>
+    <traditional>次</traditional>
+  </character>
+  <character>
+    <simplified>刺</simplified>
+    <traditional>刺</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ci4_MV2</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

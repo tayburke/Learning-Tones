@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>dun</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>dūn by MV1</title>
+  <syllable>dun1</syllable>
+  <pinyin>dūn</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>蹲 蹲</character_forms>
+  <character>
+    <simplified>蹲</simplified>
+    <traditional>蹲</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>dun1_MV1</identifier>
+  <final>un</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hui</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>huī by MV2</title>
+  <syllable>hui1</syllable>
+  <pinyin>huī</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>挥 揮</character_forms>
+  <character_forms>灰 灰</character_forms>
+  <character_forms>恢 恢</character_forms>
+  <character>
+    <simplified>挥</simplified>
+    <traditional>揮</traditional>
+  </character>
+  <character>
+    <simplified>灰</simplified>
+    <traditional>灰</traditional>
+  </character>
+  <character>
+    <simplified>恢</simplified>
+    <traditional>恢</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>hui1_MV2</identifier>
+  <final>ui</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

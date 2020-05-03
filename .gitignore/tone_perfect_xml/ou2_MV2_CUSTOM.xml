@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ou</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>óu by MV2</title>
+  <syllable>ou2</syllable>
+  <pinyin>óu</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ou2_MV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

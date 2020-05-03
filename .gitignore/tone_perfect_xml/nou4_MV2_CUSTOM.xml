@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nou</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>nòu by MV2</title>
+  <syllable>nou4</syllable>
+  <pinyin>nòu</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>耨 耨</character_forms>
+  <character>
+    <simplified>耨</simplified>
+    <traditional>耨</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>nou4_MV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>cǎng by FV3</title>
+  <syllable>cang3</syllable>
+  <pinyin>cǎng</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>cang3_FV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

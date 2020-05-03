@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ku</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>kú by MV1</title>
+  <syllable>ku2</syllable>
+  <pinyin>kú</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>ku2_MV1</identifier>
+  <final>u</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

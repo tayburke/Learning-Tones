@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yong</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>yǒng by MV1</title>
+  <syllable>yong3</syllable>
+  <pinyin>yǒng</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>永 永</character_forms>
+  <character_forms>勇 勇</character_forms>
+  <character_forms>涌 湧</character_forms>
+  <character>
+    <simplified>永</simplified>
+    <traditional>永</traditional>
+  </character>
+  <character>
+    <simplified>勇</simplified>
+    <traditional>勇</traditional>
+  </character>
+  <character>
+    <simplified>涌</simplified>
+    <traditional>湧</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>yong3_MV1</identifier>
+  <final>yong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

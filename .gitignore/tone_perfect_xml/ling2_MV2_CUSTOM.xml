@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ling</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>líng by MV2</title>
+  <syllable>ling2</syllable>
+  <pinyin>líng</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>灵 靈</character_forms>
+  <character_forms>零 零</character_forms>
+  <character_forms>铃 鈴</character_forms>
+  <character>
+    <simplified>灵</simplified>
+    <traditional>靈</traditional>
+  </character>
+  <character>
+    <simplified>零</simplified>
+    <traditional>零</traditional>
+  </character>
+  <character>
+    <simplified>铃</simplified>
+    <traditional>鈴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ling2_MV2</identifier>
+  <final>ing</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

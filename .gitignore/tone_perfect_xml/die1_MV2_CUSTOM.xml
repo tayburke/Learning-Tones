@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>die</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>diē by MV2</title>
+  <syllable>die1</syllable>
+  <pinyin>diē</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>爹 爹</character_forms>
+  <character_forms>跌 跌</character_forms>
+  <character>
+    <simplified>爹</simplified>
+    <traditional>爹</traditional>
+  </character>
+  <character>
+    <simplified>跌</simplified>
+    <traditional>跌</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>die1_MV2</identifier>
+  <final>ie</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

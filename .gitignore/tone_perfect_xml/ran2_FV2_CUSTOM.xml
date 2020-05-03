@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ran</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>rán by FV2</title>
+  <syllable>ran2</syllable>
+  <pinyin>rán</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>然 然</character_forms>
+  <character_forms>燃 燃</character_forms>
+  <character>
+    <simplified>然</simplified>
+    <traditional>然</traditional>
+  </character>
+  <character>
+    <simplified>燃</simplified>
+    <traditional>燃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>ran2_FV2</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

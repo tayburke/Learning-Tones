@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kuang</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>kuàng by FV3</title>
+  <syllable>kuang4</syllable>
+  <pinyin>kuàng</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>况 況</character_forms>
+  <character_forms>矿 礦</character_forms>
+  <character>
+    <simplified>况</simplified>
+    <traditional>況</traditional>
+  </character>
+  <character>
+    <simplified>矿</simplified>
+    <traditional>礦</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>kuang4_FV3</identifier>
+  <final>uang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

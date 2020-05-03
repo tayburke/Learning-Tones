@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ce</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>cē by MV3</title>
+  <syllable>ce1</syllable>
+  <pinyin>cē</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ce1_MV3</identifier>
+  <final>e</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

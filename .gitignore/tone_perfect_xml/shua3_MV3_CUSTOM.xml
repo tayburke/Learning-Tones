@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shua</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shuǎ by MV3</title>
+  <syllable>shua3</syllable>
+  <pinyin>shuǎ</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>耍 耍</character_forms>
+  <character>
+    <simplified>耍</simplified>
+    <traditional>耍</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>shua3_MV3</identifier>
+  <final>ua</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

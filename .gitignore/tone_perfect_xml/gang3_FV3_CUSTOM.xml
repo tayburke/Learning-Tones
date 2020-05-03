@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>gǎng by FV3</title>
+  <syllable>gang3</syllable>
+  <pinyin>gǎng</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>港 港</character_forms>
+  <character_forms>岗 崗</character_forms>
+  <character>
+    <simplified>港</simplified>
+    <traditional>港</traditional>
+  </character>
+  <character>
+    <simplified>岗</simplified>
+    <traditional>崗</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>gang3_FV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

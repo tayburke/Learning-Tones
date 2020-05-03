@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>shuang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>shuǎng by FV3</title>
+  <syllable>shuang3</syllable>
+  <pinyin>shuǎng</pinyin>
+  <section>Unknown</section>
+  <initial>sh</initial>
+  <character_forms>爽 爽</character_forms>
+  <character>
+    <simplified>爽</simplified>
+    <traditional>爽</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>shuang3_FV3</identifier>
+  <final>uang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

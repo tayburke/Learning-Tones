@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nun</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>nún by MV1</title>
+  <syllable>nun2</syllable>
+  <pinyin>nún</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>黁 黁</character_forms>
+  <character>
+    <simplified>黁</simplified>
+    <traditional>黁</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>nun2_MV1</identifier>
+  <final>un</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

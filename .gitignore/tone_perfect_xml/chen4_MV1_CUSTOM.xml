@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chen</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>chèn by MV1</title>
+  <syllable>chen4</syllable>
+  <pinyin>chèn</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>称 稱</character_forms>
+  <character_forms>趁 趁</character_forms>
+  <character_forms>衬 襯</character_forms>
+  <character>
+    <simplified>称</simplified>
+    <traditional>稱</traditional>
+  </character>
+  <character>
+    <simplified>趁</simplified>
+    <traditional>趁</traditional>
+  </character>
+  <character>
+    <simplified>衬</simplified>
+    <traditional>襯</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>chen4_MV1</identifier>
+  <final>en</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

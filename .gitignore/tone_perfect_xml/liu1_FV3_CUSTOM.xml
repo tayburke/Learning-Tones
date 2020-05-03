@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>liu</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>liū by FV3</title>
+  <syllable>liu1</syllable>
+  <pinyin>liū</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>溜 溜</character_forms>
+  <character>
+    <simplified>溜</simplified>
+    <traditional>溜</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>liu1_FV3</identifier>
+  <final>iu</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

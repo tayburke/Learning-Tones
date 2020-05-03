@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>liao</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>liǎo by FV1</title>
+  <syllable>liao3</syllable>
+  <pinyin>liǎo</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>了 了</character_forms>
+  <character>
+    <simplified>了</simplified>
+    <traditional>了</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>liao3_FV1</identifier>
+  <final>iao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

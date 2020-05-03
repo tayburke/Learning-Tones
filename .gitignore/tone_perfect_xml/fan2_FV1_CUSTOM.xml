@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fan</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>fán by FV1</title>
+  <syllable>fan2</syllable>
+  <pinyin>fán</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>凡 凡</character_forms>
+  <character_forms>烦 煩</character_forms>
+  <character_forms>繁 繁</character_forms>
+  <character>
+    <simplified>凡</simplified>
+    <traditional>凡</traditional>
+  </character>
+  <character>
+    <simplified>烦</simplified>
+    <traditional>煩</traditional>
+  </character>
+  <character>
+    <simplified>繁</simplified>
+    <traditional>繁</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>fan2_FV1</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

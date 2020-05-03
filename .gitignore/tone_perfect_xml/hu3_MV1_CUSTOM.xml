@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>hǔ by MV1</title>
+  <syllable>hu3</syllable>
+  <pinyin>hǔ</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>虎 虎</character_forms>
+  <character_forms>唬 唬</character_forms>
+  <character_forms>浒 滸</character_forms>
+  <character>
+    <simplified>虎</simplified>
+    <traditional>虎</traditional>
+  </character>
+  <character>
+    <simplified>唬</simplified>
+    <traditional>唬</traditional>
+  </character>
+  <character>
+    <simplified>浒</simplified>
+    <traditional>滸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>hu3_MV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

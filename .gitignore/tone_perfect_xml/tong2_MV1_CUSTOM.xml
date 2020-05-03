@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tong</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>tóng by MV1</title>
+  <syllable>tong2</syllable>
+  <pinyin>tóng</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>同 同</character_forms>
+  <character_forms>童 童</character_forms>
+  <character_forms>铜 銅</character_forms>
+  <character>
+    <simplified>同</simplified>
+    <traditional>同</traditional>
+  </character>
+  <character>
+    <simplified>童</simplified>
+    <traditional>童</traditional>
+  </character>
+  <character>
+    <simplified>铜</simplified>
+    <traditional>銅</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>tong2_MV1</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

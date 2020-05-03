@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>me</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>mē by FV1</title>
+  <syllable>me1</syllable>
+  <pinyin>mē</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>me1_FV1</identifier>
+  <final>e</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

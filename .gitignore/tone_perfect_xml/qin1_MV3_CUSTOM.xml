@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qin</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>qīn by MV3</title>
+  <syllable>qin1</syllable>
+  <pinyin>qīn</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>亲 親</character_forms>
+  <character_forms>侵 侵</character_forms>
+  <character>
+    <simplified>亲</simplified>
+    <traditional>親</traditional>
+  </character>
+  <character>
+    <simplified>侵</simplified>
+    <traditional>侵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>qin1_MV3</identifier>
+  <final>in</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

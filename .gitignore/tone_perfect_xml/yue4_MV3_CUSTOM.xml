@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yue</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>yuè by MV3</title>
+  <syllable>yue4</syllable>
+  <pinyin>yuè</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>月 月</character_forms>
+  <character_forms>越 越</character_forms>
+  <character_forms>乐 樂</character_forms>
+  <character>
+    <simplified>月</simplified>
+    <traditional>月</traditional>
+  </character>
+  <character>
+    <simplified>越</simplified>
+    <traditional>越</traditional>
+  </character>
+  <character>
+    <simplified>乐</simplified>
+    <traditional>樂</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>yue4_MV3</identifier>
+  <final>yue</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

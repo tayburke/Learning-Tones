@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xie</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>xiē by MV2</title>
+  <syllable>xie1</syllable>
+  <pinyin>xiē</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>些 些</character_forms>
+  <character_forms>歇 歇</character_forms>
+  <character>
+    <simplified>些</simplified>
+    <traditional>些</traditional>
+  </character>
+  <character>
+    <simplified>歇</simplified>
+    <traditional>歇</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>xie1_MV2</identifier>
+  <final>ie</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xin</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>xìn by FV2</title>
+  <syllable>xin4</syllable>
+  <pinyin>xìn</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>信 信</character_forms>
+  <character>
+    <simplified>信</simplified>
+    <traditional>信</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>xin4_FV2</identifier>
+  <final>in</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

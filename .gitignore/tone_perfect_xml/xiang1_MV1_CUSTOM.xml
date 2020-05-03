@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xiang</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>xiāng by MV1</title>
+  <syllable>xiang1</syllable>
+  <pinyin>xiāng</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>相 相</character_forms>
+  <character_forms>香 香</character_forms>
+  <character_forms>乡 鄉</character_forms>
+  <character>
+    <simplified>相</simplified>
+    <traditional>相</traditional>
+  </character>
+  <character>
+    <simplified>香</simplified>
+    <traditional>香</traditional>
+  </character>
+  <character>
+    <simplified>乡</simplified>
+    <traditional>鄉</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>xiang1_MV1</identifier>
+  <final>iang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

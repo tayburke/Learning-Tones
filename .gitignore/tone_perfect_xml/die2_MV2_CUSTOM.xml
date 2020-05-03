@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>die</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>dié by MV2</title>
+  <syllable>die2</syllable>
+  <pinyin>dié</pinyin>
+  <section>Unknown</section>
+  <initial>d</initial>
+  <character_forms>蝶 蝶</character_forms>
+  <character>
+    <simplified>蝶</simplified>
+    <traditional>蝶</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>die2_MV2</identifier>
+  <final>ie</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>guan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>guān by FV3</title>
+  <syllable>guan1</syllable>
+  <pinyin>guān</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>关 關</character_forms>
+  <character_forms>官 官</character_forms>
+  <character_forms>观 觀</character_forms>
+  <character>
+    <simplified>关</simplified>
+    <traditional>關</traditional>
+  </character>
+  <character>
+    <simplified>官</simplified>
+    <traditional>官</traditional>
+  </character>
+  <character>
+    <simplified>观</simplified>
+    <traditional>觀</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>guan1_FV3</identifier>
+  <final>uan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

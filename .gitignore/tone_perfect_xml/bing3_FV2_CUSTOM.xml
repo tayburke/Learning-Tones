@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bing</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>bǐng by FV2</title>
+  <syllable>bing3</syllable>
+  <pinyin>bǐng</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>柄 柄</character_forms>
+  <character_forms>饼 餅</character_forms>
+  <character_forms>禀 稟</character_forms>
+  <character>
+    <simplified>柄</simplified>
+    <traditional>柄</traditional>
+  </character>
+  <character>
+    <simplified>饼</simplified>
+    <traditional>餅</traditional>
+  </character>
+  <character>
+    <simplified>禀</simplified>
+    <traditional>稟</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>bing3_FV2</identifier>
+  <final>ing</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

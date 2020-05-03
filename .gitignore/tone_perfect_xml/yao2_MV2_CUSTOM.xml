@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>yao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>yáo by MV2</title>
+  <syllable>yao2</syllable>
+  <pinyin>yáo</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <character_forms>摇 搖</character_forms>
+  <character_forms>遥 遙</character_forms>
+  <character>
+    <simplified>摇</simplified>
+    <traditional>搖</traditional>
+  </character>
+  <character>
+    <simplified>遥</simplified>
+    <traditional>遙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>yao2_MV2</identifier>
+  <final>yao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

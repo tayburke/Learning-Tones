@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tan</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tān by FV1</title>
+  <syllable>tan1</syllable>
+  <pinyin>tān</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>滩 灘</character_forms>
+  <character_forms>贪 貪</character_forms>
+  <character_forms>摊 攤</character_forms>
+  <character>
+    <simplified>滩</simplified>
+    <traditional>灘</traditional>
+  </character>
+  <character>
+    <simplified>贪</simplified>
+    <traditional>貪</traditional>
+  </character>
+  <character>
+    <simplified>摊</simplified>
+    <traditional>攤</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>tan1_FV1</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

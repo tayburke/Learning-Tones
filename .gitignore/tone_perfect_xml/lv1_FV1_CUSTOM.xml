@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lv</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>lǖ by FV1</title>
+  <syllable>lv1</syllable>
+  <pinyin>lǖ</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>lv1_FV1</identifier>
+  <final>v</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

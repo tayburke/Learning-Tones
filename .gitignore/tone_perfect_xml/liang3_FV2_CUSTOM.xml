@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>liang</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>liǎng by FV2</title>
+  <syllable>liang3</syllable>
+  <pinyin>liǎng</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>两 兩</character_forms>
+  <character>
+    <simplified>两</simplified>
+    <traditional>兩</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>liang3_FV2</identifier>
+  <final>iang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

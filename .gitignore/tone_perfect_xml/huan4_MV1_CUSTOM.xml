@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>huan</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>huàn by MV1</title>
+  <syllable>huan4</syllable>
+  <pinyin>huàn</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>换 換</character_forms>
+  <character_forms>幻 幻</character_forms>
+  <character_forms>唤 喚</character_forms>
+  <character>
+    <simplified>换</simplified>
+    <traditional>換</traditional>
+  </character>
+  <character>
+    <simplified>幻</simplified>
+    <traditional>幻</traditional>
+  </character>
+  <character>
+    <simplified>唤</simplified>
+    <traditional>喚</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>huan4_MV1</identifier>
+  <final>uan</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

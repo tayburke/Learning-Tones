@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>kǒu by MV3</title>
+  <syllable>kou3</syllable>
+  <pinyin>kǒu</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>口 口</character_forms>
+  <character>
+    <simplified>口</simplified>
+    <traditional>口</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>kou3_MV3</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

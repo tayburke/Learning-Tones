@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tu</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>tú by FV1</title>
+  <syllable>tu2</syllable>
+  <pinyin>tú</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>图 圖</character_forms>
+  <character_forms>徒 徒</character_forms>
+  <character_forms>途 途</character_forms>
+  <character>
+    <simplified>图</simplified>
+    <traditional>圖</traditional>
+  </character>
+  <character>
+    <simplified>徒</simplified>
+    <traditional>徒</traditional>
+  </character>
+  <character>
+    <simplified>途</simplified>
+    <traditional>途</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>tu2_FV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>si</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>sǐ by FV2</title>
+  <syllable>si3</syllable>
+  <pinyin>sǐ</pinyin>
+  <section>Unknown</section>
+  <initial>si</initial>
+  <character_forms>死 死</character_forms>
+  <character>
+    <simplified>死</simplified>
+    <traditional>死</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>si3_FV2</identifier>
+  <final>Null</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>huang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>huáng by MV2</title>
+  <syllable>huang2</syllable>
+  <pinyin>huáng</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>黄 黃</character_forms>
+  <character_forms>皇 皇</character_forms>
+  <character>
+    <simplified>黄</simplified>
+    <traditional>黃</traditional>
+  </character>
+  <character>
+    <simplified>皇</simplified>
+    <traditional>皇</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>huang2_MV2</identifier>
+  <final>uang</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

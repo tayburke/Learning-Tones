@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cuan</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>cuàn by MV2</title>
+  <syllable>cuan4</syllable>
+  <pinyin>cuàn</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>窜 竄</character_forms>
+  <character>
+    <simplified>窜</simplified>
+    <traditional>竄</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>cuan4_MV2</identifier>
+  <final>uan</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

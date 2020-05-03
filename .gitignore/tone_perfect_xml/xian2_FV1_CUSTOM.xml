@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xian</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>xián by FV1</title>
+  <syllable>xian2</syllable>
+  <pinyin>xián</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <character_forms>闲 閑</character_forms>
+  <character_forms>贤 賢</character_forms>
+  <character_forms>嫌 嫌</character_forms>
+  <character>
+    <simplified>闲</simplified>
+    <traditional>閑</traditional>
+  </character>
+  <character>
+    <simplified>贤</simplified>
+    <traditional>賢</traditional>
+  </character>
+  <character>
+    <simplified>嫌</simplified>
+    <traditional>嫌</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>xian2_FV1</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

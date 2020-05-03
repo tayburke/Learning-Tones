@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>lian</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>lián by FV2</title>
+  <syllable>lian2</syllable>
+  <pinyin>lián</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>连 連</character_forms>
+  <character_forms>联 聯</character_forms>
+  <character_forms>怜 憐</character_forms>
+  <character>
+    <simplified>连</simplified>
+    <traditional>連</traditional>
+  </character>
+  <character>
+    <simplified>联</simplified>
+    <traditional>聯</traditional>
+  </character>
+  <character>
+    <simplified>怜</simplified>
+    <traditional>憐</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>lian2_FV2</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

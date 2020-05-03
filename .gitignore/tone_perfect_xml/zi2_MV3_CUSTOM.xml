@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zi</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zí by MV3</title>
+  <syllable>zi2</syllable>
+  <pinyin>zí</pinyin>
+  <section>Unknown</section>
+  <initial>zi</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zi2_MV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

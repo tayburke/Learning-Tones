@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>cuan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>cuǎn by MV2</title>
+  <syllable>cuan3</syllable>
+  <pinyin>cuǎn</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>cuan3_MV2</identifier>
+  <final>uan</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

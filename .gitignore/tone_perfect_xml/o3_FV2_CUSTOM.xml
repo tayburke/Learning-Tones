@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>o</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>ǒ by FV2</title>
+  <syllable>o3</syllable>
+  <pinyin>ǒ</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>o3_FV2</identifier>
+  <final>o</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tui</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>tuī by MV3</title>
+  <syllable>tui1</syllable>
+  <pinyin>tuī</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>推 推</character_forms>
+  <character>
+    <simplified>推</simplified>
+    <traditional>推</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>tui1_MV3</identifier>
+  <final>ui</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

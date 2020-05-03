@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pen</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>pén by MV3</title>
+  <syllable>pen2</syllable>
+  <pinyin>pén</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>盆 盆</character_forms>
+  <character>
+    <simplified>盆</simplified>
+    <traditional>盆</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>pen2_MV3</identifier>
+  <final>en</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

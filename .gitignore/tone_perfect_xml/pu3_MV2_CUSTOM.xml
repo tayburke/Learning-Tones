@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pu</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>pǔ by MV2</title>
+  <syllable>pu3</syllable>
+  <pinyin>pǔ</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>普 普</character_forms>
+  <character_forms>浦 浦</character_forms>
+  <character_forms>朴 樸</character_forms>
+  <character>
+    <simplified>普</simplified>
+    <traditional>普</traditional>
+  </character>
+  <character>
+    <simplified>浦</simplified>
+    <traditional>浦</traditional>
+  </character>
+  <character>
+    <simplified>朴</simplified>
+    <traditional>樸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>pu3_MV2</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

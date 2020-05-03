@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>fa</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>fà by MV3</title>
+  <syllable>fa4</syllable>
+  <pinyin>fà</pinyin>
+  <section>Unknown</section>
+  <initial>f</initial>
+  <character_forms>发 發</character_forms>
+  <character>
+    <simplified>发</simplified>
+    <traditional>發</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>fa4_MV3</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

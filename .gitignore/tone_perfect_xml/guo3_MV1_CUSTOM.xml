@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>guo</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>guǒ by MV1</title>
+  <syllable>guo3</syllable>
+  <pinyin>guǒ</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>果 果</character_forms>
+  <character>
+    <simplified>果</simplified>
+    <traditional>果</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>guo3_MV1</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

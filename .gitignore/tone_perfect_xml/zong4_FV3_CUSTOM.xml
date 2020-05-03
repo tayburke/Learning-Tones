@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zong</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zòng by FV3</title>
+  <syllable>zong4</syllable>
+  <pinyin>zòng</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>纵 縱</character_forms>
+  <character>
+    <simplified>纵</simplified>
+    <traditional>縱</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zong4_FV3</identifier>
+  <final>ong</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

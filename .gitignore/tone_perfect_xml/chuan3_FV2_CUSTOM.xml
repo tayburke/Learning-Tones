@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chuan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>chuǎn by FV2</title>
+  <syllable>chuan3</syllable>
+  <pinyin>chuǎn</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>喘 喘</character_forms>
+  <character>
+    <simplified>喘</simplified>
+    <traditional>喘</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>chuan3_FV2</identifier>
+  <final>uan</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

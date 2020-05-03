@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bi</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>bī by MV3</title>
+  <syllable>bi1</syllable>
+  <pinyin>bī</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>逼 逼</character_forms>
+  <character>
+    <simplified>逼</simplified>
+    <traditional>逼</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>bi1_MV3</identifier>
+  <final>i</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

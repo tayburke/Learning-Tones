@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>káng by FV2</title>
+  <syllable>kang2</syllable>
+  <pinyin>káng</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>扛 扛</character_forms>
+  <character>
+    <simplified>扛</simplified>
+    <traditional>扛</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>kang2_FV2</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

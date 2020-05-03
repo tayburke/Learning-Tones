@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ceng</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>céng by MV2</title>
+  <syllable>ceng2</syllable>
+  <pinyin>céng</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>曾 曾</character_forms>
+  <character_forms>层 層</character_forms>
+  <character>
+    <simplified>曾</simplified>
+    <traditional>曾</traditional>
+  </character>
+  <character>
+    <simplified>层</simplified>
+    <traditional>層</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>ceng2_MV2</identifier>
+  <final>eng</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

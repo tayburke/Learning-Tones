@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>he</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>hē by FV3</title>
+  <syllable>he1</syllable>
+  <pinyin>hē</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>喝 喝</character_forms>
+  <character_forms>呵 呵</character_forms>
+  <character>
+    <simplified>喝</simplified>
+    <traditional>喝</traditional>
+  </character>
+  <character>
+    <simplified>呵</simplified>
+    <traditional>呵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>he1_FV3</identifier>
+  <final>e</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

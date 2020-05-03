@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gua</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>guǎ by FV2</title>
+  <syllable>gua3</syllable>
+  <pinyin>guǎ</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>寡 寡</character_forms>
+  <character>
+    <simplified>寡</simplified>
+    <traditional>寡</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gua3_FV2</identifier>
+  <final>ua</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

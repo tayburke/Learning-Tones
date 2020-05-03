@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>jiao</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>jiào by FV3</title>
+  <syllable>jiao4</syllable>
+  <pinyin>jiào</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>叫 叫</character_forms>
+  <character_forms>觉 覺</character_forms>
+  <character_forms>教 教</character_forms>
+  <character>
+    <simplified>叫</simplified>
+    <traditional>叫</traditional>
+  </character>
+  <character>
+    <simplified>觉</simplified>
+    <traditional>覺</traditional>
+  </character>
+  <character>
+    <simplified>教</simplified>
+    <traditional>教</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>jiao4_FV3</identifier>
+  <final>iao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qun</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>qún by FV2</title>
+  <syllable>qun2</syllable>
+  <pinyin>qún</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>群 群</character_forms>
+  <character_forms>裙 裙</character_forms>
+  <character>
+    <simplified>群</simplified>
+    <traditional>群</traditional>
+  </character>
+  <character>
+    <simplified>裙</simplified>
+    <traditional>裙</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>qun2_FV2</identifier>
+  <final>un</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

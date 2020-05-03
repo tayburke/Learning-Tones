@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zheng</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhēng by MV3</title>
+  <syllable>zheng1</syllable>
+  <pinyin>zhēng</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>争 爭</character_forms>
+  <character_forms>征 征</character_forms>
+  <character_forms>正 正</character_forms>
+  <character>
+    <simplified>争</simplified>
+    <traditional>爭</traditional>
+  </character>
+  <character>
+    <simplified>征</simplified>
+    <traditional>征</traditional>
+  </character>
+  <character>
+    <simplified>正</simplified>
+    <traditional>正</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>zheng1_MV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

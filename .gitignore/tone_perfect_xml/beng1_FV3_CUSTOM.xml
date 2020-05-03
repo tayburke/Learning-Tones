@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>beng</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>bēng by FV3</title>
+  <syllable>beng1</syllable>
+  <pinyin>bēng</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>崩 崩</character_forms>
+  <character_forms>绷 繃</character_forms>
+  <character>
+    <simplified>崩</simplified>
+    <traditional>崩</traditional>
+  </character>
+  <character>
+    <simplified>绷</simplified>
+    <traditional>繃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>beng1_FV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

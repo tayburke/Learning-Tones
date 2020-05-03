@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>rong</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>rǒng by MV1</title>
+  <syllable>rong3</syllable>
+  <pinyin>rǒng</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <character_forms>冗 冗</character_forms>
+  <character>
+    <simplified>冗</simplified>
+    <traditional>冗</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>rong3_MV1</identifier>
+  <final>ong</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

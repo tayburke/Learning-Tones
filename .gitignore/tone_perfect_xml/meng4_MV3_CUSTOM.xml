@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>meng</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>mèng by MV3</title>
+  <syllable>meng4</syllable>
+  <pinyin>mèng</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>梦 夢</character_forms>
+  <character_forms>孟 孟</character_forms>
+  <character>
+    <simplified>梦</simplified>
+    <traditional>夢</traditional>
+  </character>
+  <character>
+    <simplified>孟</simplified>
+    <traditional>孟</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>meng4_MV3</identifier>
+  <final>eng</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

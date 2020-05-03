@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qian</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>qián by FV2</title>
+  <syllable>qian2</syllable>
+  <pinyin>qián</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>前 前</character_forms>
+  <character_forms>钱 錢</character_forms>
+  <character_forms>潜 潛</character_forms>
+  <character>
+    <simplified>前</simplified>
+    <traditional>前</traditional>
+  </character>
+  <character>
+    <simplified>钱</simplified>
+    <traditional>錢</traditional>
+  </character>
+  <character>
+    <simplified>潜</simplified>
+    <traditional>潛</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>qian2_FV2</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

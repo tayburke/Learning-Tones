@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>hu</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>hú by FV2</title>
+  <syllable>hu2</syllable>
+  <pinyin>hú</pinyin>
+  <section>Unknown</section>
+  <initial>h</initial>
+  <character_forms>胡 胡</character_forms>
+  <character_forms>湖 湖</character_forms>
+  <character_forms>糊 糊</character_forms>
+  <character>
+    <simplified>胡</simplified>
+    <traditional>胡</traditional>
+  </character>
+  <character>
+    <simplified>湖</simplified>
+    <traditional>湖</traditional>
+  </character>
+  <character>
+    <simplified>糊</simplified>
+    <traditional>糊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>hu2_FV2</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

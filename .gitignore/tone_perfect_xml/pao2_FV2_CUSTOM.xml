@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pao</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>páo by FV2</title>
+  <syllable>pao2</syllable>
+  <pinyin>páo</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>袍 袍</character_forms>
+  <character_forms>刨 刨</character_forms>
+  <character_forms>咆 咆</character_forms>
+  <character>
+    <simplified>袍</simplified>
+    <traditional>袍</traditional>
+  </character>
+  <character>
+    <simplified>刨</simplified>
+    <traditional>刨</traditional>
+  </character>
+  <character>
+    <simplified>咆</simplified>
+    <traditional>咆</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>pao2_FV2</identifier>
+  <final>ao</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

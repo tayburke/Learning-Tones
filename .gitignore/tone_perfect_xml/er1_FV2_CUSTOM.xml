@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>er</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>ēr by FV2</title>
+  <syllable>er1</syllable>
+  <pinyin>ēr</pinyin>
+  <section>Unknown</section>
+  <initial>Null</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>er1_FV2</identifier>
+  <final>er</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

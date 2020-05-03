@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>za</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>zá by FV1</title>
+  <syllable>za2</syllable>
+  <pinyin>zá</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>杂 雜</character_forms>
+  <character>
+    <simplified>杂</simplified>
+    <traditional>雜</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>za2_FV1</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

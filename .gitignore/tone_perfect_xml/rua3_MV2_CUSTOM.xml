@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>rua</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>ruǎ by MV2</title>
+  <syllable>rua3</syllable>
+  <pinyin>ruǎ</pinyin>
+  <section>Unknown</section>
+  <initial>r</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>rua3_MV2</identifier>
+  <final>ua</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

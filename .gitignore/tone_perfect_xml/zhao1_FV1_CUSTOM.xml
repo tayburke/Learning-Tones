@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zhao</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>zhāo by FV1</title>
+  <syllable>zhao1</syllable>
+  <pinyin>zhāo</pinyin>
+  <section>Unknown</section>
+  <initial>zh</initial>
+  <character_forms>招 招</character_forms>
+  <character_forms>朝 朝</character_forms>
+  <character>
+    <simplified>招</simplified>
+    <traditional>招</traditional>
+  </character>
+  <character>
+    <simplified>朝</simplified>
+    <traditional>朝</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>zhao1_FV1</identifier>
+  <final>ao</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

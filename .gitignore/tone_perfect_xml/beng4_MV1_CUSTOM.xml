@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>beng</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>bèng by MV1</title>
+  <syllable>beng4</syllable>
+  <pinyin>bèng</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>蹦 蹦</character_forms>
+  <character_forms>迸 迸</character_forms>
+  <character_forms>泵 泵</character_forms>
+  <character>
+    <simplified>蹦</simplified>
+    <traditional>蹦</traditional>
+  </character>
+  <character>
+    <simplified>迸</simplified>
+    <traditional>迸</traditional>
+  </character>
+  <character>
+    <simplified>泵</simplified>
+    <traditional>泵</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>beng4_MV1</identifier>
+  <final>eng</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

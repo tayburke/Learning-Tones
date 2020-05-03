@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>can</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>càn by MV3</title>
+  <syllable>can4</syllable>
+  <pinyin>càn</pinyin>
+  <section>Unknown</section>
+  <initial>c</initial>
+  <character_forms>灿 燦</character_forms>
+  <character>
+    <simplified>灿</simplified>
+    <traditional>燦</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>can4_MV3</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

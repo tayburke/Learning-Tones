@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ban</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>bān by MV3</title>
+  <syllable>ban1</syllable>
+  <pinyin>bān</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>般 般</character_forms>
+  <character_forms>班 班</character_forms>
+  <character_forms>搬 搬</character_forms>
+  <character>
+    <simplified>般</simplified>
+    <traditional>般</traditional>
+  </character>
+  <character>
+    <simplified>班</simplified>
+    <traditional>班</traditional>
+  </character>
+  <character>
+    <simplified>搬</simplified>
+    <traditional>搬</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>ban1_MV3</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

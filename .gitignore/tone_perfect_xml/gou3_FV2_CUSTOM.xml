@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gou</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>gǒu by FV2</title>
+  <syllable>gou3</syllable>
+  <pinyin>gǒu</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>狗 狗</character_forms>
+  <character_forms>苟 苟</character_forms>
+  <character_forms>枸 枸</character_forms>
+  <character>
+    <simplified>狗</simplified>
+    <traditional>狗</traditional>
+  </character>
+  <character>
+    <simplified>苟</simplified>
+    <traditional>苟</traditional>
+  </character>
+  <character>
+    <simplified>枸</simplified>
+    <traditional>枸</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>gou3_FV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

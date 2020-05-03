@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>xin</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>xín by FV1</title>
+  <syllable>xin2</syllable>
+  <pinyin>xín</pinyin>
+  <section>Unknown</section>
+  <initial>x</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>FV1</speaker>
+  <gender>female</gender>
+  <identifier>xin2_FV1</identifier>
+  <final>in</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

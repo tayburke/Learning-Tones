@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>chuai</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>chuái by MV3</title>
+  <syllable>chuai2</syllable>
+  <pinyin>chuái</pinyin>
+  <section>Unknown</section>
+  <initial>ch</initial>
+  <character_forms>膗 膗</character_forms>
+  <character>
+    <simplified>膗</simplified>
+    <traditional>膗</traditional>
+  </character>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>chuai2_MV3</identifier>
+  <final>uai</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>san</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>sán by MV2</title>
+  <syllable>san2</syllable>
+  <pinyin>sán</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <lexical_gap>Yes</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>san2_MV2</identifier>
+  <final>an</final>
+  <frequent_character_count>0</frequent_character_count>
+  <lexical_type>Lexical Gap</lexical_type>
+</custom>

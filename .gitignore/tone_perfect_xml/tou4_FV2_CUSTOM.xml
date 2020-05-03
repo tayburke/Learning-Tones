@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>tou</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>tòu by FV2</title>
+  <syllable>tou4</syllable>
+  <pinyin>tòu</pinyin>
+  <section>Unknown</section>
+  <initial>t</initial>
+  <character_forms>透 透</character_forms>
+  <character>
+    <simplified>透</simplified>
+    <traditional>透</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV2</speaker>
+  <gender>female</gender>
+  <identifier>tou4_FV2</identifier>
+  <final>ou</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

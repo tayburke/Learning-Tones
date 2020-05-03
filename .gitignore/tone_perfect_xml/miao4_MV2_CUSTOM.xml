@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>miao</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>miào by MV2</title>
+  <syllable>miao4</syllable>
+  <pinyin>miào</pinyin>
+  <section>Unknown</section>
+  <initial>m</initial>
+  <character_forms>妙 妙</character_forms>
+  <character_forms>庙 廟</character_forms>
+  <character>
+    <simplified>妙</simplified>
+    <traditional>妙</traditional>
+  </character>
+  <character>
+    <simplified>庙</simplified>
+    <traditional>廟</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>miao4_MV2</identifier>
+  <final>iao</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

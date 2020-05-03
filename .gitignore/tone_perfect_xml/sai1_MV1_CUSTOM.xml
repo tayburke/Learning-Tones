@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>sai</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>sāi by MV1</title>
+  <syllable>sai1</syllable>
+  <pinyin>sāi</pinyin>
+  <section>Unknown</section>
+  <initial>s</initial>
+  <character_forms>塞 塞</character_forms>
+  <character_forms>腮 腮</character_forms>
+  <character>
+    <simplified>塞</simplified>
+    <traditional>塞</traditional>
+  </character>
+  <character>
+    <simplified>腮</simplified>
+    <traditional>腮</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>sai1_MV1</identifier>
+  <final>ai</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

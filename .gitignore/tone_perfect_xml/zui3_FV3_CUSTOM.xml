@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zui</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>zuǐ by FV3</title>
+  <syllable>zui3</syllable>
+  <pinyin>zuǐ</pinyin>
+  <section>Unknown</section>
+  <initial>z</initial>
+  <character_forms>嘴 嘴</character_forms>
+  <character>
+    <simplified>嘴</simplified>
+    <traditional>嘴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zui3_FV3</identifier>
+  <final>ui</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

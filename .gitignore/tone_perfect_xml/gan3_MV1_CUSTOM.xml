@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>gan</sound>
+  <level>Unknown</level>
+  <tone>3</tone>
+  <title>gǎn by MV1</title>
+  <syllable>gan3</syllable>
+  <pinyin>gǎn</pinyin>
+  <section>Unknown</section>
+  <initial>g</initial>
+  <character_forms>感 感</character_forms>
+  <character_forms>敢 敢</character_forms>
+  <character_forms>赶 趕</character_forms>
+  <character>
+    <simplified>感</simplified>
+    <traditional>感</traditional>
+  </character>
+  <character>
+    <simplified>敢</simplified>
+    <traditional>敢</traditional>
+  </character>
+  <character>
+    <simplified>赶</simplified>
+    <traditional>趕</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>gan3_MV1</identifier>
+  <final>an</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

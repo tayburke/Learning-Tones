@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>kuo</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>kuò by FV3</title>
+  <syllable>kuo4</syllable>
+  <pinyin>kuò</pinyin>
+  <section>Unknown</section>
+  <initial>k</initial>
+  <character_forms>阔 闊</character_forms>
+  <character_forms>括 括</character_forms>
+  <character_forms>扩 擴</character_forms>
+  <character>
+    <simplified>阔</simplified>
+    <traditional>闊</traditional>
+  </character>
+  <character>
+    <simplified>括</simplified>
+    <traditional>括</traditional>
+  </character>
+  <character>
+    <simplified>扩</simplified>
+    <traditional>擴</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>kuo4_FV3</identifier>
+  <final>uo</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>bi</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>bí by MV2</title>
+  <syllable>bi2</syllable>
+  <pinyin>bí</pinyin>
+  <section>Unknown</section>
+  <initial>b</initial>
+  <character_forms>鼻 鼻</character_forms>
+  <character>
+    <simplified>鼻</simplified>
+    <traditional>鼻</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>bi2_MV2</identifier>
+  <final>i</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

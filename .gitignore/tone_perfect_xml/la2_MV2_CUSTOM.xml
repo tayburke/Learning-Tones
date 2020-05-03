@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>la</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>lá by MV2</title>
+  <syllable>la2</syllable>
+  <pinyin>lá</pinyin>
+  <section>Unknown</section>
+  <initial>l</initial>
+  <character_forms>剌 剌</character_forms>
+  <character>
+    <simplified>剌</simplified>
+    <traditional>剌</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>la2_MV2</identifier>
+  <final>a</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>ju</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>jù by MV1</title>
+  <syllable>ju4</syllable>
+  <pinyin>jù</pinyin>
+  <section>Unknown</section>
+  <initial>j</initial>
+  <character_forms>句 句</character_forms>
+  <character_forms>据 據</character_forms>
+  <character_forms>具 具</character_forms>
+  <character>
+    <simplified>句</simplified>
+    <traditional>句</traditional>
+  </character>
+  <character>
+    <simplified>据</simplified>
+    <traditional>據</traditional>
+  </character>
+  <character>
+    <simplified>具</simplified>
+    <traditional>具</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV1</speaker>
+  <gender>male</gender>
+  <identifier>ju4_MV1</identifier>
+  <final>u</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>qian</sound>
+  <level>Unknown</level>
+  <tone>1</tone>
+  <title>qiān by MV3</title>
+  <syllable>qian1</syllable>
+  <pinyin>qiān</pinyin>
+  <section>Unknown</section>
+  <initial>q</initial>
+  <character_forms>千 千</character_forms>
+  <character_forms>牵 牽</character_forms>
+  <character_forms>签 簽</character_forms>
+  <character>
+    <simplified>千</simplified>
+    <traditional>千</traditional>
+  </character>
+  <character>
+    <simplified>牵</simplified>
+    <traditional>牽</traditional>
+  </character>
+  <character>
+    <simplified>签</simplified>
+    <traditional>簽</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>qian1_MV3</identifier>
+  <final>ian</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

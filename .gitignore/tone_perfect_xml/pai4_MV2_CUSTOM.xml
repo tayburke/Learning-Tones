@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>pai</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>pài by MV2</title>
+  <syllable>pai4</syllable>
+  <pinyin>pài</pinyin>
+  <section>Unknown</section>
+  <initial>p</initial>
+  <character_forms>派 派</character_forms>
+  <character_forms>湃 湃</character_forms>
+  <character>
+    <simplified>派</simplified>
+    <traditional>派</traditional>
+  </character>
+  <character>
+    <simplified>湃</simplified>
+    <traditional>湃</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV2</speaker>
+  <gender>male</gender>
+  <identifier>pai4_MV2</identifier>
+  <final>ai</final>
+  <frequent_character_count>2</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

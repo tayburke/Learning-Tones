@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>nang</sound>
+  <level>Unknown</level>
+  <tone>2</tone>
+  <title>náng by MV3</title>
+  <syllable>nang2</syllable>
+  <pinyin>náng</pinyin>
+  <section>Unknown</section>
+  <initial>n</initial>
+  <character_forms>囊 囊</character_forms>
+  <character>
+    <simplified>囊</simplified>
+    <traditional>囊</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>MV3</speaker>
+  <gender>male</gender>
+  <identifier>nang2_MV3</identifier>
+  <final>ang</final>
+  <frequent_character_count>1</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<custom>
+  <sound>zi</sound>
+  <level>Unknown</level>
+  <tone>4</tone>
+  <title>zì by FV3</title>
+  <syllable>zi4</syllable>
+  <pinyin>zì</pinyin>
+  <section>Unknown</section>
+  <initial>zi</initial>
+  <character_forms>自 自</character_forms>
+  <character_forms>字 字</character_forms>
+  <character>
+    <simplified>自</simplified>
+    <traditional>自</traditional>
+  </character>
+  <character>
+    <simplified>字</simplified>
+    <traditional>字</traditional>
+  </character>
+  <lexical_gap>No</lexical_gap>
+  <speaker>FV3</speaker>
+  <gender>female</gender>
+  <identifier>zi4_FV3</identifier>
+  <final>Null</final>
+  <frequent_character_count>4+</frequent_character_count>
+  <lexical_type>Lexical Tone</lexical_type>
+</custom>
