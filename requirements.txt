@@ -1,0 +1,4 @@
+sounddevice
+librosa
+tensorflow
+keras

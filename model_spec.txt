@@ -1,0 +1,4 @@
+No. of coefficients: 80.0
+No. of epochs: 250.0
+No. of dropout_rate: 0.3
+Model Accuracy from 10-Fold cross validation: 0.9809959530830384
