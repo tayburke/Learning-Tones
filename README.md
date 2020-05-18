@@ -56,7 +56,7 @@ Finally, you are ready to start classifying your audio into the four tones of Ma
 > pretty accurate! You can toggle between this section and the section above as many times as they like! 
 
 - [ ] **Delete all user recordings**
-> At the end, you can delete all their recordings for storage space purposes by running the last block of code.  
+> At the end, you can delete all recordings for storage space purposes by running the last block of code.  
 
 :+1: Have fun and good luck in learning Mandarin tones!
 
