@@ -12,7 +12,9 @@ Additional files needed for download:
 
 ## Opening LearningTones.ipynb
 First, downlowd all the files as well as the notebook into a folder or location together. Since this is a jupyter notebook, it can best be run from the termial/command prompt. If one does not have jupyter notebooks installed, they can use [google's online notebook service](https://cloud.google.com/ai-platform-notebooks/) through their google account, another IDE that is jupyter notebook compatible (ex: canopy), or by installing jupyter notebooks. The latter is the easiest and can be done through the command prompt by entering the following without quotations: 
-~pip install notebook~ 
+```
+pip install notebook
+``` 
 Once installed, either open up jupyter notebooks through the terminal by entering "jupyter notebook" and navigating to the where "LearningTones.ipynb" is located on your disk or cd to the location where "LearningTones.ipynb" is and entering "jupyter notebook LearningTones.ipynb" in the command prompt. Jupyter notebooks will open on a web browser page, but no fear, it does not require the internet-- it uses a port on the local host (your computer) to run on the browser page. [This website](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) will be helpful in getting jupyter notebooks up and running if you are facing any issues. 
 
 Whenever I refer to "running" cells (i.e blocks of code), I just mean clicking the the little play button located at the top of the page. If you find any issues, how to navigate jupyter notebooks itself can be found [here](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks).
