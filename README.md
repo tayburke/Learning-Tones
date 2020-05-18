@@ -38,7 +38,7 @@ The package should be installed properly after that. If there are any issues fee
 Finally, you are ready to start classifying your audio into the four tones of Mandarin Chinese. 
 
 - [ ] **Create folder to hold user audio**
-> You will create a folder to hold all your audio files. This just creates a folder to store the audio recordings for the  >current session. In case you want to always be able to refer back to your learning over time, do the following: remove the >line `shutil.rmtree(user_audio_directory)' under **Create folder to hold user audio** and all the code under the section >titled **Delete all user recordings**. 
+>You will create a folder to hold all your audio files. This just creates a folder to store the audio recordings for the  >current session. In case you want to always be able to refer back to your learning over time, do the following: remove the >line shutil.rmtree(user_audio_directory) under **Create folder to hold user audio** and all the code under the section titled >**Delete all user recordings**. 
 
 - [ ] **Record user's voice**
 
