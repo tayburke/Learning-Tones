@@ -9,6 +9,8 @@ Access was gained to the large dataset: [Tone Perfect: Multimodal Database for M
 # The Model
 Given that the data is non-linear, sequential across time, and labeled, we chose to use a RNN, more specifically, a Long Short Term Memory model (LSTM). As supervised learning algorithms, these are specifically useful for unsegmented, continuous speech. 
 
+![Model](Architecture.png)
+
 The model was trained on training data and validation data. Initial parameter testings showed that a fine-tuning of the hyper-parameters was necessary for full optimization. 
 
 ## Optimization 
